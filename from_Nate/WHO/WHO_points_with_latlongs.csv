@@ -1,0 +1,161 @@
+CODE,Aire de sante,Formation sanitaire (HF),Appartenance,Code GPS,gps2,latitude,longitude,area
+001-1,ADRA 31,Cs Adra Bulaya,Confessionnel,2-11-47959,27-64097,-11.47959,27.64097,kafubu
+001-2,ADRA 31,Cs Kyenge,Private,2-11-47660,27-64102,-11.47660,27.64102,kafubu
+001-3,ADRA 31,Cs Mansiamina,Confessionnel,2-11-50182,27-63351,-11.50182,27.63351,kafubu
+001-4,ADRA 31,Cs Wazo Uzuri,Private,2-11-50089,27-63305,-11.50089,27.63305,kafubu
+002-1,ADRA 41,Cs Adra 41,Confessionnel,2-11-45033,27-71366,-11.45033,27.71366,kafubu
+002-2,ADRA 41,Cs Nkumanwa,Public,2-11-45244,27-70676,-11.45244,27.70676,kafubu
+002-3,ADRA 41,Cs Evabuka,Private,2-11-50321,27-86339,-11.50321,27.86339,kafubu
+002-4,ADRA 41,Cs Maxsemu,Public,2-11-33074,27-83671,-11.33074,27.83671,kafubu
+003-1,KAFUBU,Cs Kafubu,Public,2-11-74015,27-56458,-11.74015,27.56458,kafubu
+003-2,KAFUBU,Cs Kilobelobe,Public,2-11-70613,27-57479,-11.70613,27.57479,kafubu
+003-3,KAFUBU,Ps du peuple Kamakanga,Public,2-11-82337,27-58598,-11.82337,27.58598,kafubu
+004-NA,KALUNDA,,,,,,,kafubu
+005-1,KIKANDA,Cs Kikanda,Public,2-11-54648,27-61006,-11.54648,27.61006,kafubu
+005-2,KIKANDA,Ps Kasombo 2,Private,2-11-56377,27-65429,-11.56377,27.65429,kafubu
+005-3,KIKANDA,Centre Medico-Social de Sapunga,Confessionnel,2-11-53787,27-56819,-11.53787,27.56819,kafubu
+006-1,KIKWANDA,Cs Kikwanda,Confessionnel,2-11-37501,27-38422,-11.37501,27.38422,kafubu
+007-1,KINAMA,Cs Mission Cathlique Kinama,Confessionnel,2-11-47970,28-30706,-11.47970,28.30706,kafubu
+007-2,KINAMA,Ps Ferme Katumba,Private,2-11-55972,28-12422,-11.55972,28.12422,kafubu
+008-1,KIWELE,Cs Kiwele,Public,2-11-35200,28-45606,-11.35200,28.45606,kafubu
+009-1,MAKULO,Cs Makulo,Private,2-11-78669,27-64661,-11.78669,27.64661,kafubu
+010-1,MULYASHI,Cs Mulyashi,Confessionnel,2-11-89750,27-87718,-11.89750,27.87718,kafubu
+010-2,MULYASHI,Cs Dilanda,Confessionnel,2-11-95506,27-79613,-11.95506,27.79613,kafubu
+011-1,SAMBWA,Cs Ste-Rita Sambwa,Confessionnel,2-11-79133,27-64358,-11.79133,27.64358,kafubu
+011-2,SAMBWA,Ps Munama Pont,Private,NOT TAKEN,NOT TAKEN,-T TAKEN,NOT TAKEN,kafubu
+012-1,SHINDAIKA,Ps Mutambarile,Private,2-11-69123,27-65254,-11.69123,27.65254,kafubu
+013-1,Kaboka,Cs Kaboka,Public,2-10-38249,28-61346,-10.38249,28.61346,kasenga
+014-1,Chibambo,Cs Chimbambo,Confessionnel,2-10-28375,28-60524,-10.28375,28.60524,kasenga
+014-2,Chibambo,Dispensaire Chibambo,Public,2-10-29077,28-60617,-10.29077,28.60617,kasenga
+014-3,Chibambo,Ps Kiba,Public,2-10-25336,28-58626,-10.25336,28.58626,kasenga
+015-1,Mfuta,Cs Mfuta,Public,2-10-23716,28-54033,-10.23716,28.54033,kasenga
+016-1,Chalwe,Cs Chalwe,Public,2-10-57615,28-65732,-10.57615,28.65732,kasenga
+017-1,Kisamamba,Cs Kisamamba,Public,2-10-49225,28-62039,-10.49225,28.62039,kasenga
+018-1,Nkambo,Cs Nkambo Kalokoto,Public,2-10-18126,28-55120,-10.18126,28.55120,kasenga
+019-1,Mwaba,Cs Mwaba,Public,2-10-23681,28-40571,-10.23681,28.40571,kasenga
+020-1,Kasomeno,Cs St-Jean,Confessionnel,2-10-75546,28-28593,-10.75546,28.28593,kasenga
+021-1,Sapwe,Cs Sapwe,Confessionnel,2-10-95923,28-16781,-10.95923,28.16781,kasenga
+022-1,Kinika,Cs Kinika,Public,2-10-46769,28-13074,-10.46769,28.13074,kasenga
+023-1,Kabyasha,Cs Kabyasha,Public,2-10-28948,28-12394,-10.28948,28.12394,kasenga
+024-1,Lukeka,Cs Lukeka,Public,2-10-15752,28-12254,-10.15752,28.12254,kasenga
+024-2,Lukeka,Ps Maungano Ilunga,Private,2-10-17597,28-12381,-10.17597,28.12381,kasenga
+025-1,Lupembe,Cs Lupembe,Public,2-09-96786,28-11049,-09.96786,28.11049,kasenga
+026-1,Kabamba Kuku,Cs Kabamba Kuku,Public,2-10-01989,28-32447,-10.01989,28.32447,kasenga
+027-NA,Mungomba,,,,,,,kasenga
+028-1,Kashobwe,Cs Kashobwe,Public,2-09-66756,28-62171,-09.66756,28.62171,kasenga
+029-1,Nkuba Kawama,Cs Nkuba Kawama,Public,2-09-52821,28-44272,-09.52821,28.44272,kasenga
+030-1,Kabimbi,Cs Kabimbi,Public,2-09-95323,28-62185,-09.95323,28.62185,kasenga
+031-1,Mission,Cs Mission,Public,2-10-40213,28-60975,-10.40213,28.60975,kasenga
+032-1,Nkole,Cs Nkole,Public,2-09-37120,28-50098,-09.37120,28.50098,kasenga
+033-1,Kikungu,Cs Kikungu,Public,2-10-33583,28-60596,-10.33583,28.60596,kasenga
+034-1,Mukupa,Cs Mukupa,Public,2-09-63166,28-25290,-09.63166,28.25290,kilwa
+034-2,Mukupa,Ps Mukobe,Public,2-09-68732,28-22498,-09.68732,28.22498,kilwa
+035-1,Mulinde,Cs Mulinde,Confessionnel,2-09-44140,28-20674,-09.44140,28.20674,kilwa
+035-2,Mulinde,Cs Katoka,Public,2-09-35961,28-21946,-09.35961,28.21946,kilwa
+036-1,Kilwa,Cs Kilwa,Public,2-09-27503,28-33782,-09.27503,28.33782,kilwa
+036-2,Kilwa,Ps Notre Dame de Perpetuel Secours Katenge,Confessionnel,2-09-27710,28-33634,-09.27710,28.33634,kilwa
+036-3,Kilwa,Ps Uzima II,Private,2-09-29238,28-33726,-09.29238,28.33726,kilwa
+036-4,Kilwa,Ps Balonda Diwi,Private,2-09-23158,28-28574,-09.23158,28.28574,kilwa
+037-1,Kyaka,Cs Kyaka,Confessionnel,2-09-18517,28-28349,-09.18517,28.28349,kilwa
+038-1,Mubanga,Cs Mubanga,Public,2-09-08610,28-33543,-09.08610,28.33543,kilwa
+038-2,Mubanga,Ps Uwezo,Private,2-09-09776,28-30097,-09.09776,28.30097,kilwa
+039-1,Kasolo,Cs Kasolo,Public,2-09-04293,28-39916,-09.04293,28.39916,kilwa
+040-1,Lusalala,Cs Lusalala,Public,2-08-96223,28-47562,-08.96223,28.47562,kilwa
+041-1,Lukonzolwa,Cs Lukonzolwa,Public,2-08-78175,28-63831,-08.78175,28.63831,kilwa
+041-2,Lukonzolwa,Cs Kilombwa,Confessionnel,2-08-78478,28-63678,-08.78478,28.63678,kilwa
+042-1,Lwanza,Cs Lwanza,Confessionnel,2-08-71542,28-70347,-08.71542,28.70347,kilwa
+043-1,Dubie,CsR Dubie,Confessionnel,2-08-58494,28-52756,-08.58494,28.52756,kilwa
+043-2,Dubie,Cs Dubie,Confessionnel,2-08-58488,28-52733,-08.58488,28.52733,kilwa
+044-1,Kato,Cs Kato,Public,2-08-48739,28-42070,-08.48739,28.42070,kilwa
+044-2,Kato,Cs Mutendele,Public,2-08-41461,28-21743,-08.41461,28.21743,kilwa
+045-1,Kyona,Cs Kyona,Public,2-08-59800,28-46876,-08.59800,28.46876,kilwa
+046-1,Kabangu,Cs Kabangu,Public,2-08-73291,28-20115,-08.73291,28.20115,kilwa
+047-1,Kasongo Mwana,Cs Kasongo Mwana,Public,2-08-72900,28-85766,-08.72900,28.85766,kilwa
+048-NA,Mwepu Ntanda,,,,,,,kilwa
+049-1,Dikulushi,Cs Dikulushi,Public,2-08-91772,28-25801,-08.91772,28.25801,kilwa
+050-1,Mulendwa,Cs Kawese,Private,2-09-23673,27-98651,-09.23673,27.98651,kilwa
+051-1,Nsonga,Cs Nsonga,Public,2-09-68539,28-03240,-09.68539,28.03240,kilwa
+052-1,Kampangwe,Cs Kampangwe,Public,2-08-39912,28-02671,-08.39912,28.02671,kilwa
+053-NA,Kakinga,,,,,,,kilwa
+054-1,BETTY,Cs Betty,Public,2-11-75437,27-24967,-11.75437,27.24967,kipushi
+054-2,BETTY,Cs Joby,Private,2-11-75601,27-24768,-11.75601,27.24768,kipushi
+054-3,BETTY,Cs St Charles,Confessionnel,2-11-75902,27-24962,-11.75902,27.24962,kipushi
+055-1,SAPIN,Cs La Pensee,Private,2-11-45343,27-15278,-11.45343,27.15278,kipushi
+055-2,SAPIN,Cs Sapin,Private,2-11-36721,27-30801,-11.36721,27.30801,kipushi
+056-NA,GCM,,,,,,,kipushi
+057-1,RAPHAEL,Cs Afia Yetu,Private,2-11-7600,27-23881,-11.7600,27.23881,kipushi
+057-2,RAPHAEL,Cs CMC,Private,2-11-75362,27-23416,-11.75362,27.23416,kipushi
+057-3,RAPHAEL,Cs St Raphael,Private,2-11-75610,27-23828,-11.75610,27.23828,kipushi
+057-4,RAPHAEL,Centre Medical Pacifique,Private,2-11-45672,27-14500,-11.45672,27.14500,kipushi
+058-1,FAMILLE,Cs Ste Famille,Confessionnel,2-11-77574,27-24762,-11.77574,27.24762,kipushi
+059-1,MIMBULU,Cs Mimbulu,Public,2-11-73547,27-34322,-11.73547,27.34322,kipushi
+060-1,Kawama,Cs Ubumi,Confessionnel,2-11-77561,27-24750,-11.77561,27.24750,kipushi
+061-1,TUMBWE,Cs Tumbwe,Private,2-11-47293,27-38789,-11.47293,27.38789,kipushi
+062-1,KIPOPO,Cs Kipopo,Private,2-11-55001,27-32946,-11.55001,27.32946,kipushi
+063-1,Mukoma,Cs Mukoma,Public,2-11-65039,27-32530,-11.65039,27.32530,kipushi
+063-2,Mukoma,Ps de l'Esperance,Private,2-11-65256,27-32254,-11.65256,27.32254,kipushi
+064-NA,Mwawa,,,,,,,kipushi
+065-1,Lumwana,Cs Fikupa I,Private,2-11-56989,27-31957,-11.56989,27.31957,kipushi
+066-1,LUMATA,Cs Lumata,Private,2-12-07543,27-51224,-12.07543,27.51224,kipushi
+066-2,LUMATA,Cs Radem,ONG,2-12-08033,27-51016,-12.08033,27.51016,kipushi
+066-3,LUMATA,Ps Dieu Merci,Private,2-12-08140,27-51191,-12.08140,27.51191,kipushi
+067-1,MUSOSHI,Cs Musoshi,Public,2-12-27149,27-38561,-12.27149,27.38561,kipushi
+068-1,Mabaya,Cs Kanyaka,Private,2-11-49033,27-27801,-11.49033,27.27801,kipushi
+068-2,Mabaya,Ps Afia Bora de Dilefwe,Private,2-11-45609,27-17992,-11.45609,27.17992,kipushi
+069-1,Lukafu,Cs Mayeba ,Private,NOT TAKEN,NOT TAKEN,-T TAKEN,NOT TAKEN,lukafu
+069-2,Lukafu,CsR Lukafu,Confessionnel,2-10-51748,27-55205,-10.51748,27.55205,lukafu
+070-1,Kyenge,Cs St-Michel,Confessionnel,2-10-57169,27-55506,-10.57169,27.55506,lukafu
+071-1,Lubuko,Cs St-Fran�ois D'Assise,Confessionnel,2-10-50698,27-56233,-10.50698,27.56233,lukafu
+072-1,Malambwe,Cs Malambwe,Public,2-11-19009,27-93140,-11.19009,27.93140,lukafu
+073-1,Nkonko,Cs St-Gr�goire,Confessionnel,2-10-16629,27-45953,-10.16629,27.45953,lukafu
+074-1,Mukebo,Cs Masala Mukebo,Confessionnel,2-10-10326,27-37555,-10.10326,27.37555,lukafu
+075-1,Lubanda,Cs Lubanda,Public,2-11-06993,27-92030,-11.06993,27.92030,lukafu
+076-1,Minga,Cs Minga,Public,2-10-13124,27-95194,-10.13124,27.95194,lukafu
+077-1,Mupanda Mukenge,Cs Mupanda Mukenge,Public,2-10-01439,27-22146,-10.01439,27.22146,lukafu
+078-1,Lutanbula-Lwalaba,Cs Lutandula,Public,2-10-87688,27-87205,-10.87688,27.87205,lukafu
+079-1,Mwemena,Cs St-Benoit,Confessionnel,NOT TAKEN,NOT TAKEN,-T TAKEN,NOT TAKEN,lukafu
+080-1,Kamakanga,Cs Kamakanga,Public,2-08-53168,28-83664,-08.53168,28.83664,pweto
+081-1,Boma,CsR Katabe,Public,2-08-48047,28-91238,-08.48047,28.91238,pweto
+081-2,Boma,Cs Boma,Confessionnel,2-08-47169,28-90100,-08.47169,28.90100,pweto
+082-1,Sant�,Cs Sant�,Public,2-08-43674,28-94694,-08.43674,28.94694,pweto
+082-2,Sant�,Ps Mutita,Public,2-08-43658,28-94784,-08.43658,28.94784,pweto
+083-1,Chalanshi,Cs Chalanshi,Public,2-08-49766,28-96006,-08.49766,28.96006,pweto
+083-2,Chalanshi,Ps Shomboshi,Confessionnel,2-08-40824,28-93679,-08.40824,28.93679,pweto
+084-1,Chamfubu,Cs Chamfubu,Private,2-08-43726,28-91386,-08.43726,28.91386,pweto
+085-1,Kakonona,Cs Kakonona,Public,2-08-36796,28-89331,-08.36796,28.89331,pweto
+085-2,Kakonona,Ps Kinengo,Public,NOT TAKEN,NOT TAKEN,-T TAKEN,NOT TAKEN,pweto
+086-1,Kizabi,Cs Kizabi,Public,2-08-04353,29-17965,-08.04353,29.17965,pweto
+087-1,Kapulo,Cs Kapulo,Public,2-08-30668,29-24550,-08.30668,29.24550,pweto
+087-2,Kapulo,Ps Kasanbala,Public,2-08-32631,29-12769,-08.32631,29.12769,pweto
+088-1,Kapondo,Cs Kapondo,Public,2-08-12182,29-59784,-08.12182,29.59784,pweto
+089-1,Mwenge,Cs Mwenge,Public,2-07-95769,28-71378,-07.95769,28.71378,pweto
+090-1,Kasama,Cs Kasama,Public,2-08-11079,28-88640,-08.11079,28.88640,pweto
+090-2,Kasama,Ps Kabanza,Public,2-08-06105,28-79783,-08.06105,28.79783,pweto
+091-NA,Kasongo Kamulumbi,,,,,,,pweto
+092-1,Mwela,Cs Mwela,Public,2-08-04225,29-59903,-08.04225,29.59903,pweto
+093-1,Kinkalungu,Cs Kinkalungu,Public,2-08-22612,29-46759,-08.22612,29.46759,pweto
+093-2,Kinkalungu,Ps Chemya,Private,2-08-23220,29-45740,-08.23220,29.45740,pweto
+094-1,Katonta,Cs Katonta,Public,2-08-43939,28-63045,-08.43939,28.63045,pweto
+095-1,Mumbalanga,Cs Mumbalanga,Public,2-08-65051,28-72517,-08.65051,28.72517,pweto
+095-2,Mumbalanga,Cs Nzwiba,Public,2-08-62185,28-75727,-08.62185,28.75727,pweto
+096-1,Kasumbalesa,Cs Kasumbalesa Douane,Public,2-12-15537,27-48077,-12.15537,27.48077,sakania
+096-2,Kasumbalesa,Cs M�dical Apocalypse ,Private,2-12-15754,27-47447,-12.15754,27.47447,sakania
+096-3,Kasumbalesa,Cs Rosalie,Private,2-12-15499,27-47994,-12.15499,27.47994,sakania
+096-4,Kasumbalesa,Cs Amani,Private,2-12-15082,27-47838,-12.15082,27.47838,sakania
+096-5,Kasumbalesa,Cs Ngaliema,Private,2-12-15455,27-47816,-12.15455,27.47816,sakania
+097-1,Bwafwano,Cs Bwafwano,Public,2-12-12265,27-48122,-12.12265,27.48122,sakania
+098-1,Kitotwe,Cs Kinsenda,Private,2-12-15403,27-57994,-12.15403,27.57994,sakania
+099-1,Tshinsenda,Cs Tshinsenda,Public,2-12-28783,27-57809,-12.28783,27.57809,sakania
+100-1,Mokambo,CsR Mokambo,Public,2-12-43178,28-34408,-12.43178,28.34408,sakania
+100-2,Mokambo,Cs FMA Mokambo,Public,2-12-43101,28-34320,-12.43101,28.34320,sakania
+101-1,Mwenda,Cs Mwenda,Public,2-11-98659,28-73411,-11.98659,28.73411,sakania
+102-1,Marie Auxilliatrice,Cs FMA Marie Auxilliatrice,Confessionnel,2-12-45009,28-34480,-12.45009,28.34480,sakania
+102-2,Marie Auxilliatrice,Dispensaire Sakania,Public,2-12-44499,28-33615,-12.44499,28.33615,sakania
+102-3,Marie Auxilliatrice,Ps Lukangaba,Public,2-12-51013,28-33096,-12.51013,28.33096,sakania
+103-1,Mbofu,Cs Mbofu,Public,2-12-58577,28-48907,-12.58577,28.48907,sakania
+104-1,Kipusha,Cs kipusha,Confessionnel,2-12-56566,29-27549,-12.56566,29.27549,sakania
+104-2,Kipusha,Ps Mopala,Public,2-12-52385,29-39294,-12.52385,29.39294,sakania
+105-1,Kakyelo,Cs Kakyelo,Confessionnel,2-12-21156,29-35934,-12.21156,29.35934,sakania
+105-2,Kakyelo,Ps Mpandala,Confessionnel,2-12-37528,29-33002,-12.37528,29.33002,sakania
+106-NA,Muhona,,,,,,,sakania
+107-1,Kabunda,Cs Kabunda,Public,2-12-26846,29-23757,-12.26846,29.23757,sakania

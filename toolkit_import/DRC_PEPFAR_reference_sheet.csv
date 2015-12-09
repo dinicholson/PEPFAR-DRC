@@ -1,0 +1,984 @@
+uid,ADM1_Province,ADM2_District,ADM3_Territory_Commune,Health_District,Facility_Name,Facility_Name_without_acronym,long,lat,placetype,placename,code,Parent UID,uuid
+xqLX2af0Zy2,Haut-Katanga,Haut-Katanga,Kambove,Kambove,Dikula ,Dikula,24.51827,-8.47584,populated place,Dikula,Pepfar.25,mj8vc80DZnW,36d1a626-0288-4cee-9c2d-e31b676530cf
+Irk0ptCenwf,Haut-Katanga,Haut-Katanga,Kambove,Kambove,Disanga 3 ,Disanga 3,,,,,pepfar.26,mj8vc80DZnW,349daf24-4c2a-406e-b2ce-069f6e6b60ce
+PuCBc2LaiiL,Haut-Katanga,Haut-Katanga,Kambove,Kambove,Kabungu ,Kabungu,22.88984,-9.28873,populated place,Kabungu,pepfar.27,mj8vc80DZnW,bd5b6809-974d-497f-8711-eb307df55115
+Qd0LDMrLOK1,Haut-Katanga,Haut-Katanga,Kasenga,Kasenga,Chibambo ,Chibambo,28.58509,-10.25182,populated place,Tshibambo,pepfar.50,KtqjtVhTZdP,25f4326a-fe7f-4d1f-a7c1-2c707d764a57
+y48e8fHScH9,Haut-Katanga,Haut-Katanga,Kasenga,Kasenga,Kaboka ,Kaboka,20.8474,-7.0407,populated place,Kabola,pepfar.51,KtqjtVhTZdP,1522b701-970b-4768-994e-eeff971d44e2
+OHRCCDQUOZo,Haut-Katanga,Haut-Katanga,Kasenga,Kasenga,Kaboka HGR,Kaboka,20.8474,-7.0407,populated place,Kabola,pepfar.48,KtqjtVhTZdP,16458d66-a967-4a59-8c9b-08b97cdf214a
+WEBhAOXHXwE,Haut-Katanga,Haut-Katanga,Kasenga,Kasenga,Kikungu ,Kikungu,28.61667,-10.35,populated place,Kikungu,pepfar.52,KtqjtVhTZdP,45c4c8fb-3e4a-4031-86c8-e3af9efc685a
+eUVW5rllryb,Haut-Katanga,Haut-Katanga,Kasenga,Kasenga,Kisamamba ,Kisamamba,28.63333,-10.51667,populated place,Kisamamba,pepfar.53,KtqjtVhTZdP,05bee3c0-71f9-491b-8985-c73b4a81a110
+R1jBV1wkWmC,Haut-Katanga,Haut-Katanga,Kasenga,Kasenga,Mission ,Mission,,,,,pepfar.49,KtqjtVhTZdP,6a46dbdf-07e1-4404-8c08-c91ade7f0bd8
+wbTJi2O5VH6,Haut-Katanga,Haut-Katanga,Kasenga,Kasenga,St Jean (Kisameno) ,St Jean (Kisameno),,,,,pepfar.47,KtqjtVhTZdP,cabe382e-a8c5-42de-8937-05462b6a1a86
+yIXpWHWpuF5,Haut-Katanga,Haut-Katanga,Kikula,Kikula,Carmel CM,Carmel,,,,,pepfar.75,jf7kv5ZPbM2,a635c313-f6dc-4d24-970b-086c41443c99
+ybOz2yR7aSl,Haut-Katanga,Haut-Katanga,Kikula,Kikula,Kibali,Kibali,27.64054,-4.55089,populated place,Kibali,NULL,jf7kv5ZPbM2,96e3a093-25bb-47c8-a75b-e905f571f14d
+qtqak040zEp,Haut-Katanga,Haut-Katanga,Kikula,Kikula,Petwe ,Petwe,,,,,NULL,jf7kv5ZPbM2,1a0b184c-2b32-4abf-8563-7fb1318eab68
+PqomxKe0sXq,Haut-Katanga,Haut-Katanga,Kikula,Kikula,Zaina CM,Zaina,,,,,pepfar.74,jf7kv5ZPbM2,5f723649-403c-48c9-8fb2-1f393ebb153e
+S6Jwqgm4mgA,Haut-Katanga,Haut-Katanga,Kipushi,Kafubu,Centre De SantÃ© 41,Centre De SantÃ© 41,,,,,pepfar.20,z6HL5QkdXaU,a0fd9923-5695-4c7e-9e44-604dcdcff123
+fJeUpi5Vxbu,Haut-Katanga,Haut-Katanga,Kipushi,Kafubu,Kafubu ,Kafubu,27.49618,-11.72111,populated place,Katubu,pepfar.21,z6HL5QkdXaU,38cd60dc-660a-4d0c-ae1e-6d3b979da3c1
+Qk3asWARy05,Haut-Katanga,Haut-Katanga,Kipushi,Kafubu,Sambwa,Sambwa,26.74934,-11.18933,triangulation station,Sambwa,pepfar.22,z6HL5QkdXaU,54ab49b5-afb0-4f33-9acb-b8b7b7827a8a
+GlpGQM0o10h,Haut-Katanga,Haut-Katanga,Kipushi,Kipushi,Betty HGR,Betty,,,,,pepfar.86,pCODWiMvHX4,a299af48-534c-43b8-9af1-ba9a7179345b
+hF7JJSIOegr,Haut-Katanga,Haut-Katanga,Kipushi,Kipushi,Bety,Bety,,,,,NULL,pCODWiMvHX4,8ba9b815-7303-4825-8802-9adb47fba502
+YvSjNnfcg8s,Haut-Katanga,Haut-Katanga,Kipushi,Kipushi,Gecamines Kipushi,Gecamines Kipushi,,,,,pepfar.87,pCODWiMvHX4,b322948f-9b5f-43c1-aa07-e101ef2b8242
+ms9F6pXWIAv,Haut-Katanga,Haut-Katanga,Kipushi,Kipushi,Kawama - Kipushi ,Kawama - Kipushi,,,,,pepfar.88,pCODWiMvHX4,8d4563a4-d81a-41dc-8b83-2058e135dc7c
+vVkrAFZD4P3,Haut-Katanga,Haut-Katanga,Kipushi,Kipushi,Lumata ,Lumata,27.51536,-12.0902,populated place,Lumata,pepfar.89,pCODWiMvHX4,ff2ccc5a-7c9e-4f2e-8171-e80f7ebce163
+jnRtGp1FZBG,Haut-Katanga,Haut-Katanga,Kipushi,Kipushi,St Charles ,St Charles,,,,,pepfar.90,pCODWiMvHX4,d88262dd-60e5-416f-b553-8ee80c2653f8
+fwdhh7Zrz1C,Haut-Katanga,Haut-Katanga,Kipushi,Kipushi,Tumbwe ,Tumbwe,29.25,-7.53333,populated place,Tumbwe,pepfar.91,pCODWiMvHX4,548a6904-e70d-4965-b604-082a52b8b8c3
+eg8eKslpLF5,Haut-Katanga,Haut-Katanga,Likasi,Likasi,Amani-Likasi ,Amani-Likasi,,,,,pepfar.108,PgK6EwJ52Ji,ccad759a-3a7f-4422-8d09-8cb1e6db1d21
+wziynJudfXm,Haut-Katanga,Haut-Katanga,Likasi,Likasi,Asvie CM,Asvie,,,,,pepfar.104,PgK6EwJ52Ji,28115d8e-15c2-4947-84e3-1ece0c6c2676
+VqnwROtoaHz,Haut-Katanga,Haut-Katanga,Likasi,Likasi,Kupuluka ,Kupuluka R,,,,,pepfar.106,PgK6EwJ52Ji,177738fe-cbbe-471f-b416-658d246319b8
+uugDKLfnDV6,Haut-Katanga,Haut-Katanga,Likasi,Likasi,La Grace - Likasi CM,La Grace - Likasi,,,,,NULL,PgK6EwJ52Ji,73a9b09b-ddd5-4330-ad1b-7277cb28c215
+o0Ipvtx6zRo,Haut-Katanga,Haut-Katanga,Likasi,Likasi,Ovika ,Ovika,,,,,pepfar.109,PgK6EwJ52Ji,5fa8b68f-686e-4905-a372-797d9b585974
+u4yhuecExBb,Haut-Katanga,Haut-Katanga,Likasi,Likasi,Panda GCM,Panda G,,,,,NULL,PgK6EwJ52Ji,116408b0-1070-4c5f-ac8a-05d599c59202
+vF3ergOK9nT,Haut-Katanga,Haut-Katanga,Likasi,Likasi,SNCC Likasi HGR,SNCC Likasi,,,,,pepfar.103,PgK6EwJ52Ji,6051380b-5635-4f79-9331-12edac1f398b
+C6iIOHyd8LM,Haut-Katanga,Haut-Katanga,Likasi,Likasi,Shekinah CM,Shekinah,,,,,pepfar.105,PgK6EwJ52Ji,4ddba457-cb47-4d1e-8692-049d20e847e2
+W4NU5QzpmGP,Haut-Katanga,Haut-Katanga,Likasi,Likasi,Simba ,Simba,30.3,-7.9,populated place,Simba,pepfar.102,PgK6EwJ52Ji,7bfc94f0-b8fe-487f-8341-43c4e8238401
+INHduMB4ZEh,Haut-Katanga,Haut-Katanga,Likasi,Likasi,Theresia ,Theresia,,,,,pepfar.107,PgK6EwJ52Ji,bcd5709d-b8a9-4768-b587-d3bd46b1f4da
+Ig4M9J7MBO2,Haut-Katanga,Haut-Katanga,Panda,Panda,Polyclinique Socidex ,Polyclinique Socidex,,,,,pepfar.157,ItLFN5k82Cs,968a04ce-7b16-4344-98e4-8129cae5d874
+i1DNIPwBwUw,Haut-Katanga,Haut-Katanga,Panda,Panda,St Luc - Panda ,St Luc - Panda R,,,,,pepfar.156,ItLFN5k82Cs,a78bb9ae-e731-419a-9008-85517ca17aa5
+joshm6qWObZ,Haut-Katanga,Haut-Katanga,Pweto,Kashobwe,Kashobwe HGR,Kashobwe,28.61839,-9.67868,populated place,Kashobwe,pepfar.55,abCVuLIqXPM,191580de-7447-4a1b-b9f2-dd5d1b9beea8
+DM4U9bfhcWL,Haut-Katanga,Haut-Katanga,Pweto,Kashobwe,Lupembe ,Lupembe,21.16889,-6.16495,populated place,Tshialupemba,pepfar.54,abCVuLIqXPM,2cd881fe-4012-4018-959f-b724fe309aa0
+yWGuoODzMsP,Haut-Katanga,Haut-Katanga,Pweto,Kilwa,Dubie,Dubie,28.54039,-8.56015,populated place,Dubie,pepfar.84,mLfokzGSDJb,ddf59a0c-152d-4f48-ae5a-8e47912a40ad
+q8pSw87xS51,Haut-Katanga,Haut-Katanga,Pweto,Kilwa,Kasolo ,Kasolo,26.6148,-11.08853,populated place,Kasolo,pepfar.76,mLfokzGSDJb,6d3e91cf-c860-4f39-bb08-f2cf83b67812
+jrnlhWJasPC,Haut-Katanga,Haut-Katanga,Pweto,Kilwa,Kilwa HGR,Kilwa,28.33288,-9.28528,populated place,Kilwa,pepfar.85,mLfokzGSDJb,ccc31d79-14f3-459b-b973-02fd437a2e54
+xkoVdK9KgMM,Haut-Katanga,Haut-Katanga,Pweto,Kilwa,Kyaka ,Kyaka,,,,,pepfar.77,mLfokzGSDJb,066183dd-650f-4d1b-96a6-1a0b8231b72c
+ibND46UGkNQ,Haut-Katanga,Haut-Katanga,Pweto,Kilwa,Lukonzolwa ,Lukonzolwa,28.63496,-8.78061,populated place,Lukonzolwa,pepfar.78,mLfokzGSDJb,2d3c6ff9-0e5b-4f64-ba1c-5530f2df0e8c
+DQPm5R4BLpG,Haut-Katanga,Haut-Katanga,Pweto,Kilwa,Lusalala ,Lusalala,14.03618,-4.46251,populated place,Lusalala,pepfar.79,mLfokzGSDJb,85ace552-149b-47b4-aeea-ccb603ba55c5
+A07ptgzKrNa,Haut-Katanga,Haut-Katanga,Pweto,Kilwa,Lwanza ,Lwanza,22.57357,-7.42832,stream,Lwanza,pepfar.80,mLfokzGSDJb,4eb3a8d0-5c9b-422e-8e9a-73f8a39ceecd
+uBE44XPZ9Ve,Haut-Katanga,Haut-Katanga,Pweto,Kilwa,Mubanga ,Mubanga,21.35,-4.31667,populated place,Mubanga,pepfar.81,mLfokzGSDJb,0d2adfad-4ef0-4315-b0ab-ea817b41354f
+JfHMj6RTIum,Haut-Katanga,Haut-Katanga,Pweto,Kilwa,Mukupa ,Mukupa,27.59992,-11.58684,populated place,Mukupa,pepfar.82,mLfokzGSDJb,bb9871f2-9571-4ba9-a737-80aa64326df2
+Zdoz7Zedu1z,Haut-Katanga,Haut-Katanga,Pweto,Kilwa,Mulinde ,Mulinde,27.45499,-9.13609,populated place,Mudinde,pepfar.83,mLfokzGSDJb,bed7980f-0484-4457-8ba8-e6ecd17bd9cb
+EcuiL8m1rpw,Haut-Katanga,Haut-Katanga,Pweto,Pweto,Boma - Pweto ,Boma - Pweto,,,,,pepfar.159,HklkyYEG7Gv,ab37258f-1e30-47d1-945d-fe6668043b07
+q8NVzt8HC9v,Haut-Katanga,Haut-Katanga,Pweto,Pweto,Chalanshi,Chalanshi,,,,,pepfar.158,HklkyYEG7Gv,da576b12-32df-4c42-b42c-4cee11147afe
+AF22Ma9FugO,Haut-Katanga,Haut-Katanga,Pweto,Pweto,Chanfubu HGR,Chanfubu,,,,,pepfar.165,HklkyYEG7Gv,a19e8900-9ffb-43e1-8130-aa986a4407a2
+oekYeOxRGyo,Haut-Katanga,Haut-Katanga,Pweto,Pweto,Kamakanga,Kamakanga,26.25745,-8.28216,populated place,Kamakanga,pepfar.166,HklkyYEG7Gv,1335c079-4b65-4670-8db7-b8e477189ab8
+jw5lKed4NIZ,Haut-Katanga,Haut-Katanga,Pweto,Pweto,Kapondo ,Kapondo,27.34322,-11.75823,populated place,Kaponda,pepfar.160,HklkyYEG7Gv,b9c8e166-2bd8-4db6-9e67-405d4ae05ee5
+UE2YQdbjAjF,Haut-Katanga,Haut-Katanga,Pweto,Pweto,Kapulo ,Kapulo,29.26008,-8.30187,populated place,Kapulo,pepfar.161,HklkyYEG7Gv,fba3d00d-c8c2-4775-bedd-6d4f0471a79b
+gEwxa0yCx4Z,Haut-Katanga,Haut-Katanga,Pweto,Pweto,Katabe ,Katabe R,,,,,pepfar.164,HklkyYEG7Gv,edae4a39-3956-4149-886b-3c46724c8387
+MQ3iLYpWmAl,Haut-Katanga,Haut-Katanga,Pweto,Pweto,Nzwiba ,Nzwiba,,,,,pepfar.162,HklkyYEG7Gv,e557d243-a860-4b0a-b41f-d61e206324d9
+AC4R3JMxaRo,Haut-Katanga,Haut-Katanga,Pweto,Pweto,Sante ,Sante,,,,,pepfar.163,HklkyYEG7Gv,629759ba-a1aa-4cb2-8091-b208e547717c
+r9K0BOHOlbS,Haut-Katanga,Haut-Katanga,Pweto,Pweto,TBD1 - Pweto,Pweto,28.90079,-8.46604,populated place,Pweto,NULL,HklkyYEG7Gv,0a4aed74-1aeb-434b-ae56-ab26349e932f
+BkBipl7j7rb,Haut-Katanga,Haut-Katanga,Pweto,Pweto,TBD2 - Pweto,Pweto,28.90079,-8.46604,populated place,Pweto,NULL,HklkyYEG7Gv,36567eda-b77a-43a9-9d6b-108fe03a24b0
+MbCEAPjpBbP,Haut-Katanga,Haut-Katanga,Pweto,Pweto,TBD3 - Pweto,Pweto,28.90079,-8.46604,populated place,Pweto,NULL,HklkyYEG7Gv,a286f172-a213-4541-8d3d-c8bac6959550
+masaDFCs7Gr,Haut-Katanga,Haut-Katanga,Pweto,Pweto,TBD4 - Pweto,Pweto,28.90079,-8.46604,populated place,Pweto,NULL,HklkyYEG7Gv,df6549b4-d854-48b4-a6fa-08ac8cad7f8f
+XmmFqv02tdX,Haut-Katanga,Haut-Katanga,Pweto,Pweto,TBD5 - Pweto,Pweto,28.90079,-8.46604,populated place,Pweto,NULL,HklkyYEG7Gv,47722add-0116-436c-8163-531994d650b1
+rREJN6BjvFS,Haut-Katanga,Haut-Katanga,Sakania,Sakania,Amani-Sakania,Amani-Sakania,,,,,pepfar.175,kloe3J4FH0k,a26ffcea-bfdc-427e-9d32-1d2fa24005c9
+ezyucKXADTN,Haut-Katanga,Haut-Katanga,Sakania,Sakania,Buafano,Buafano,,,,,NULL,kloe3J4FH0k,5cacaf63-4106-4604-b517-1f17e79c4c17
+C5GbAKyDzYo,Haut-Katanga,Haut-Katanga,Sakania,Sakania,Buafano ,Buafano,,,,,NULL,kloe3J4FH0k,a156d6a3-e6f2-4988-9edb-2816114aa68f
+NYhN4LFvPdJ,Haut-Katanga,Haut-Katanga,Sakania,Sakania,Fma Marie Auxilliatrice ,Fma Marie Auxilliatrice,,,,,pepfar.176,kloe3J4FH0k,a88016f3-b427-4a03-acab-7025ee59d466
+Mp7EEVk3wFm,Haut-Katanga,Haut-Katanga,Sakania,Sakania,Kasumbalesa,Kasumbalesa,27.79542,-12.20258,populated place,Kasumbalesa,NULL,kloe3J4FH0k,8f85978e-9732-4869-a3fc-c681786d844e
+WJxibBq9t2e,Haut-Katanga,Haut-Katanga,Sakania,Sakania,Kasumbalesa ,Kasumbalesa R,27.79542,-12.20258,populated place,Kasumbalesa,pepfar.186,kloe3J4FH0k,0c75c9a4-3fba-4f14-b521-b270fc44620d
+YmeIVi7hTx0,Haut-Katanga,Haut-Katanga,Sakania,Sakania,Katale,Katale,29.37278,-1.32111,populated place,Katale,NULL,kloe3J4FH0k,6aa39c7e-0b7c-4ff8-aeb4-89646aaa1374
+cbgYvwZNKeD,Haut-Katanga,Haut-Katanga,Sakania,Sakania,Kitotwe,Kitotwe,26.6,-8.01667,populated place,Kitobwe,pepfar.184,kloe3J4FH0k,e62d6af6-8cc5-4f56-bcd8-209d56f0ac05
+y2IS6nBwQI7,Haut-Katanga,Haut-Katanga,Sakania,Sakania,Mokambo,Mokambo,28.34684,-12.42765,populated place,Mokambo,NULL,kloe3J4FH0k,71e63736-25ff-4d1c-b872-b92656863595
+w9vmbayWMuQ,Haut-Katanga,Haut-Katanga,Sakania,Sakania,Mokambo ,Mokambo R,,,,,pepfar.177,kloe3J4FH0k,5e578043-cc75-41d0-989c-5ecefcebdbfe
+gCEF5dwoaRV,Haut-Katanga,Haut-Katanga,Sakania,Sakania,Muhona,Muhona,26.99566,-4.83163,populated place,Muhoya,pepfar.179,kloe3J4FH0k,f51ebd37-f80c-45e3-947e-9d3b04f15a3c
+GcZUvUEmYP7,Haut-Katanga,Haut-Katanga,Sakania,Sakania,Neema - Sakania,Neema - Sakania,,,,,pepfar.180,kloe3J4FH0k,af6cb47d-5997-47d1-b57e-f2082b7d9506
+ZROej1FvpHG,Haut-Katanga,Haut-Katanga,Sakania,Sakania,Rosalie,Rosalie,,,,,pepfar.181,kloe3J4FH0k,271f9cf7-fdbe-4fc6-a3be-197a61ba356f
+KbYJOeheYX2,Haut-Katanga,Haut-Katanga,Sakania,Sakania,Sakania HGR,Sakania,28.55911,-12.74967,populated place,Sakania,pepfar.178,kloe3J4FH0k,5f28c27c-022b-4451-993e-d1ac8678aea1
+RfpyaQrBhHP,Haut-Katanga,Haut-Katanga,Sakania,Sakania,TBD1 - Sakania,Sakania,28.55911,-12.74967,populated place,Sakania,NULL,kloe3J4FH0k,629fae70-53a0-429c-96ef-e40afefe8e99
+AOP4ppLBOa6,Haut-Katanga,Haut-Katanga,Sakania,Sakania,TBD2 - Sakania,Sakania,28.55911,-12.74967,populated place,Sakania,NULL,kloe3J4FH0k,a43cec73-e5ef-4148-9e99-f87d0c583d8d
+BhYSTD3j48n,Haut-Katanga,Haut-Katanga,Sakania,Sakania,TBD3 - Sakania,Sakania,28.55911,-12.74967,populated place,Sakania,NULL,kloe3J4FH0k,a05c8890-16cf-4b57-a1dc-5812ea1b1031
+HxFwE4xyisF,Haut-Katanga,Haut-Katanga,Sakania,Sakania,TBD4 - Sakania,Sakania,28.55911,-12.74967,populated place,Sakania,NULL,kloe3J4FH0k,2e95bee4-c80c-4bd3-b981-106acb3442f8
+a5fchcAolf6,Haut-Katanga,Haut-Katanga,Sakania,Sakania,Tshisenda,Tshisenda,27.96595,-12.31021,populated place,Tshinsenda,pepfar.185,kloe3J4FH0k,068a102c-53b6-4c6a-8902-29665d32cc61
+DNuNxFvd2vf,Haut-Katanga,Haut-Shaba,Sakania,Sakania,Buafano,Buafano,,,,,pepfar.182,gOEz0Qz7A5l,4ad0b09c-5de8-4df6-b033-8c6d09cf69dd
+mgTgT488GXV,Haut-Katanga,Kolwezi,Dilala,Dilala,Bihashara,Bihashara,,,,,NULL,I3BZ5GynF7z,635f549b-dd0e-4823-9dcd-37d17a938069
+IaDm3fBJ6b5,Haut-Katanga,Kolwezi,Dilala,Dilala,Kanina,Kanina,24.99798,-8.73508,populated place,Kamina,pepfar.7,I3BZ5GynF7z,c36584e2-4dce-471d-83db-883c28af4f06
+NhSNnfhXPZg,Haut-Katanga,Kolwezi,Dilala,Dilala,TBD1 - Dilala,Dilala,25.11319,-9.221,populated place,Dilula,NULL,I3BZ5GynF7z,f3979794-6afc-4cd8-8687-b4f1ee19bc33
+TdQYFgpXZwk,Haut-Katanga,Kolwezi,Dilala,Dilala,TBD2 - Dilala,Dilala,25.11319,-9.221,populated place,Dilula,NULL,I3BZ5GynF7z,bc12365a-b6d6-451d-a869-6438fe8efa7e
+n1y2iBzm4ox,Haut-Katanga,Kolwezi,Dilala,Dilala,TBD3 - Dilala,Dilala,25.11319,-9.221,populated place,Dilula,NULL,I3BZ5GynF7z,b7223173-0a0c-420a-8bc2-e6bb4c0c0a3e
+xf41AJRQBCT,Haut-Katanga,Kolwezi,Dilala,Dilala,Uzima Wetu - Dilala,Uzima Wetu - Dilala,,,,,pepfar.6,I3BZ5GynF7z,61e63c04-46b8-45ab-a346-42a34391b44c
+pXorY6Hhfx9,Haut-Katanga,Kolwezi,Lubudi,Bunkeya,Bunkeya HGR,Bunkeya,26.96892,-10.39602,populated place,Bunkeya,pepfar.5,APlUXrGE7PQ,b90a2a67-a422-42eb-b3c4-0ff6ee741649
+QhAsG4QyPlR,Haut-Katanga,Kolwezi,Lubudi,Bunkeya,Gareganze - Bunkenya ,Gareganze - Bunkenya,,,,,pepfar.4,APlUXrGE7PQ,0fa54c32-0566-4499-9bd3-3fbd468fb81e
+iSYYe5wWVUm,Haut-Katanga,Kolwezi,Lubudi,Bunkeya,Kikobe ,Kikobe,26.5169,-7.80075,populated place,Kikose,pepfar.2,APlUXrGE7PQ,87974144-25ab-4161-af25-64dfd81be191
+vN3xEEwdTxJ,Haut-Katanga,Kolwezi,Lubudi,Bunkeya,Munto ,Munto,,,,,pepfar.3,APlUXrGE7PQ,9d9c4701-7a9f-4b5a-a113-61cb049d0c5a
+ETdHgNjvvYY,Haut-Katanga,Kolwezi,Lubudi,Bunkeya,TBD1 - Bunkeya,Bunkeya,26.96892,-10.39602,populated place,Bunkeya,NULL,APlUXrGE7PQ,b7e62d67-5f71-4082-9228-9cf97ea899f7
+yB5Qi3XG4tC,Haut-Katanga,Kolwezi,Lubudi,Bunkeya,TBD2 - Bunkeya,Bunkeya,26.96892,-10.39602,populated place,Bunkeya,NULL,APlUXrGE7PQ,b497c7a3-2fe2-46d9-9d75-db9f4f53aeb3
+Tec4PM6z7GL,Haut-Katanga,Kolwezi,Lubudi,Bunkeya,TBD3 - Bunkeya,Bunkeya,26.96892,-10.39602,populated place,Bunkeya,NULL,APlUXrGE7PQ,25af2a91-bc53-4b1f-959b-0a9c0b3f684c
+yX8ulnFUnuQ,Haut-Katanga,Kolwezi,Lubudi,Bunkeya,TBD4 - Bunkeya,Bunkeya,26.96892,-10.39602,populated place,Bunkeya,NULL,APlUXrGE7PQ,0e01e45e-fc6c-4e72-ad3c-b037ecce2df1
+dD7zjYifa2r,Haut-Katanga,Kolwezi,Lubudi,Fungurume,Dilambwe,Dilambwe,26.60833,-10.70333,stream,Dilombwe,NULL,XBz3SeLhTR5,dbe3c747-002e-44d0-8dd6-919916f3b923
+NHB8UlZUgWf,Haut-Katanga,Kolwezi,Lubudi,Fungurume,Dipeta 1,Dipeta 1,,,,,NULL,XBz3SeLhTR5,c9e3b984-9370-4a21-b37e-15513ed28e89
+azHZDwa04XW,Haut-Katanga,Kolwezi,Lubudi,Fungurume,Dipeta 2,Dipeta 2,,,,,NULL,XBz3SeLhTR5,d4feaa4a-fad0-4423-9e58-aa68926b6ef1
+yfmKBWwZI8Z,Haut-Katanga,Kolwezi,Lubudi,Fungurume,Dipeta ,Dipeta,26.45538,-10.55217,stream,Dipeta,pepfar.13,XBz3SeLhTR5,d87e7145-7519-4f11-a60a-4b2c3ca8acf9
+sMD0nKFjTgt,Haut-Katanga,Kolwezi,Lubudi,Fungurume,El Shaddai ,El Shaddai,,,,,pepfar.14,XBz3SeLhTR5,87db932f-d1b8-4112-b2d3-f8ac39c65cac
+rlrnyO78Ega,Haut-Katanga,Kolwezi,Lubudi,Fungurume,Kakanda HGR,Kakanda,26.33195,-10.66905,populated place,Kakanda,pepfar.12,XBz3SeLhTR5,74e272a9-a6a7-4996-bbf0-8e2f1d4d997b
+XDQ2pVVtrnG,Haut-Katanga,Kolwezi,Lubudi,Fungurume,Kasolondo,Kasolondo,,,,,NULL,XBz3SeLhTR5,f581a53b-f3dd-44f9-a3a7-4b937322bc5f
+BQI5QUa6ZoW,Haut-Katanga,Kolwezi,Lubudi,Fungurume,Kilusonsa,Kilusonsa,,,,,NULL,XBz3SeLhTR5,fdd5785b-e6d5-4746-a9d2-e8f156ec9476
+GjdPlhqJsdU,Haut-Katanga,Kolwezi,Lubudi,Fungurume,Lukotola,Lukotola,26.25,-10.51667,populated place,Lukotola,NULL,XBz3SeLhTR5,f8ed5ba7-7f00-4813-b473-064e4c67e3f1
+FXwl2fM9nla,Haut-Katanga,Kolwezi,Lubudi,Fungurume,Mpala,Mpala,29.52454,-6.73224,populated place,Mpala,NULL,XBz3SeLhTR5,33f6b59f-f14c-4768-a3dc-f1ec12571f80
+a0Qlf60zWBs,Haut-Katanga,Kolwezi,Lubudi,Fungurume,Mulumbu,Mulumbu,23.10188,-6.27625,populated place,Mulumba-Kapuku,NULL,XBz3SeLhTR5,dccd3699-8972-47f5-9eb3-ed034aaaf325
+fElqAXh75Lj,Haut-Katanga,Kolwezi,Lubudi,Fungurume,Mwenda Mukose,Mwenda Mukose,26.53333,-10.31667,populated place,Mwenda-Mukose,NULL,XBz3SeLhTR5,6eee567a-b298-4f3c-b3ca-c57179a4dba1
+dU1qtC7LHCd,Haut-Katanga,Kolwezi,Lubudi,Fungurume,Neema - Fungurume ,Neema - Fungurume,,,,,pepfar.15,XBz3SeLhTR5,731abc86-293a-420d-906f-5d20ed0e9a2b
+IVMb1W1xvgb,Haut-Katanga,Kolwezi,Lubudi,Fungurume,Nguba,Nguba,26.42526,-10.65657,populated place,Nguba,NULL,XBz3SeLhTR5,bf60f92a-4714-438b-bc66-0e0c62a7426d
+FyecjLVvDRq,Haut-Katanga,Kolwezi,Lubudi,Fungurume,Piscine De SiloÃ© ,Piscine De SiloÃ©,,,,,pepfar.16,XBz3SeLhTR5,7d273cf9-5152-4d2c-971b-d8c8cd2c2680
+nkecxYOrVdx,Haut-Katanga,Kolwezi,Lubudi,Fungurume,Safina ,Safina,22.78228,-10.45377,populated place,Sawina,pepfar.17,XBz3SeLhTR5,b106bc6d-3605-48e3-bc0a-8059389f7e9c
+Phh3sjKLv28,Haut-Katanga,Kolwezi,Lubudi,Fungurume,Shaloom - Fungurume ,Shaloom - Fungurume,,,,,pepfar.18,XBz3SeLhTR5,43ec4b1a-eb56-4f9a-928b-d902154d2d90
+CW7ieVvpnlS,Haut-Katanga,Kolwezi,Lubudi,Fungurume,St FranÃ§ois Xavier ,St FranÃ§ois Xavier R,,,,,pepfar.19,XBz3SeLhTR5,5baeb324-2c17-47dc-9d9d-0ff0bfe84a8c
+RZ7L5q70Ulr,Haut-Katanga,Kolwezi,Lubudi,Fungurume,TBD1 - Fungurume ,Fungurume,26.32107,-10.61771,populated place,Fungurume,NULL,XBz3SeLhTR5,7bef7831-1ef3-459f-876c-07bb859cf430
+rLXE3glb0EX,Haut-Katanga,Kolwezi,Lubudi,Fungurume,TBD2 - Fungurume ,Fungurume,26.32107,-10.61771,populated place,Fungurume,NULL,XBz3SeLhTR5,5d402501-d05f-4fba-b411-84da800a869f
+P3tRxwEPhrJ,Haut-Katanga,Kolwezi,Lubudi,Fungurume,TBD3 - Fungurume,Fungurume,26.32107,-10.61771,populated place,Fungurume,NULL,XBz3SeLhTR5,b34820b5-403c-4b6c-9848-fda117fce50d
+TfuoeUKy2Qk,Haut-Katanga,Kolwezi,Lubudi,Fungurume,Tenke,Tenke,26.11984,-10.59995,populated place,Tenke,NULL,XBz3SeLhTR5,02f82a9b-df02-41d4-a07a-849c503d29e1
+GfNyZSEQihB,Haut-Katanga,Kolwezi,Lubudi,Lubudi,Cimenkat Lubudi HGR,Cimenkat Lubudi,,,,,pepfar.112,hZxBqL2oyE4,fe37ae0e-22bf-4e0c-98d6-672e0151ac99
+Khk0Xbc0cU8,Haut-Katanga,Kolwezi,Lubudi,Lubudi,Kalonga ,Kalonga,22.58323,-7.85935,populated place,Kalonga,pepfar.110,hZxBqL2oyE4,ffc23774-7ab8-4259-9884-82bb90305e7c
+k66m7sRmq5g,Haut-Katanga,Kolwezi,Lubudi,Lubudi,Kansenia HÃ´pital,Kansenia HÃ´pital,,,,,pepfar.113,hZxBqL2oyE4,4872723f-b03e-4039-bb0e-e14d54c4c516
+TPf7tuulIsj,Haut-Katanga,Kolwezi,Lubudi,Lubudi,Mukabe ,Mukabe R,,,,,pepfar.111,hZxBqL2oyE4,6a2958b8-a2a1-425e-bb4d-45c19a2254cf
+LHUOwRgNQkr,Haut-Katanga,Kolwezi,Lubudi,Lubudi,TBD1 - Lubudi,Lubudi,21.30321,-6.85178,populated place,Lubudi,NULL,hZxBqL2oyE4,908a488a-19aa-4776-a2b2-e5d2d45ea30f
+gHZ7OExrQ1A,Haut-Katanga,Kolwezi,Lubudi,Lubudi,TBD2 - Lubudi,Lubudi,21.30321,-6.85178,populated place,Lubudi,NULL,hZxBqL2oyE4,60fd417d-f175-4542-ab3d-6b0abac9d589
+MnMX68So59s,Haut-Katanga,Kolwezi,Lubudi,Lubudi,TBD3 - Lubudi,Lubudi,21.30321,-6.85178,populated place,Lubudi,NULL,hZxBqL2oyE4,b0d36ac5-3c0d-4bec-bfaf-cf259160bad1
+Sf93e7ldA3b,Haut-Katanga,Kolwezi,Manika,Manika,Chisambu,Chisambu,,,,,pepfar.135,snMVrjxxOz3,a0227a7c-6d25-42a0-9ab3-84001d7d78a4
+LZFJh3OlwrG,Haut-Katanga,Kolwezi,Manika,Manika,Kongolo M,Kongolo M,,,,,pepfar.136,snMVrjxxOz3,d2ac8418-3401-4590-b5aa-637bc7b090ca
+hnTreNgH5Uq,Haut-Katanga,Kolwezi,Manika,Manika,TBD1 - Manika,Manika,20.78562,3.83858,populated place,Maniko,NULL,snMVrjxxOz3,6802447d-7c28-425b-8eeb-e9377c339935
+mTKQdb7qJp4,Haut-Katanga,Kolwezi,Manika,Manika,TBD2 - Manika,Manika,20.78562,3.83858,populated place,Maniko,NULL,snMVrjxxOz3,b497eea3-0bf1-4b23-a0c9-8d6d1fb47ad2
+GDq8ePsJuxY,Haut-Katanga,Kolwezi,Manika,Manika,TBD3 - Manika,Manika,20.78562,3.83858,populated place,Maniko,NULL,snMVrjxxOz3,ad94c475-0d78-430f-8d6c-0636da453de9
+GFiXEwmLieo,Haut-Katanga,Kolwezi,Mutshatsha,Dilala,Hopital du Personnel de Kolwezi (HPK) - Dilala HGR,Hopital du Personnel de Kolwezi (HPK) - Dilala,,,,,pepfar.11,NeOy5gtTksz,7502cb23-f8ea-4428-9cb2-ab2739b849b6
+d0cWHAjRywv,Haut-Katanga,Kolwezi,Mutshatsha,Dilala,Kapata ,Kapata,26.63333,-10.98333,populated place,Kapata,pepfar.9,NeOy5gtTksz,c68470dc-a8ad-47e4-84f5-545c2f42db37
+QpgD5Uj3HjW,Haut-Katanga,Kolwezi,Mutshatsha,Dilala,Luilu ,Luilu,23.61241,-7.24969,third-order administrative division,Luilu,pepfar.10,NeOy5gtTksz,607a6357-90b9-47df-b256-62a8b68eb917
+nuq8uhRKNFS,Haut-Katanga,Kolwezi,Mutshatsha,Dilala,Methodiste - Dilala CH,Methodiste - Dilala,,,,,pepfar.8,NeOy5gtTksz,766cba3f-15b2-4b24-966d-0b507163d43a
+isAwTDsnPSu,Haut-Katanga,Kolwezi,Mutshatsha,Kanzenze,Kanzenze HGR,Kanzenze,25.2,-10.51667,populated place,Kanzenze,pepfar.41,tFPzF1PdQYD,9572cbed-178c-44ba-bb8b-340bc64de87e
+kxFSJECuf8H,Haut-Katanga,Kolwezi,Mutshatsha,Kanzenze,Nseke HGR,Nseke,19.11667,-0.36063,populated place,Nseke,pepfar.42,tFPzF1PdQYD,a040ded7-d143-4ef2-91f9-174ae0ad7f7d
+lQzVWrJg5L0,Haut-Katanga,Kolwezi,Mutshatsha,Kanzenze,Nzilo ,Nzilo,25.46667,-10.5,populated place,Zilo,pepfar.37,tFPzF1PdQYD,d81b9492-5a9a-40d7-bc61-cc0affbde76a
+tMCm8p143Yx,Haut-Katanga,Kolwezi,Mutshatsha,Kanzenze,TBD1 - Kanzenze ,Kanzenze,25.2,-10.51667,populated place,Kanzenze,NULL,tFPzF1PdQYD,0b50a159-4171-4786-856e-a43446f946e5
+I5y4pJ239nW,Haut-Katanga,Kolwezi,Mutshatsha,Kanzenze,TBD2 - Kanzenze ,Kanzenze,25.2,-10.51667,populated place,Kanzenze,NULL,tFPzF1PdQYD,fb08757a-9f1b-43f7-95e7-6fc42f054ccc
+lh37qCucAhX,Haut-Katanga,Kolwezi,Mutshatsha,Kanzenze,TBD3 - Kanzenze,Kanzenze,25.2,-10.51667,populated place,Kanzenze,NULL,tFPzF1PdQYD,27227c3a-08fe-4051-8285-c145e67fdce9
+cBfbLxAKRUl,Haut-Katanga,Kolwezi,Mutshatsha,Kanzenze,TBD4 - Kanzenze,Kanzenze,25.2,-10.51667,populated place,Kanzenze,NULL,tFPzF1PdQYD,cac4b4de-a726-411e-8ab5-ebfb3a1035b9
+Nyl2xAuv1uP,Haut-Katanga,Kolwezi,Mutshatsha,Kanzenze,Tshamundenda1 ,Tshamundenda1,22.71671,-10.70614,populated place,Tshamundende,pepfar.38,tFPzF1PdQYD,76f41709-e59c-4793-9da7-fa0bf78efdd6
+nW8wTIVRZEJ,Haut-Katanga,Kolwezi,Mutshatsha,Kanzenze,Wakipindji ,Wakipindji,25.38333,-10.06667,populated place,Wakipinji,pepfar.39,tFPzF1PdQYD,036c04b7-6a02-4723-97d4-1d675685f8ef
+ng3bAARjI18,Haut-Katanga,Kolwezi,Mutshatsha,Kanzenze,Walemba ,Walemba R,,,,,pepfar.40,tFPzF1PdQYD,b982b78c-e969-4670-8faf-131864d4b2fe
+n16AMpmaBBt,Haut-Katanga,Kolwezi,Mutshatsha,Lualaba,Kawama,Kawama,28.42518,-9.52875,populated place,Kawama,NULL,nkk4fjd9ncb,5fa49f36-df2c-41ad-8073-e23bb2c5bb7b
+chillOaHvph,Haut-Katanga,Kolwezi,Mutshatsha,Lualaba,Kawama - Lualaba ,Kawama - Lualaba,,,,,pepfar.127,nkk4fjd9ncb,1a0056d1-ca65-46d1-b1a3-d360289dfc9b
+ZJlkcX5ekzy,Haut-Katanga,Kolwezi,Mutshatsha,Lualaba,Kinsafu ,Kinsafu,16.10236,-5.56903,populated place,Kinsafu,pepfar.128,nkk4fjd9ncb,a52ad723-dad5-4679-a5b6-cc171db2d109
+uhqieW6ihBm,Haut-Katanga,Kolwezi,Mutshatsha,Lualaba,Mupanja,Mupanja,25.47399,2.99681,populated place,Mupanza,NULL,nkk4fjd9ncb,f536313b-9c9e-482c-b00a-73d28fff8559
+TgpzvIaMGjx,Haut-Katanga,Kolwezi,Mutshatsha,Lualaba,Mupanja ,Mupanja R,,,,,pepfar.134,nkk4fjd9ncb,212bde92-da5d-4182-a482-c67083f6b212
+DHdtwc3Iprl,Haut-Katanga,Kolwezi,Mutshatsha,Lualaba,Mwanfwe ,Mwanfwe,27.60784,-9.46036,stream,Mwandwe,pepfar.129,nkk4fjd9ncb,17c22436-6a92-49a3-8f5f-bbfd285dd0eb
+jREWnvxLOUa,Haut-Katanga,Kolwezi,Mutshatsha,Lualaba,Pwene ,Pwene,,,,,pepfar.130,nkk4fjd9ncb,46df48e2-9921-4809-98ba-e935ba39d788
+IlKdUkwjRKq,Haut-Katanga,Kolwezi,Mutshatsha,Lualaba,Pwibwe ,Pwibwe,,,,,pepfar.131,nkk4fjd9ncb,9a22e01c-e27c-4e74-9627-2cd0fda955e5
+AxZCtlC28CW,Haut-Katanga,Kolwezi,Mutshatsha,Lualaba,Radem - Lualaba ,Radem - Lualaba,,,,,pepfar.132,nkk4fjd9ncb,d1cff8bb-705e-42ad-9928-fc3fc7026496
+vGNO82RvTwu,Haut-Katanga,Kolwezi,Mutshatsha,Lualaba,SNCC Mupandja ,SNCC Mupandja,,,,,pepfar.133,nkk4fjd9ncb,9d8051c0-ee0b-4066-ad9f-a636952edaca
+m9fUAf2t2ca,Haut-Katanga,Kolwezi,Mutshatsha,Lualaba,TBD1 - Lualaba,Lualaba,25.46667,-10.71667,second-order administrative division,Lualaba,NULL,nkk4fjd9ncb,604198d3-218b-4e2c-882e-1bbadfd70d4d
+KAjuGGXfc2q,Haut-Katanga,Kolwezi,Mutshatsha,Lualaba,TBD2 - Lualaba,Lualaba,25.46667,-10.71667,second-order administrative division,Lualaba,NULL,nkk4fjd9ncb,991067bc-ed99-463d-ba2c-4600f99439d1
+YTorSE96hbY,Haut-Katanga,Kolwezi,Mutshatsha,Lualaba,TBD3 - Lualaba,Lualaba,25.46667,-10.71667,second-order administrative division,Lualaba,NULL,nkk4fjd9ncb,9f979541-739b-4e0c-be7c-c67be719f855
+e1SKC7deW5O,Haut-Katanga,Kolwezi,Mutshatsha,Manika,Afia Manika ,Afia Manika,,,,,pepfar.137,wkmRb5WTEL9,647e69a7-639f-4b26-baa6-0084aef0b5b8
+ZrMzWN6H5n6,Haut-Katanga,Kolwezi,Mutshatsha,Manika,Betshaida ,Betshaida,,,,,pepfar.138,wkmRb5WTEL9,c53fb4e5-1f0c-4c3e-bf3a-bee122b61645
+v1SDeFQa2P6,Haut-Katanga,Kolwezi,Mutshatsha,Manika,Kasulo ,Kasulo,25.73527,-9.47613,populated place,Kasulo,pepfar.139,wkmRb5WTEL9,56282498-9cb5-4367-9ad9-586ffc4487ef
+WenMdOJzwbO,Haut-Katanga,Kolwezi,Mutshatsha,Manika,Manika ,Manika R,,,,,pepfar.140,wkmRb5WTEL9,3b3fc0d1-354b-492b-8fca-8449a0ea8e15
+F2Abc0EFhbF,Haut-Katanga,Kolwezi,Mutshatsha,Manika,Mwangeji HGR,Mwangeji,25.52833,-10.68583,populated place,Mwangezi,pepfar.141,wkmRb5WTEL9,bb3afce9-c11e-47a5-9a80-1529f5ba38c3
+K9CdDv7GBh7,Haut-Katanga,Kolwezi,Mutshatsha,Mutshatsha,Kayambe ,Kayambe,26.25012,-7.62325,populated place,Kayambi,pepfar.150,udJcP2om689,b40f557f-ad82-431e-84fc-e6f84d3160b3
+GnnshwHG2Xf,Haut-Katanga,Kolwezi,Mutshatsha,Mutshatsha,Luilu,Luilu,23.61241,-7.24969,third-order administrative division,Luilu,NULL,udJcP2om689,45799c49-8f52-4110-9dcd-d47482f36d28
+DXjIcYTi9KU,Haut-Katanga,Kolwezi,Mutshatsha,Mutshatsha,Maisha ,Maisha R,,,,,pepfar.151,udJcP2om689,040f8379-28ea-45fe-ba78-94309aeb8949
+LGTFak63EnY,Haut-Katanga,Kolwezi,Mutshatsha,Mutshatsha,Mutshatsha HGR,Mutshatsha,24.46038,-10.64175,populated place,Mutshatsha,pepfar.152,udJcP2om689,8831fcdd-de42-43b3-b94d-91227a107556
+tk0OsUgMREV,Haut-Katanga,Kolwezi,Mutshatsha,Mutshatsha,TBD1 - Mutshatsha,Mutshatsha,24.46038,-10.64175,populated place,Mutshatsha,NULL,udJcP2om689,40afa74f-5b71-43e1-8e7a-8cd48d7d8c98
+BPnZvzIEWgD,Haut-Katanga,Kolwezi,Mutshatsha,Mutshatsha,TBD2 - Mutshatsha,Mutshatsha,24.46038,-10.64175,populated place,Mutshatsha,NULL,udJcP2om689,e00560b4-6104-45ff-a92c-771bf8258fa3
+UgUBuibjG0R,Haut-Katanga,Kolwezi,Mutshatsha,Mutshatsha,TBD3 - Mutshatsha,Mutshatsha,24.46038,-10.64175,populated place,Mutshatsha,NULL,udJcP2om689,bb9ebdc5-7e3c-44c3-9baa-b3bd4c7de113
+LVI2IJ9DFRd,Haut-Katanga,Kolwezi,Mutshatsha,Mutshatsha,TBD4 - Mutshatsha,Mutshatsha,24.46038,-10.64175,populated place,Mutshatsha,NULL,udJcP2om689,f00cbb11-3145-4e8e-aba7-22df7f6ab31b
+K5N3wrcWjbE,Haut-Katanga,Likasi,Kambove,Kapolowe,Katanga,Katanga,22.41659,-5.89624,seat of a first-order administrative division,Kananga,pepfar.43,iBIl1QevIrG,ee6fbe2c-3f14-4538-b21b-b0acc487f37b
+Vb8lDLXkHjJ,Haut-Katanga,Likasi,Kambove,Kapolowe,Luisha,Luisha,23.68454,-8.16176,stream,Luisha,pepfar.44,iBIl1QevIrG,940610fd-62b9-49c9-9c61-ed7797a9c2b5
+m7qqHJKoBZD,Haut-Katanga,Likasi,Kambove,Kapolowe,Lupidi 2,Lupidi 2,,,,,pepfar.45,iBIl1QevIrG,212a87ed-fb99-4fbc-99b7-08c7af03d6e8
+eZXOmZXhqYz,Haut-Katanga,Likasi,Kambove,Kapolowe,Ndakata,Ndakata,26.78333,-2.95,populated place,Ndakala,pepfar.46,iBIl1QevIrG,3a46bd19-d201-4919-866f-136f7e84ddc9
+GVoGUHUxJmX,Haut-Katanga,Likasi,Kambove,Kapolowe,TBD1 - Kapolowe ,Kapolowe,26.971,-11.06125,populated place,Kapolowe,NULL,iBIl1QevIrG,d4b36236-26b7-43c2-bbba-f9cd816d758b
+UYO8aH2xVLO,Haut-Katanga,Likasi,Kambove,Kapolowe,TBD2 - Kapolowe ,Kapolowe,26.971,-11.06125,populated place,Kapolowe,NULL,iBIl1QevIrG,3cc35acc-24d7-4116-bc46-1a633ce9cbe8
+fMEVCO7w4WH,Haut-Katanga,Likasi,Kambove,Kapolowe,TBD3 - Kapolowe,Kapolowe,26.971,-11.06125,populated place,Kapolowe,NULL,iBIl1QevIrG,d80bea2d-5b29-482a-b897-ac5b5fc33d78
+Nt15Ue8D0ob,Haut-Katanga,Likasi,Kikula,Kikula,ELYSEE ,ELYSEE,,,,,NULL,JqoZkoT2TgU,8d61182f-257e-4d67-879b-1729dbcf6a2f
+d4GM38NzLIO,Haut-Katanga,Likasi,Kikula,Kikula,Kalulwa,Kalulwa,28.81057,-4.99565,populated place,Kahuha,pepfar.69,JqoZkoT2TgU,d5331ea1-332a-49b7-84d6-7986bc860d0e
+YRj8q2Ehlqt,Haut-Katanga,Likasi,Kikula,Kikula,Kampemba - Kikula,Kampemba - Kikula,,,,,pepfar.70,JqoZkoT2TgU,c73a9752-edf4-43fc-99f0-af1f953b76a7
+VHNwMH6Q8HW,Haut-Katanga,Likasi,Kikula,Kikula,LA BLANCHE,LA BLANE,,,,,NULL,JqoZkoT2TgU,e81abcba-2cfc-4bda-94ad-d3e611c4bba5
+GJhhJHblD3b,Haut-Katanga,Likasi,Kikula,Kikula,Mlinzi,Mlinzi,,,,,pepfar.71,JqoZkoT2TgU,14a53b47-5d2d-4cfe-b95c-7a470c07d7f9
+EsnRGwr0CZj,Haut-Katanga,Likasi,Kikula,Kikula,Moriah,Moriah,,,,,pepfar.72,JqoZkoT2TgU,e94ee39f-9dba-4f00-b6bc-2aa476c5f6f1
+VhnkBSh7CNu,Haut-Katanga,Likasi,Kikula,Kikula,TBD1 - Kikula ,Kikula,14.97632,-5.85337,populated place,Kikula,NULL,JqoZkoT2TgU,5c31e38c-654a-4d33-8986-154f07e8a6c6
+EquOikly5xK,Haut-Katanga,Likasi,Kikula,Kikula,TBD2 - Kikula ,Kikula,14.97632,-5.85337,populated place,Kikula,NULL,JqoZkoT2TgU,41f64f8b-207e-4650-8fcd-936d58bbac89
+AvTMqC1Xosu,Haut-Katanga,Likasi,Kikula,Kikula,Uzima,Uzima,,,,,pepfar.201,JqoZkoT2TgU,35ba7d5a-00fa-487d-965f-db4202bbb157
+RPKlAF5Cu83,Haut-Katanga,Likasi,Kikula,Kikula,Uzima Wetu - Kikula,Uzima Wetu - Kikula,,,,,pepfar.73,JqoZkoT2TgU,418d1982-26a0-4047-b1c4-4e2576add21b
+zXiYHQltAoF,Haut-Katanga,Likasi,Panda,Panda,Belle Vue,Belle Vue,,,,,pepfar.153,GVHuLvi3dNC,9b8246c6-7aad-44f6-8d20-15a8c38067e6
+a5bc6lcn2ek,Haut-Katanga,Likasi,Panda,Panda,Nguya,Nguya,23.52384,3.6864,populated place,Nguya,pepfar.155,GVHuLvi3dNC,c335866d-4f7a-4287-8778-bb6478a5f67a
+h0XoJTZr5eb,Haut-Katanga,Likasi,Panda,Panda,Panda HGR,Panda,26.72578,-11.0225,populated place,Panda,pepfar.154,GVHuLvi3dNC,1c0aa806-05a2-48c8-8509-da50fa946100
+mlXbcqNvbhm,Haut-Katanga,Likasi,Panda,Panda,TBD1 - Panda,Panda,26.72578,-11.0225,populated place,Panda,NULL,GVHuLvi3dNC,9fcb94d3-fcf9-42f4-8cb3-2d887bfb7922
+QGCs9BkG497,Haut-Katanga,Likasi,Panda,Panda,TBD2 - Panda,Panda,26.72578,-11.0225,populated place,Panda,NULL,GVHuLvi3dNC,39b98dec-2a58-43b3-bfe2-259ce0d6a575
+AWcVi2batmO,Haut-Katanga,Likasi,Panda,Panda,TBD3 - Panda,Panda,26.72578,-11.0225,populated place,Panda,NULL,GVHuLvi3dNC,0295a8e9-6793-42c2-9023-4ea44359ef7c
+XjzjIMAA2S4,Haut-Katanga,Likasi,Panda,Panda,TBD4 - Panda,Panda,26.72578,-11.0225,populated place,Panda,NULL,GVHuLvi3dNC,a50e33c6-81ff-40c8-b52d-2319710a8406
+MjHBZkO1Gtz,Haut-Katanga,Lubumbashi,Annexe,Kisanga,Decouverte,Decouverte,,,,,pepfar.92,Y6quIOmXjd1,a734b67c-cc6f-4b76-852e-c6985d59b8be
+aJoOmJ9uATE,Haut-Katanga,Lubumbashi,Annexe,Kisanga,Kalimasimba,Kalimasimba,22.11958,-9.87416,stream,Kalimatamba,pepfar.95,Y6quIOmXjd1,3ee04f0a-0258-454b-9c9d-a8f42fc79785
+n7IBtMvd1KX,Haut-Katanga,Lubumbashi,Annexe,Kisanga,Kasungami ,Kasungami,,,,,pepfar.96,Y6quIOmXjd1,11231f17-c171-44c3-ad65-c8c3fc3c3fd9
+f2X9S2Lxi54,Haut-Katanga,Lubumbashi,Annexe,Kisanga,Kilima,Kilima,18.53778,-3.5815,populated place,Kilima,NULL,Y6quIOmXjd1,e66670fd-2bbe-405b-acad-4a10b583f560
+q1OnqahBifk,Haut-Katanga,Lubumbashi,Annexe,Kisanga,Kilima Simba,Kilima Simba,,,,,NULL,Y6quIOmXjd1,c4ed1118-f721-402d-ae13-eac42ac4181e
+Gdk7s5mEyAG,Haut-Katanga,Lubumbashi,Annexe,Kisanga,Kisanga HGR,Kisanga,24.16667,-6.85,populated place,Kisanga,pepfar.98,Y6quIOmXjd1,7d9a7006-fc94-447b-91d8-61159add0452
+IqYu0d5wqvp,Haut-Katanga,Lubumbashi,Annexe,Kisanga,La Foi,La Foi,,,,,pepfar.99,Y6quIOmXjd1,1d6ab5d3-3e41-4fe5-a4f3-98dc456a18dc
+zzPY4m6LqAa,Haut-Katanga,Lubumbashi,Annexe,Lubumbashi,Crisem,Crisem,,,,,pepfar.117,Ob5urm65M2B,6bb5a3b8-fa7b-4ccb-8b2d-d13110d02521
+dQwNpqrkjwx,Haut-Katanga,Lubumbashi,Kampemba,Kampemba,AMANI ,AMANI,,,,,NULL,a5jLbEaqXQH,5f1da08f-e2b6-451e-86f4-3f047d853fb7
+IIs5XLk0Kbg,Haut-Katanga,Lubumbashi,Kampemba,Kampemba,BUISSON ARDENT ,BUISSON ARDENT,,,,,NULL,a5jLbEaqXQH,aef88c3a-84cb-4f76-b31b-79c584fe5711
+X7FJLcSKlfq,Haut-Katanga,Lubumbashi,Kampemba,Kampemba,Circulaire,Circulaire,,,,,NULL,a5jLbEaqXQH,cbbb3d89-3965-4932-ada6-dc535a1272ec
+m7utP8mxZs2,Haut-Katanga,Lubumbashi,Kampemba,Kampemba,Cite des Jeunes,Cite des Jeunes,,,,,NULL,a5jLbEaqXQH,ff6f4788-5b4d-4018-ad9e-01eb5befae9b
+JifeXKRxjxc,Haut-Katanga,Lubumbashi,Kampemba,Kampemba,Dominique SAVIO,Dominique SAVIO,,,,,pepfar.28,a5jLbEaqXQH,408b5e1a-9f23-4b09-a426-418dc832f2d4
+R7JamzHvkEL,Haut-Katanga,Lubumbashi,Kampemba,Kampemba,Ecaset,Ecaset,,,,,NULL,a5jLbEaqXQH,d43c3e43-af12-45e4-b88b-751288002a0d
+N7PuLzytcOq,Haut-Katanga,Lubumbashi,Kampemba,Kampemba,Emmaus,Emmaus,19.06667,-3.95,populated place,Emmaüs,NULL,a5jLbEaqXQH,76552562-5291-4681-9b29-3980ef58a64a
+ESkjGj6a12x,Haut-Katanga,Lubumbashi,Kampemba,Kampemba,Garenganze - Kampemba,Garenganze - Kampemba,,,,,pepfar.29,a5jLbEaqXQH,e5ebdb91-ea03-47d1-885d-86ce1f327d31
+SwFEdeSaxji,Haut-Katanga,Lubumbashi,Kampemba,Kampemba,Jardin d'Eden CM,Jardin d'Eden,,,,,NULL,a5jLbEaqXQH,3061af34-2800-49d2-8a0f-7c3a57b297bb
+S7e4BaCL9Vr,Haut-Katanga,Lubumbashi,Kampemba,Kampemba,Kabanga,Kabanga,22.41659,-5.89624,seat of a first-order administrative division,Kananga,NULL,a5jLbEaqXQH,23410268-2e33-4cfa-8d48-15cdf2d03107
+HYHRTyk5KvC,Haut-Katanga,Lubumbashi,Kampemba,Kampemba,Kampemba HGR,Kampemba,25.16667,-8.08333,populated place,Kampemba,pepfar.30,a5jLbEaqXQH,3da2b4be-4d95-4e62-8642-a434abd2620f
+UFhOFzDFkUq,Haut-Katanga,Lubumbashi,Kampemba,Kampemba,LA RACINE ,LA RACINE,,,,,NULL,a5jLbEaqXQH,6a35cbb0-6785-4e3c-88f9-87cd085f480c
+LiFDjeSmKhp,Haut-Katanga,Lubumbashi,Kampemba,Kampemba,Lapofa,Lapofa,,,,,NULL,a5jLbEaqXQH,5673ce5b-aa77-4f9a-a862-c7973bb539b0
+UDOrBbK80li,Haut-Katanga,Lubumbashi,Kampemba,Kampemba,MAISHA ,MAISHA,,,,,NULL,a5jLbEaqXQH,c8572fce-6f77-4bfc-b688-465848540510
+fc81Wvn0Ypq,Haut-Katanga,Lubumbashi,Kampemba,Kampemba,Mary Elmer,Mary Elmer,,,,,pepfar.31,a5jLbEaqXQH,21d9dbff-a8ab-4e54-b290-b3512e7428d3
+ZdpkFTbSkE2,Haut-Katanga,Lubumbashi,Kampemba,Kampemba,Mont Carmel,Mont Carmel,,,,,pepfar.32,a5jLbEaqXQH,786e12c1-e44b-4daa-8b20-b6c9c43fc144
+AmXcpoM3uT2,Haut-Katanga,Lubumbashi,Kampemba,Kampemba,Reference,Reference,,,,,NULL,a5jLbEaqXQH,a7b3716e-c353-4d23-a7a5-bcbe7965070d
+Ug0dAPuIcS4,Haut-Katanga,Lubumbashi,Kampemba,Kampemba,Savio,Savio,,,,,NULL,a5jLbEaqXQH,c096bd8f-24f8-4e41-a0dd-d08ad3452f58
+J2YoZznthJB,Haut-Katanga,Lubumbashi,Kampemba,Kampemba,St Charles,St Charles,,,,,pepfar.33,a5jLbEaqXQH,0dd7508b-4c01-4790-b88d-7ccd54023935
+R9R8wQfkaIe,Haut-Katanga,Lubumbashi,Kampemba,Kampemba,Ste Famille de Nazareth ,Ste Famille de Nazareth,,,,,NULL,a5jLbEaqXQH,a0809e52-3268-4212-b226-68e63fec4930
+sWHn4EltKqq,Haut-Katanga,Lubumbashi,Kampemba,Kampemba,Taba Congo,Taba Congo,22.85168,-7.04503,populated place,Tabacongo,NULL,a5jLbEaqXQH,42dc445e-c483-4375-9e7a-13a0e80833d4
+i8krTPfy1DE,Haut-Katanga,Lubumbashi,Katuba,Katuba,Ave Maria,Ave Maria,,,,,pepfar.56,BJwJiJ0aein,337cc04e-e9d8-4fb7-a165-076820697c2e
+ep6gaJrhIxO,Haut-Katanga,Lubumbashi,Katuba,Katuba,Baraka,Baraka,18.6,4.35,populated place,Baraka,pepfar.57,BJwJiJ0aein,c10be4d2-f014-4a7e-bfed-6062d70f0db8
+pkQTFji35rY,Haut-Katanga,Lubumbashi,Katuba,Katuba,Katuba HGR,Katuba,27.72774,-12.14288,populated place,Katuba,pepfar.58,BJwJiJ0aein,05b9a2a2-62b5-4e9e-b558-f1d04fba5953
+YEI7k9mJCn9,Haut-Katanga,Lubumbashi,Katuba,Katuba,Lwizi ,Lwizi,,,,,pepfar.59,BJwJiJ0aein,ae5c3ed2-c669-4a4e-b4c6-f2b176397cdb
+iVkqAEQf0Ld,Haut-Katanga,Lubumbashi,Katuba,Katuba,Manne Cachee,Manne Cachee,,,,,pepfar.60,BJwJiJ0aein,a23e47b7-7f43-4319-9ad0-2c81988bfcfb
+lH6ZWy27mkS,Haut-Katanga,Lubumbashi,Katuba,Kisanga,Divin Messie,Divin Messie,,,,,pepfar.93,WlQXB41fVg9,04bf0c64-4f95-42c0-ae7c-bfe9b2d72217
+K5HhLJMtFFG,Haut-Katanga,Lubumbashi,Katuba,Kisanga,Franciphar,Franciphar,,,,,pepfar.94,WlQXB41fVg9,41d21727-bff4-4889-9935-067ce94c5972
+bZwaDLusdSg,Haut-Katanga,Lubumbashi,Katuba,Kisanga,Jamma Yetu,Jamma Yetu,,,,,NULL,WlQXB41fVg9,e7c333d7-b27f-4dc7-877b-0412d16dcab8
+LOdsolX68i0,Haut-Katanga,Lubumbashi,Katuba,Kisanga,Kimilolo,Kimilolo,24.51667,-8.35,populated place,Kimilolo,pepfar.97,WlQXB41fVg9,63d64777-c4a3-4759-86aa-0a1c542f59f8
+QDuNZeC77vt,Haut-Katanga,Lubumbashi,Katuba,Kisanga,Kimilolo,Kimilolo,24.51667,-8.35,populated place,Kimilolo,NULL,WlQXB41fVg9,978f66d8-e78b-4345-bfe4-0d8308a19e79
+Be4mwhU4c9V,Haut-Katanga,Lubumbashi,Katuba,Kisanga,Mama Wa Huruma,Mama Wa Huruma,,,,,pepfar.100,WlQXB41fVg9,0882242e-57a9-4b08-896a-20cd13320673
+DTxLG6n4fcW,Haut-Katanga,Lubumbashi,Katuba,Kisanga,Mama wa Uruma,Mama wa Uruma,,,,,NULL,WlQXB41fVg9,98fc5cae-c30d-4177-a4c3-17b16292f077
+H9yIPRNzALG,Haut-Katanga,Lubumbashi,Katuba,Kisanga,Mimbulu,Mimbulu,27.96922,-9.17973,stream,Mimbulu,NULL,WlQXB41fVg9,10811c98-1e56-4d2f-aa06-95dff84e11db
+CZaXMKhsnuX,Haut-Katanga,Lubumbashi,Katuba,Kisanga,Mutuale,Mutuale,28.85132,-8.38324,populated place,Mutwale,NULL,WlQXB41fVg9,9953ed3b-2367-4c10-8f17-faa72c052bce
+tuFFJZK1E3e,Haut-Katanga,Lubumbashi,Katuba,Kisanga,Somika,Somika,27.73333,-0.15,populated place,Angumu,NULL,WlQXB41fVg9,5d659868-6fea-4d7d-a804-4eea27d9d6ee
+ZKxqW2GenTc,Haut-Katanga,Lubumbashi,Katuba,Kisanga,Ste Bernadette,Ste Bernadette,,,,,pepfar.101,WlQXB41fVg9,8b47eb8f-273d-45b9-b14f-d4eaf4e9ed1f
+GtFTwwzNxYV,Haut-Katanga,Lubumbashi,Katuba,Kisanga,Triangle,Triangle,,,,,NULL,WlQXB41fVg9,19a54fa3-764e-4c79-8292-d81ac61b9a22
+W1LvdiWpU6K,Haut-Katanga,Lubumbashi,Kenya,Kenya,A.Barbier,A.Barbier,,,,,pepfar.61,orZLnojDCbO,a31b508b-b5c9-433b-85e5-b024da6b49e9
+Qsxd9nGcUSp,Haut-Katanga,Lubumbashi,Kenya,Kenya,Awadi,Awadi,,,,,pepfar.62,orZLnojDCbO,bab09ceb-116e-43fb-aa66-0cd913b37293
+ehxNmDo2a5v,Haut-Katanga,Lubumbashi,Kenya,Kenya,Bakhita ,Bakhita R,,,,,NULL,orZLnojDCbO,f11be712-e5f2-4cc5-9d23-7a894c977c78
+OasE6itcEkA,Haut-Katanga,Lubumbashi,Kenya,Kenya,Eben Ezer ,Eben Ezer,,,,,NULL,orZLnojDCbO,de5ef01e-3964-43c0-815b-1d4ba89546dc
+vGW29iPzSN1,Haut-Katanga,Lubumbashi,Kenya,Kenya,Kenya 1,Kenya 1,,,,,NULL,orZLnojDCbO,df00a08d-e290-4bf6-bc46-f88b3ef6a6ed
+GRjs9nQ1HsM,Haut-Katanga,Lubumbashi,Kenya,Kenya,Kenya HGR,Kenya,26.31667,-10.06667,populated place,Kenya,pepfar.63,orZLnojDCbO,0043f6ba-b497-4f2c-8468-eb352eed9b97
+OT5jPx14IPr,Haut-Katanga,Lubumbashi,Kenya,Kenya,Paul Mari B,Paul Mari B,,,,,pepfar.64,orZLnojDCbO,b56edc58-0d89-419b-9973-3ad3f517186e
+QXGHno8EQ7f,Haut-Katanga,Lubumbashi,Kenya,Kenya,TBD1 - Kenya,Kenya,26.31667,-10.06667,populated place,Kenya,NULL,orZLnojDCbO,c39dac90-7566-47b0-887d-765492f18446
+gygC0iFqm7d,Haut-Katanga,Lubumbashi,Kenya,Kenya,TBD2 - Kenya,Kenya,26.31667,-10.06667,populated place,Kenya,NULL,orZLnojDCbO,d9160e02-0c1e-4da9-8f0a-5093560bea4d
+RFKz7p1oUDP,Haut-Katanga,Lubumbashi,Kenya,Kenya,TBD3 - Kenya,Kenya,26.31667,-10.06667,populated place,Kenya,NULL,orZLnojDCbO,5394ffe4-a3c6-4ba9-bb72-74e67d249633
+EtHBHPuDo0r,Haut-Katanga,Lubumbashi,Kenya,Kenya,TBD4 - Kenya,Kenya,26.31667,-10.06667,populated place,Kenya,NULL,orZLnojDCbO,ad6b87f8-cd39-4194-a8f7-1e8e1f9930dd
+xdjlZb5MxNV,Haut-Katanga,Lubumbashi,Lubumbashi,Kamalondo,Bumi,Bumi,,,,,NULL,X0CYKb13qOd,a8a5c27e-f1a6-489f-863f-d51609cddba3
+qowRPdVmNqv,Haut-Katanga,Lubumbashi,Lubumbashi,Kamalondo,Bumi ,Bumi,,,,,NULL,X0CYKb13qOd,4ff3bca6-edb1-4d37-9471-57a5b9b6d67e
+T0UEn5RGbEb,Haut-Katanga,Lubumbashi,Lubumbashi,Kamalondo,Crina ,Crina,,,,,pepfar.23,X0CYKb13qOd,97df9fc3-5e81-42e2-b0c3-e66b4801a6eb
+smnrklQUooP,Haut-Katanga,Lubumbashi,Lubumbashi,Kamalondo,Kamalondo HGR,Kamalondo,23.8537,-8.02544,populated place,Kamalondo,pepfar.24,X0CYKb13qOd,e542b9f1-cfd3-4430-82a3-89410d74d4c1
+F3gbn1rVbDZ,Haut-Katanga,Lubumbashi,Lubumbashi,Kamalondo,TBD - Kamalondo,TBD - Kamalondo,,,,,NULL,X0CYKb13qOd,8377707d-faeb-428a-b232-b7e006e891ab
+AeMQW9s2t83,Haut-Katanga,Lubumbashi,Lubumbashi,Kampemba,Jardin d'Eden CM,Jardin d'Eden,,,,,pepfar.36,LcW54EcaGAd,4fc95af8-0236-4e10-8b68-aa54085ced26
+mh2s9zHs6dP,Haut-Katanga,Lubumbashi,Lubumbashi,Kampemba,Penny Wise And Guts ,Penny Wise And Guts,,,,,pepfar.34,LcW54EcaGAd,ec716b80-a0c8-469d-9ae3-bb33d2ff153f
+LjjTIOJC16U,Haut-Katanga,Lubumbashi,Lubumbashi,Kampemba,Ste Famille de Nazareth ,Ste Famille de Nazareth,,,,,pepfar.35,LcW54EcaGAd,b1b62476-0e63-4d54-9826-4f7694e675b6
+WinWAJPbgBj,Haut-Katanga,Lubumbashi,Lubumbashi,Kampemba,TBD1 - Kampemba,Kampemba,25.16667,-8.08333,populated place,Kampemba,NULL,LcW54EcaGAd,9a44171e-f489-4652-a2ba-1d34826c0083
+YJKdL07CHk1,Haut-Katanga,Lubumbashi,Lubumbashi,Kampemba,TBD2 - Kampemba,Kampemba,25.16667,-8.08333,populated place,Kampemba,NULL,LcW54EcaGAd,e51b6a1b-566f-464b-b0d8-e3a316311b87
+s1KeM67zu9K,Haut-Katanga,Lubumbashi,Lubumbashi,Kampemba,TBD3 - Kampemba,Kampemba,25.16667,-8.08333,populated place,Kampemba,NULL,LcW54EcaGAd,02bf8017-aea6-4bcc-9ce1-172dc1b692c7
+KHok3230qCy,Haut-Katanga,Lubumbashi,Lubumbashi,Kampemba,TBD4 - Kampemba,Kampemba,25.16667,-8.08333,populated place,Kampemba,NULL,LcW54EcaGAd,2a088ec2-ad84-49af-b3c7-5d1ff3b0e752
+ksZfbkCyhA8,Haut-Katanga,Lubumbashi,Lubumbashi,Kampemba,TBD5 - Kampemba,Kampemba,25.16667,-8.08333,populated place,Kampemba,NULL,LcW54EcaGAd,60ae5d6a-f072-4d06-89c7-db8969b82c75
+RlmhQJvub2a,Haut-Katanga,Lubumbashi,Lubumbashi,Kampemba,TBD6 - Kampemba,Kampemba,25.16667,-8.08333,populated place,Kampemba,NULL,LcW54EcaGAd,32ba0d3a-0883-4ddd-b951-bf10a7f18ff6
+X15CfJlCYBm,Haut-Katanga,Lubumbashi,Lubumbashi,Kenya,Bakhita ,Bakhita R,,,,,pepfar.65,rCkUSFTRcry,ccdee4d0-9b73-402b-a093-29904a279a38
+CfWmIkRTMyj,Haut-Katanga,Lubumbashi,Lubumbashi,Kenya,Kalebuka ,Kalebuka,26.91972,-10.88306,populated place,Kalebuta,pepfar.67,rCkUSFTRcry,308b4b46-21c7-4346-9b21-792bf5f21784
+HTtNYZE6qho,Haut-Katanga,Lubumbashi,Lubumbashi,Kenya,Kenya 1,Kenya 1,,,,,NULL,rCkUSFTRcry,5dda0291-ffea-477b-81d8-a450f4e55206
+Un4HBrLeeZR,Haut-Katanga,Lubumbashi,Lubumbashi,Kenya,Kenya 1 ,Kenya 1,,,,,pepfar.66,rCkUSFTRcry,f9911e14-aeef-468c-bde7-f0eb0b7b424d
+R9hzHeuJvHo,Haut-Katanga,Lubumbashi,Lubumbashi,Kenya,Kenya 2,Kenya 2,,,,,NULL,rCkUSFTRcry,1fd49a94-de6c-4e4e-b5b2-3f7f0ea1eca6
+jhr1a0ZjOMG,Haut-Katanga,Lubumbashi,Lubumbashi,Kenya,Kiba ,Kiba,26.2744,-10.54089,stream,Kiba,pepfar.68,rCkUSFTRcry,f67f0917-cb89-444f-82ff-7a08096e854c
+uNGDvNIfov1,Haut-Katanga,Lubumbashi,Lubumbashi,Kenya,Mama wa Watoto ,Mama wa Watoto,,,,,NULL,rCkUSFTRcry,baced985-8fac-46b7-9206-0a61542c0e54
+evpNqLFIEy3,Haut-Katanga,Lubumbashi,Lubumbashi,Lubumbashi,Adventiste Lubumbashi CM,Adventiste Lubumbashi,,,,,pepfar.114,p7mMIllbBwj,51eb7358-09b9-4dc5-bb20-0660204db04d
+L6XpRktiWVN,Haut-Katanga,Lubumbashi,Lubumbashi,Lubumbashi,CMCD POLYCLINIQUE,CD POLYINIQUE,,,,,NULL,p7mMIllbBwj,b409968f-0d25-4318-b02a-e851d4e8275f
+JcmUwcZxre4,Haut-Katanga,Lubumbashi,Lubumbashi,Lubumbashi,Camps ASS,Camps,,,,,NULL,p7mMIllbBwj,8b44e7fc-01a7-4bc9-b154-feb8a305d9d2
+v50TSKnLIWG,Haut-Katanga,Lubumbashi,Lubumbashi,Lubumbashi,Clinique Universitaire Lubumbashi (CUL),Clinique Universitaire Lubumbashi (CUL),,,,,pepfar.115,p7mMIllbBwj,abbe13d1-0f2e-4f75-aaf8-ac1a8935d5f3
+jgqV27FaGX0,Haut-Katanga,Lubumbashi,Lubumbashi,Lubumbashi,Gambela,Gambela,23.72592,-0.74928,populated place,Gambela,NULL,p7mMIllbBwj,12c3128c-8cc9-4d56-9fbc-73fc02803158
+miet65hC5lO,Haut-Katanga,Lubumbashi,Lubumbashi,Lubumbashi,KASAPA,KASAPA,27.39529,-11.58619,populated place,Kasapa,NULL,p7mMIllbBwj,5d8e9d91-d57a-487f-a745-cf639ab277a6
+JCWqSji03MN,Haut-Katanga,Lubumbashi,Lubumbashi,Lubumbashi,Kalubwe II,Kalubwe II,,,,,NULL,p7mMIllbBwj,cf0d7179-17bb-42a8-a15f-d147ed7922eb
+b9qiT4tfTDP,Haut-Katanga,Lubumbashi,Lubumbashi,Lubumbashi,Kitumaini Polyclinique,Kitumaini Polyclinique,,,,,pepfar.118,p7mMIllbBwj,e6630da3-2be5-495b-87e5-edf731cfce98
+YyTN7q7STwG,Haut-Katanga,Lubumbashi,Lubumbashi,Lubumbashi,Lumumba,Lumumba,17.57076,-4.01142,populated place,Lutumba,NULL,p7mMIllbBwj,9c343da9-cbec-4a4b-9c51-20f0ff198ce3
+T4BxH7qzc10,Haut-Katanga,Lubumbashi,Lubumbashi,Lubumbashi,Makutano,Makutano,27.49305,-5.21278,populated place,Makutano,NULL,p7mMIllbBwj,deff6a8f-8636-49ca-a63b-7616f17fa1bc
+y2QnIhxSRWP,Haut-Katanga,Lubumbashi,Lubumbashi,Lubumbashi,Medicare,Medicare,,,,,pepfar.119,p7mMIllbBwj,954f965c-b28c-4705-9bdc-0d36fae983da
+UeS3WTPbMEN,Haut-Katanga,Lubumbashi,Lubumbashi,Lubumbashi,Polyclinique - Lubumbashi,Polyclinique - Lubumbashi,,,,,pepfar.116,p7mMIllbBwj,a0a7450d-cdad-4cf6-81c6-f0bc650ed11d
+yDYDjLlGZda,Haut-Katanga,Lubumbashi,Lubumbashi,Lubumbashi,Polyclinique De L'esperance,Polyclinique De L'esperance,,,,,pepfar.120,p7mMIllbBwj,a269cf3e-6589-43db-b85d-7bcb021a4aa6
+cJnZ5pr0YSs,Haut-Katanga,Lubumbashi,Lubumbashi,Lubumbashi,Radem Gambela,Radem Gambela,,,,,pepfar.124,p7mMIllbBwj,fde35fb4-c97b-47c6-b729-5638407c34f5
+NJoxRhWLsX8,Haut-Katanga,Lubumbashi,Lubumbashi,Lubumbashi,Saint-Esprit ,Saint-Esprit,,,,,pepfar.121,p7mMIllbBwj,984cf89e-1689-4a63-b6e5-8535aef3a047
+hIToIKgbaOy,Haut-Katanga,Lubumbashi,Lubumbashi,Lubumbashi,Scholastique ,Scholastique,,,,,pepfar.122,p7mMIllbBwj,a3f21192-f717-4531-bdd1-f0294823c425
+BPds6OvZz6p,Haut-Katanga,Lubumbashi,Lubumbashi,Lubumbashi,Sendwe CE,Sendwe CE,,,,,pepfar.199,p7mMIllbBwj,7a45b619-ae9b-4a9f-baed-5cc5c5022c03
+VOsFaBca204,Haut-Katanga,Lubumbashi,Lubumbashi,Lubumbashi,Sendwe ,Sendwe,26.47987,-5.90201,populated place,Sendwe,pepfar.123,p7mMIllbBwj,bc6ffc55-906d-4b63-98d3-81ec9ec7c017
+KbFju6VQ8Yr,Haut-Katanga,Lubumbashi,Lubumbashi,Lubumbashi,Sendwe HGPR,Sendwe HGPR,,,,,pepfar.126,p7mMIllbBwj,37002770-9d07-41a2-a948-e4079068cdbb
+KxmtTMprA6x,Haut-Katanga,Lubumbashi,Lubumbashi,Lubumbashi,Sendwe HGR,Sendwe,26.47987,-5.90201,populated place,Sendwe,pepfar.200,p7mMIllbBwj,7ac736c3-78ea-4a66-bb4e-06eb4c9faec9
+Te0bOUyApYc,Haut-Katanga,Lubumbashi,Lubumbashi,Lubumbashi,St Esprit,St Esprit,,,,,NULL,p7mMIllbBwj,120e54e2-b20d-4298-a34f-d2b863d95147
+mIthV3Dz6Zs,Haut-Katanga,Lubumbashi,Lubumbashi,Lubumbashi,St Marcel,St Marcel,,,,,pepfar.125,p7mMIllbBwj,36d55824-22ca-4d41-aaf7-6f845d44c91c
+ba0ErR3eTKL,Haut-Katanga,Lubumbashi,Lubumbashi,Lubumbashi,TBD1 - Lubumbashi,Lubumbashi,27.47938,-11.66089,seat of a first-order administrative division,Lubumbashi,NULL,p7mMIllbBwj,329adc63-fd04-437d-939e-3ed9068899d9
+qddyJ8sEjb0,Haut-Katanga,Lubumbashi,Lubumbashi,Lubumbashi,TBD2 - Lubumbashi,Lubumbashi,27.47938,-11.66089,seat of a first-order administrative division,Lubumbashi,NULL,p7mMIllbBwj,8d471029-6f4b-4d38-b022-bafcb18841a4
+aIVjKipCYw5,Haut-Katanga,Lubumbashi,Lubumbashi,Lubumbashi,TBD3 - Lubumbashi,Lubumbashi,27.47938,-11.66089,seat of a first-order administrative division,Lubumbashi,NULL,p7mMIllbBwj,47599901-2e0e-4e60-8e29-890f0d68b370
+iF5jJMYrOl6,Haut-Katanga,Lubumbashi,Lubumbashi,Lubumbashi,TBD4 - Lubumbashi,Lubumbashi,27.47938,-11.66089,seat of a first-order administrative division,Lubumbashi,NULL,p7mMIllbBwj,7abf4b57-4303-43a4-bc42-f7fc1eb1803e
+BuNZ66tzrRT,Haut-Katanga,Lubumbashi,Lubumbashi,Lubumbashi,TBD5 - Lubumbashi,Lubumbashi,27.47938,-11.66089,seat of a first-order administrative division,Lubumbashi,NULL,p7mMIllbBwj,e123bb11-8287-4178-b0db-8dd1f3ca720a
+ivCoqUqbJxX,Haut-Katanga,Lubumbashi,Lubumbashi,Lubumbashi,TBD7 - Lubumbashi,Lubumbashi,27.47938,-11.66089,seat of a first-order administrative division,Lubumbashi,NULL,p7mMIllbBwj,a5a8ba3b-44ec-4b77-b945-eed86b4afae3
+jEi5JV8IzZ5,Haut-Katanga,Lubumbashi,Lubumbashi,Lubumbashi,TBD8 - Lubumbashi,Lubumbashi,27.47938,-11.66089,seat of a first-order administrative division,Lubumbashi,NULL,p7mMIllbBwj,0abdc425-f68c-45cb-9a18-4ad9d3724006
+JXQxL0RpFvn,Haut-Katanga,Lubumbashi,Lubumbashi,Lubumbashi,Tshombe,Tshombe,25.8,-3.38333,populated place,Tshombe,NULL,p7mMIllbBwj,74162379-1033-4841-8c91-7a9312befe0f
+tS2uRkhhwCJ,Haut-Katanga,Lubumbashi,Lubumbashi,Mumbunda,Flora,Flora,,,,,pepfar.142,RxH0BNkxRaX,d0202321-960c-4878-94c5-0c3ef7f71cd5
+yvkYOcYKF28,Haut-Katanga,Lubumbashi,Lubumbashi,Mumbunda,Gecamines Clinique - Mubunda,Gecamines Clinique - Mubunda,,,,,pepfar.143,RxH0BNkxRaX,efad779b-521e-4650-9768-fb3c5b278483
+V2czG781LGm,Haut-Katanga,Lubumbashi,Lubumbashi,Mumbunda,Gecamines Sud Hop,Gecamines Sud Hop,,,,,pepfar.144,RxH0BNkxRaX,1a7baae6-a336-48ce-aecb-6ac676f47a2a
+gvtHvH9oXpo,Haut-Katanga,Lubumbashi,Lubumbashi,Mumbunda,Gemima ,Gemima,,,,,pepfar.145,RxH0BNkxRaX,5ca668a3-9727-424a-9ae3-f2ba7fcabcdf
+AoCcw7dE5YM,Haut-Katanga,Lubumbashi,Lubumbashi,Mumbunda,Mumbunda 1,Mumbunda 1,,,,,pepfar.149,RxH0BNkxRaX,455bf95a-427e-48ca-b0d2-a8382e00c68e
+LLreBLEEZLa,Haut-Katanga,Lubumbashi,Lubumbashi,Mumbunda,Mumbunda 2,Mumbunda 2,,,,,pepfar.146,RxH0BNkxRaX,e9163e5d-46e8-4e86-8d30-9ffd7c6a965d
+IVuoTqzo7Q2,Haut-Katanga,Lubumbashi,Lubumbashi,Mumbunda,Munua ,Munua,,,,,pepfar.147,RxH0BNkxRaX,29356311-2cc3-4206-b940-7def340ecb46
+mnXdYOPm4r8,Haut-Katanga,Lubumbashi,Lubumbashi,Mumbunda,St Francois D'assise,St Francois D'assise,,,,,pepfar.148,RxH0BNkxRaX,bbc2372a-5eda-40cc-b035-15c7375551af
+yE2LMiMWTaq,Haut-Katanga,Lubumbashi,Lubumbashi,Ruashi,Faveur De Dieu,Faveur De Dieu,,,,,pepfar.168,mYTgK9zSnar,ea82c4cc-eadc-4fba-8091-3b217a7c2bfc
+JhmTDw6sSE0,Haut-Katanga,Lubumbashi,Lubumbashi,Ruashi,La Grace - Ruashi,La Grace - Ruashi,,,,,pepfar.169,mYTgK9zSnar,709e8797-72d9-4dc8-96ed-4eeffbe1bcc8
+aWk1rbJiKgD,Haut-Katanga,Lubumbashi,Lubumbashi,Ruashi,Sion,Sion,,,,,pepfar.167,mYTgK9zSnar,a0015963-de1c-4ae9-9fa5-4d76f9fe31b1
+I8a4NOmR0Zb,Haut-Katanga,Lubumbashi,Lubumbashi,Ruashi,Wantashi,Wantashi,,,,,pepfar.171,mYTgK9zSnar,420eb562-e322-43bc-88c1-cc26e21d93c7
+oyOkxx9jZvZ,Haut-Katanga,Lubumbashi,Lubumbashi,Ruashi,Yambala,Yambala,21.96279,2.42889,populated place,Yambata,pepfar.170,mYTgK9zSnar,96a5c427-1935-4710-b50b-ca590a00ae22
+SE9ROmopNFy,Haut-Katanga,Lubumbashi,Lubumbashi,Rwashi,Aenaf Partage-Attitude ,Aenaf Partage-Attitude,,,,,pepfar.172,JlGVapzhvz3,e94260c6-fcb5-4eee-a7fd-d40243871975
+Amjh045ZXr5,Haut-Katanga,Lubumbashi,Lubumbashi,Rwashi,Hakika HGR,Hakika,,,,,pepfar.173,JlGVapzhvz3,817c1d37-7c10-4a5a-a25c-99a361df642b
+KEGsq6yo1Ia,Haut-Katanga,Lubumbashi,Lubumbashi,Rwashi,Mwana Bwato ,Mwana Bwato,,,,,NULL,JlGVapzhvz3,615e8525-da41-49d7-be87-5bdcdcb249a2
+qDbTmCdfNRQ,Haut-Katanga,Lubumbashi,Lubumbashi,Rwashi,Oracle de l'Eternel,Oracle de l'Eternel,,,,,NULL,JlGVapzhvz3,cb6cd879-ac2d-4386-a10a-790d1ced6d7b
+tdri2x745Iv,Haut-Katanga,Lubumbashi,Lubumbashi,Rwashi,Polyclinique Fraternite,Polyclinique Fraternite,,,,,pepfar.174,JlGVapzhvz3,201df3df-a64f-48fc-b1c8-55cf5b7db834
+bHzuG2AmGSC,Haut-Katanga,Lubumbashi,Lubumbashi,Rwashi,Rwashi HGR,Rwashi,29.0425,-3.76556,populated place,Rwasha,NULL,JlGVapzhvz3,2401e592-d9e5-40ca-8f61-fe7cf287be84
+JehJmg7LsXQ,Haut-Katanga,Lubumbashi,Lubumbashi,Rwashi,TBD1 - Rwashi,Rwashi,29.0425,-3.76556,populated place,Rwasha,NULL,JlGVapzhvz3,22f23fd0-c579-4bca-af50-181b28992ef2
+fHInXBBdc3N,Haut-Katanga,Lubumbashi,Lubumbashi,Rwashi,TBD2 - Rwashi,Rwashi,29.0425,-3.76556,populated place,Rwasha,NULL,JlGVapzhvz3,0a000a9d-00dd-46d0-bcbb-3cc5a2593f2e
+uQcl29w44Ow,Haut-Katanga,Lubumbashi,Lubumbashi,Rwashi,TBD3 - Rwashi,Rwashi,29.0425,-3.76556,populated place,Rwasha,NULL,JlGVapzhvz3,6f39ec18-874f-4734-a7a3-c0e044923a45
+jQ1u7g0KKG0,Haut-Katanga,Lubumbashi,Lubumbashi,Rwashi,TBD4 - Rwashi,Rwashi,29.0425,-3.76556,populated place,Rwasha,NULL,JlGVapzhvz3,e639f2f1-9246-46da-abac-04de44090220
+JKQBhzXraeA,Haut-Katanga,Lubumbashi,Lubumbashi,Tshamilemba,Afia Mzuri ,Afia Mzuri,,,,,pepfar.195,OWrW8UtHRQf,ac40e7b9-d848-42f0-94b8-3d6c72fbbc33
+Sh4NVQJ4Me3,Haut-Katanga,Lubumbashi,Lubumbashi,Tshamilemba,Amani,Amani,,,,,NULL,OWrW8UtHRQf,df043a91-b38a-496f-b2cf-f0613dc0762e
+jqArWBgKSBz,Haut-Katanga,Lubumbashi,Lubumbashi,Tshamilemba,Amani-Tshamilemba ,Amani-Tshamilemba,,,,,pepfar.187,OWrW8UtHRQf,7c9e16a3-267e-4588-9e82-548ea0b866a3
+fC2nPYZ0SrO,Haut-Katanga,Lubumbashi,Lubumbashi,Tshamilemba,Bakhita 2 ,Bakhita 2,,,,,pepfar.194,OWrW8UtHRQf,4dc8609c-bf44-42bf-81de-42b6ab5faf0a
+uurLKwCopzf,Haut-Katanga,Lubumbashi,Lubumbashi,Tshamilemba,Camp Fabrique,Camp Fabrique,,,,,NULL,OWrW8UtHRQf,07e147c5-7fe5-41f1-bb82-f94286ced32f
+gTwH1UqYEw6,Haut-Katanga,Lubumbashi,Lubumbashi,Tshamilemba,Etoile Brillante Du Matin CM,Etoile Brillante Du Matin,,,,,pepfar.193,OWrW8UtHRQf,49412320-102c-4fa9-885a-4574521f5379
+SkbLU2qeUpy,Haut-Katanga,Lubumbashi,Lubumbashi,Tshamilemba,Famika,Famika,,,,,NULL,OWrW8UtHRQf,9be3d44a-c4f7-4c98-9e4a-5b739372b420
+x9CCQDTPfcu,Haut-Katanga,Lubumbashi,Lubumbashi,Tshamilemba,Famika ,Famika,,,,,pepfar.189,OWrW8UtHRQf,5a6c56c7-745b-4304-b3de-9f038e2af4ff
+vEFRaQaTc0N,Haut-Katanga,Lubumbashi,Lubumbashi,Tshamilemba,Hopital Radem ,Hopital Radem,,,,,pepfar.188,OWrW8UtHRQf,d59efbc5-bd25-45b2-ad74-87a763815d09
+frgxGXJe9U7,Haut-Katanga,Lubumbashi,Lubumbashi,Tshamilemba,Jenovic ,Jenovic,,,,,pepfar.190,OWrW8UtHRQf,278cd12a-bf3b-418f-baee-a83342e3ae1b
+tOMbsmjarqZ,Haut-Katanga,Lubumbashi,Lubumbashi,Tshamilemba,Kigoma Est,Kigoma Est,,,,,NULL,OWrW8UtHRQf,f7d0704b-e165-42df-935d-f797368e6321
+A8imAoOyPOY,Haut-Katanga,Lubumbashi,Lubumbashi,Tshamilemba,Kigoma Ouest,Kigoma Ouest,,,,,NULL,OWrW8UtHRQf,19803ebe-8864-44bc-ba05-af55cead82ac
+nSNAlCGf9Ye,Haut-Katanga,Lubumbashi,Lubumbashi,Tshamilemba,Lumiere Tshamilemba ,Lumiere Tshamilemba,,,,,pepfar.191,OWrW8UtHRQf,393feca2-ec87-4bdd-bc83-e7d563aa45e1
+mmboNKvarrT,Haut-Katanga,Lubumbashi,Lubumbashi,Tshamilemba,MAMA ELISABETH ,MAMA ELISABETH,,,,,NULL,OWrW8UtHRQf,aaaafee9-db45-4e81-a140-6fbc21edb7fa
+iL3nQeNQNUR,Haut-Katanga,Lubumbashi,Lubumbashi,Tshamilemba,MLK POLYCLINIQUE,MLK POLYINIQUE,,,,,NULL,OWrW8UtHRQf,72b15259-c754-4e86-add9-26256775a2de
+YUyqRTcqURN,Haut-Katanga,Lubumbashi,Lubumbashi,Tshamilemba,Medaille d'Or CM,Medaille d'Or,,,,,pepfar.196,OWrW8UtHRQf,49b9e625-78ee-48fe-84a7-597356136271
+V7tnmpZ2tNG,Haut-Katanga,Lubumbashi,Lubumbashi,Tshamilemba,Poly du Bel - air ,Poly du Bel - air,,,,,NULL,OWrW8UtHRQf,bfa5a705-485c-4803-a16c-806ec2d6bcd5
+SYMWgWpSY9A,Haut-Katanga,Lubumbashi,Lubumbashi,Tshamilemba,SNCC Lubumbashi HGR,SNCC Lubumbashi,,,,,pepfar.192,OWrW8UtHRQf,c13eb9f4-f1f6-4b5b-9ad5-069aaacd0bdd
+NXrqLaJMmIu,Haut-Katanga,Lubumbashi,Lubumbashi,Tshamilemba,St Thomas ,St Thomas,,,,,NULL,OWrW8UtHRQf,59897814-53cb-43f3-854c-5429ef9e87a9
+csAUhz9Rlqi,Haut-Katanga,Lubumbashi,Lubumbashi,Tshamilemba,la Promesse CM,la Promesse,,,,,pepfar.197,OWrW8UtHRQf,7e8dd6cf-9353-4a2e-8a9d-ae8aafb9ba63
+IBfC0WPbVbp,Haut-Katanga,Lubumbashi,Lubumbashi,Vangu,Rwashi HGR,Rwashi,29.0425,-3.76556,populated place,Rwasha,NULL,WiUKOLzUkaA,98ad699f-d783-4414-8504-0b45e64a0025
+LO3q2ZZQHVt,Haut-Katanga,Lubumbashi,Lubumbashi,Vangu,Vangu HGR,Vangu,23.25898,-2.33536,populated place,Vangu,pepfar.198,WiUKOLzUkaA,3756fb7e-4f2e-43f0-ab65-ca8920566a4e
+REPEj6UeZmL,Haut-Katanga,Lubumbashi,Sakania,Sakania,Fma Mokambo,Fma Mokambo,,,,,pepfar.183,kEfeQPizLYi,8dc135d5-aa94-4aef-935b-1035324a951c
+aMgy2B44uyo,Haut-Lomami,Haut-Lomami,Bukama,Bukama,Bukama HGR,Bukama,25.85475,-9.20443,populated place,Bukama,pepfar.207,dquUAy1rHuo,2462e155-8596-404f-be46-a24a3f034f32
+vcWF207PZ4u,Haut-Lomami,Haut-Lomami,Bukama,Bukama,Congo SNCC,Congo SNCC,,,,,pepfar.202,dquUAy1rHuo,be3a1e0e-f1d3-40af-8156-8a0529afa8ca
+ZfOe6p0zIQn,Haut-Lomami,Haut-Lomami,Bukama,Bukama,Kabamoma,Kabamoma,,,,,pepfar.203,dquUAy1rHuo,f0968358-803b-4ac3-bf4a-ed6d2e32f775
+Q8zBsDPkwKn,Haut-Lomami,Haut-Lomami,Bukama,Bukama,Kibangu,Kibangu,28.99051,-8.40389,populated place,Kibango,pepfar.206,dquUAy1rHuo,94821aa4-00db-423b-9828-81ed61d1765e
+EredNxptQH8,Haut-Lomami,Haut-Lomami,Bukama,Bukama,Makala,Makala,15.31611,-4.38056,third-order administrative division,Makala,pepfar.204,dquUAy1rHuo,4a9391e4-cbff-42e0-9bf5-16f2a4c39922
+qM9S2Qi73NQ,Haut-Lomami,Haut-Lomami,Bukama,Bukama,MÃ©thodiste - Bukama,MÃ©thodiste - Bukama,,,,,pepfar.205,dquUAy1rHuo,bb4a993d-fef1-4927-8ef6-a3f3e48fc8ef
+hgSdsfBIuLh,Haut-Lomami,Haut-Lomami,Bukama,Kikondja,Kalombo 1,Kalombo 1,,,,,pepfar.225,lvBafzpWL2E,499fcfbc-2599-4bd0-9d2b-08afd054c258
+y76R5fxx6Kv,Haut-Lomami,Haut-Lomami,Bukama,Kikondja,Kipamba 2 ,Kipamba 2,,,,,pepfar.222,lvBafzpWL2E,40480e79-1937-4f3f-97cb-1f0ba4cdd3c9
+WmtwybwSAof,Haut-Lomami,Haut-Lomami,Bukama,Kikondja,Kitembo ,Kitembo,19.11185,-5.88722,populated place,Kitembo,pepfar.223,lvBafzpWL2E,c4bce59a-3d5a-4ae6-8afe-fad721afcdea
+DHK4PoBK2Bd,Haut-Lomami,Haut-Lomami,Bukama,Kikondja,Mangi 2 ,Mangi 2,,,,,pepfar.221,lvBafzpWL2E,88728f3c-6944-49fc-954a-b02cb506f56e
+XTqsRehicTr,Haut-Lomami,Haut-Lomami,Bukama,Kikondja,Mangi 4 ,Mangi 4,,,,,pepfar.224,lvBafzpWL2E,a3800eac-11be-434f-a792-54cb558d5e36
+TDsrm8m2dGq,Haut-Lomami,Haut-Lomami,Kabongo,Kabongo,Kambo,Kambo,21.04345,3.3629,stream,Kambe,pepfar.208,SW7oN27TfFI,43505de6-863a-48f4-ad8d-3f85b5e8399f
+GNT0suAvzBB,Haut-Lomami,Haut-Lomami,Kabongo,Kabongo,Kamungu,Kamungu,26.13897,-10.81835,populated place,Kamungu,pepfar.209,SW7oN27TfFI,a46aa354-41e6-41e2-b82c-ca2781af74d4
+KR1sL5UTd6A,Haut-Lomami,Haut-Lomami,Kabongo,Kabongo,Kime,Kime,25.63544,-7.39582,populated place,Kime,pepfar.210,SW7oN27TfFI,ca208439-f4c0-46fa-869b-cc50b105b7bd
+AXIUF43zHII,Haut-Lomami,Haut-Lomami,Kabongo,Kabongo,Kina,Kina,27.03483,-8.1643,populated place,Kina,pepfar.211,SW7oN27TfFI,82351610-5a75-4431-93ce-bab20f570904
+kJNXZB1nFMS,Haut-Lomami,Haut-Lomami,Kabongo,Kayamba,Kayamba HGR,Kayamba,26.61667,-11.4,populated place,Kayamba,pepfar.220,QN3BvovM7r2,3c61e701-412d-474d-8fdf-f6cae645422b
+I05CIpkaL3N,Haut-Lomami,Haut-Lomami,Kabongo,Kayamba,Mobela ,Mobela,25.21095,-6.66546,populated place,Mombela,pepfar.219,QN3BvovM7r2,aa113bbb-c862-444d-8bc6-19e1d5987748
+S03Zj2xbQgV,Haut-Lomami,Haut-Lomami,Kabongo,Kitenge,Amani-Kitenge,Amani-Kitenge,,,,,pepfar.226,jURa1M48QVu,7d5ee1c7-2451-454c-807c-ad48d1b105db
+n1BeQMf9Arf,Haut-Lomami,Haut-Lomami,Kabongo,Kitenge,Budi,Budi,23.93333,-3.06667,populated place,Budi,pepfar.227,jURa1M48QVu,f19d47e4-7c33-4d89-9ee7-1035e276d521
+eqfYjAVyCFq,Haut-Lomami,Haut-Lomami,Kabongo,Kitenge,Kitenge HGR,Kitenge,17.5606,-6.74066,populated place,Kitenge,pepfar.228,jURa1M48QVu,06a456cd-cba7-49e5-948c-1cc6b66f128c
+opqmVvcoVmb,Haut-Lomami,Haut-Lomami,Kabongo,Kitenge,Makwidi,Makwidi,26.03592,-7.32207,populated place,Makuidi,pepfar.229,jURa1M48QVu,09045183-e237-45d3-bd9c-6f5ac3d51a9c
+uDvQxgsEZDl,Haut-Lomami,Haut-Lomami,Kamina,Kamina,Bumi,Bumi,,,,,pepfar.212,bkHaWQ9ql5h,9097dd2d-1abf-486b-a633-b834afd57bdf
+a0c4LnAXdHt,Haut-Lomami,Haut-Lomami,Kamina,Kamina,Kamina HGR,Kamina,24.99798,-8.73508,populated place,Kamina,pepfar.218,bkHaWQ9ql5h,787473dd-be84-4ff0-9b2c-4661c9578ee3
+peh8WuMfKLa,Haut-Lomami,Haut-Lomami,Kamina,Kamina,Katuba 2 - Kamina,Katuba 2 - Kamina,,,,,pepfar.213,bkHaWQ9ql5h,2a48bdd6-d433-444d-9b8b-4d50d489ed73
+qt6qSUxjTxi,Haut-Lomami,Haut-Lomami,Kamina,Kamina,Mere Sauveur,Mere Sauveur,,,,,pepfar.214,bkHaWQ9ql5h,5c424357-1d0e-423c-8c1b-b6fdf6de8795
+c8LfcydnDi3,Haut-Lomami,Haut-Lomami,Kamina,Kamina,Quartier 52,Quartier 52,,,,,pepfar.215,bkHaWQ9ql5h,a329ee67-8fde-4ef1-9b91-78d7cd9073df
+hjLoJOMNP0q,Haut-Lomami,Haut-Lomami,Kamina,Kamina,Regie des Voies Aeriennes ,Regie des Voies Aeriennes,,,,,pepfar.216,bkHaWQ9ql5h,4baf791f-54c2-4bfa-9690-cb4e2e72e256
+NcCRhzIj92p,Haut-Lomami,Haut-Lomami,Kamina,Kamina,Shungu,Shungu,28.86417,-1.28444,populated place,Shungo,pepfar.217,bkHaWQ9ql5h,81a8e2f1-07c2-4dc1-b763-e174d4f2e3ed
+dQOhpubpLo7,Haut-Lomami,Haut-Lomami,Kamina,Songa,Grelka,Grelka,,,,,pepfar.239,XMzW01Cc0Jh,0bb95fe5-7be3-4651-9a7f-440ac7e9b28c
+TDst3e4xcTo,Haut-Lomami,Haut-Lomami,Kamina,Songa,Kipukwe,Kipukwe,25.43333,-9.7,populated place,Kipukwe,pepfar.241,XMzW01Cc0Jh,1a685235-9a12-4db8-a35f-cee85287ee92
+ax5mQro9w9x,Haut-Lomami,Haut-Lomami,Kamina,Songa,Samba,Samba,21.21209,0.20573,populated place,Samba,pepfar.242,XMzW01Cc0Jh,976844a4-c68d-4c05-a028-b77499c772d5
+fafCCBWgmcF,Haut-Lomami,Haut-Lomami,Kamina,Songa,Songa HGR,Songa,14.37668,-5.84218,populated place,Songa,pepfar.240,XMzW01Cc0Jh,cb06f9ed-5ef0-4359-9b7a-baa9dc0e7b61
+kWwg7eAUo0B,Haut-Lomami,Haut-Lomami,Malemba-Nkulu,Malemba-Nkulu,Butombe,Butombe,26.71592,-8.08364,populated place,Butombe,pepfar.230,C3w5Zx7JbXB,b25a5d4e-c5bb-43c3-9926-b0a54e1f4724
+YvcJVTiUQbK,Haut-Lomami,Haut-Lomami,Malemba-Nkulu,Malemba-Nkulu,Kyamakanza,Kyamakanza,,,,,pepfar.232,C3w5Zx7JbXB,10059405-dbe7-4748-aa05-9291144e3056
+MTxyW3qxzzC,Haut-Lomami,Haut-Lomami,Malemba-Nkulu,Malemba-Nkulu,Lubondoyi ,Lubondoyi,27.88828,-4.5037,stream,Lubondoye,pepfar.231,C3w5Zx7JbXB,1557bdd9-86ac-4571-9c00-78148e138fac
+wcMUOKsGWek,Haut-Lomami,Haut-Lomami,Malemba-Nkulu,Malemba-Nkulu,Mukomutombo,Mukomutombo,,,,,pepfar.233,C3w5Zx7JbXB,35a46803-9f1c-4a67-8363-749544483807
+sjAbJd3YybW,Haut-Lomami,Haut-Lomami,Malemba-Nkulu,Malemba-Nkulu,Nseya,Nseya,,,,,pepfar.234,C3w5Zx7JbXB,8a56c568-f240-442e-b838-454c48c03bfb
+O3hvgaPY4KV,Haut-Lomami,Haut-Lomami,Malemba-Nkulu,Mulongo,Kabamba ,Kabamba,20.66417,-6.03175,populated place,Kabamba,pepfar.235,bjZdLKdbZmp,01b4b4a4-c6d9-4eef-8d2c-65d349a23398
+I9yl20KTHo4,Haut-Lomami,Haut-Lomami,Malemba-Nkulu,Mulongo,Kafumbe ,Kafumbe,24.89706,-7.70796,populated place,Kafumbwe,pepfar.236,bjZdLKdbZmp,4e71bf0f-09b2-4f0c-b569-5e0bec01d785
+UhN54NgDeKg,Haut-Lomami,Haut-Lomami,Malemba-Nkulu,Mulongo,Mulongo HGR,Mulongo,26.99852,-7.83486,populated place,Mulongo,pepfar.238,bjZdLKdbZmp,0a25c39a-cf1a-4d0f-ad79-8cdd490bdfab
+dCqHFQekZme,Haut-Lomami,Haut-Lomami,Malemba-Nkulu,Mulongo,Ngoya ,Ngoya,23.41971,-9.75661,populated place,Ngoya,pepfar.237,bjZdLKdbZmp,b8ede35d-4488-4083-b2b7-86baf44feecd
+pbPDGDlWbw1,Ituri,Djugu,Djugu,Bambu,Bambu HGR,Bambu,27.34066,2.28631,populated place,Bambu,NULL,F7dN2qWcG5d,197511cb-86ea-48a5-a3aa-8f50224975bd
+JvxtaMDJTi4,Ituri,Djugu,Djugu,Bambu,Dala ,Dala,30.86773,2.24462,populated place,Dala,NULL,F7dN2qWcG5d,2ad9b632-1e0d-459f-9e45-c8ea90525d25
+F2039Nvkt47,Ituri,Djugu,Djugu,Bambu,Kobu ,Kobu,29.47941,2.99311,stream,Kobu,NULL,F7dN2qWcG5d,a7a69a20-b69e-48b6-a419-b53feb331f23
+nKhIyMYgSuh,Ituri,Djugu,Djugu,Bambu,Lalo ,Lalo,30.56335,2.05491,populated place,Lalo,NULL,F7dN2qWcG5d,8f27832c-ead5-490a-b1ab-ef4b231b0f09
+R6K8ahNUabS,Ituri,Djugu,Djugu,Bambu,Nyangaray ,Nyangaray,,,,,NULL,F7dN2qWcG5d,73000ff2-b29b-4af4-ab22-2893198fbfb5
+ArkqFhPbOcy,Ituri,Djugu,Djugu,Bambu,TBD1 - Bambu,Bambu,27.34066,2.28631,populated place,Bambu,NULL,F7dN2qWcG5d,39361e8f-01a5-4da7-890e-a36e363056a1
+g6rSN9FkSFd,Ituri,Djugu,Djugu,Bambu,TBD2- Bambu,TBD2- Bambu,,,,,NULL,F7dN2qWcG5d,31b8e92f-114f-4501-bc42-c19924968539
+aAGlamvt0fJ,Ituri,Djugu,Djugu,Bambu,TBD3 - Bambu,Bambu,27.34066,2.28631,populated place,Bambu,NULL,F7dN2qWcG5d,22c7c581-d8fb-4c0c-a782-ba8a6d2918a5
+WKakrvN2rAU,Ituri,Djugu,Djugu,Bambu,TBD4 - Bambu,Bambu,27.34066,2.28631,populated place,Bambu,NULL,F7dN2qWcG5d,2498904c-6927-4f91-b101-c66a6c5c69bf
+iZ2KBRRDq5C,Ituri,Djugu,Djugu,Bunia,Adventiste Bunia,Adventiste Bunia,,,,,NULL,D6YoNCVxQHy,0b9412bc-a3cd-44c2-a799-5af68d200fa7
+apr84YqP9u2,Ituri,Djugu,Djugu,Bunia,Central,Central,,,,,NULL,D6YoNCVxQHy,485d7909-c14e-46b6-b5f7-24bd04cda563
+IHXNRxY2Kmo,Ituri,Djugu,Djugu,Bunia,Kindia,Kindia,17.74848,-4.54227,populated place,Kindia,NULL,D6YoNCVxQHy,e673322f-f0d6-4a6c-ac54-651aecbdbf74
+BGD6HP4pm3u,Ituri,Djugu,Djugu,Bunia,Lembabo,Lembabo,,,,,NULL,D6YoNCVxQHy,3104ad6e-18bf-4173-89bf-584611325029
+FuGDjZUlAFF,Ituri,Djugu,Djugu,Bunia,Ngezi/PNC,NgeziPNC,,,,,NULL,D6YoNCVxQHy,ba737e2d-91ec-47ee-a819-266d75176e6a
+IPgaZKBVP2e,Ituri,Djugu,Djugu,Bunia,Nyakasanza,Nyakasanza,,,,,NULL,D6YoNCVxQHy,a9990c32-bf3b-4c2b-9a12-45c0b67e55d3
+IyFoE9YHdkw,Ituri,Djugu,Djugu,Bunia,Simbiliabo,Simbiliabo,,,,,NULL,D6YoNCVxQHy,bbfa41f9-0102-424f-b430-badd20f52411
+z5W0iRS8X5k,Ituri,Djugu,Djugu,Bunia,TBD1 - Bunia,Bunia,30.25224,1.55941,populated place,Bunia,NULL,D6YoNCVxQHy,935f9731-6cfd-4b06-b3d0-f8f737712e67
+cJhBCzd3u5U,Ituri,Djugu,Djugu,Bunia,TBD10 - Bunia,TBD10 - Bunia,,,,,NULL,D6YoNCVxQHy,820ee51f-5a05-4c2a-9635-c1c93e3aabce
+Vm29SzNK4Nx,Ituri,Djugu,Djugu,Bunia,TBD2 - Bunia,Bunia,30.25224,1.55941,populated place,Bunia,NULL,D6YoNCVxQHy,6c8b3864-2719-4440-906e-c591f63b69bd
+wqZx3kji6sO,Ituri,Djugu,Djugu,Bunia,TBD3 - Bunia,Bunia,30.25224,1.55941,populated place,Bunia,NULL,D6YoNCVxQHy,d4bb3825-ac45-42f0-8b15-ef5b45996c51
+KjJca5LgNTw,Ituri,Djugu,Djugu,Bunia,TBD4 - Bunia,Bunia,30.25224,1.55941,populated place,Bunia,NULL,D6YoNCVxQHy,dafd408e-545e-4a27-b70c-5cac6c51fab6
+WTTqa2kdnaH,Ituri,Djugu,Djugu,Bunia,TBD5 - Bunia,Bunia,30.25224,1.55941,populated place,Bunia,NULL,D6YoNCVxQHy,0c26dc0b-ae35-45ae-803b-d6ae6b28fe92
+bT26xSSzW5n,Ituri,Djugu,Djugu,Bunia,TBD6 - Bunia,Bunia,30.25224,1.55941,populated place,Bunia,NULL,D6YoNCVxQHy,a2f34721-96dc-43f7-b9ca-b5940f7692ba
+kOnnQO8JoC4,Ituri,Djugu,Djugu,Bunia,TBD7 - Bunia,Bunia,30.25224,1.55941,populated place,Bunia,NULL,D6YoNCVxQHy,af536ea2-b7b6-4b16-a83a-4d494f63fb4a
+nx7TUmqSgQw,Ituri,Djugu,Djugu,Bunia,TBD8 - Bunia,Bunia,30.25224,1.55941,populated place,Bunia,NULL,D6YoNCVxQHy,4758d5f5-94b4-4b4d-8758-3e0bf30536be
+ZwvaLKyQTeX,Ituri,Djugu,Djugu,Bunia,TBD9 - Bunia,Bunia,30.25224,1.55941,populated place,Bunia,NULL,D6YoNCVxQHy,6e128f5d-c7c3-4d4d-9507-1589fa5cae87
+oA6fBrPyksF,Ituri,Djugu,Djugu,Mongbwalu,Abelkozo  ,Abelkozo,30.06667,1.88333,populated place,Abelkoso,NULL,jDJlgTLEoVb,15ab505d-62d6-4535-845b-3b6c79b6fa1a
+FwQMZBGVjsp,Ituri,Djugu,Djugu,Mongbwalu,Lodjo ,Lodjo,30.01667,2.06667,populated place,Lodjo,NULL,jDJlgTLEoVb,a35003b9-3907-4644-b86d-7b6762e9ae0a
+RtXybbchwh6,Ituri,Djugu,Djugu,Mongbwalu,Mongbwalu HGR,Mongbwalu,30.03861,1.94468,populated place,Mangbwalu,NULL,jDJlgTLEoVb,7dc6e594-55a0-496d-967d-5228a7a5a3d9
+NGlLpzxlcyn,Ituri,Djugu,Djugu,Mongbwalu,Notre Dame de la CharitÃ© Maternelle ,Notre Dame de la CharitÃ© Maternelle,,,,,NULL,jDJlgTLEoVb,6d02eede-00f6-4dc0-b66f-2981e9ea4ec1
+wfBhRpe3jv2,Ituri,Djugu,Djugu,Mongbwalu,PLUTO ,PLUTO,,,,,NULL,jDJlgTLEoVb,82cb3ca9-6a91-418f-bc26-add1e7a7d2e0
+aTlJMOCMdVP,Ituri,Djugu,Djugu,Mongbwalu,SAYO ,SAYO,24.83573,-0.6584,populated place,Sayo,NULL,jDJlgTLEoVb,0c24428e-08ac-4e13-8372-9c79c8e07c6f
+ZvG7CpQNCLe,Ituri,Djugu,Djugu,Mongbwalu,TBD1 - Mongbwalu,Mongbwalu,30.03861,1.94468,populated place,Mangbwalu,NULL,jDJlgTLEoVb,96e2237b-fae0-4b71-83a6-01a5d7444dd8
+yWr4mhYoik5,Ituri,Djugu,Djugu,Mongbwalu,TBD2 - Mongbwalu,Mongbwalu,30.03861,1.94468,populated place,Mangbwalu,NULL,jDJlgTLEoVb,893fd967-cb2c-4637-9dba-c347de7eb7f0
+B0lbL9VqGza,Ituri,Djugu,Djugu,Mongbwalu,TBD3 - Mongbwalu,Mongbwalu,30.03861,1.94468,populated place,Mangbwalu,NULL,jDJlgTLEoVb,60ee122f-a159-4e2c-81a1-138f069d77e1
+D71GvzmVurz,Ituri,Djugu,Djugu,Mongbwalu,TBD4 - Mongbwalu,Mongbwalu,30.03861,1.94468,populated place,Mangbwalu,NULL,jDJlgTLEoVb,aeb82302-d6d3-420b-a824-6b0fb72ff2f0
+HD19sZfVCbR,Ituri,Djugu,Djugu,Nizi,Baimani ,Baimani,30.28986,1.80694,populated place,Baimani,NULL,IWakTQ7RaEL,51480bff-3284-478a-b263-764d2bb6b50a
+qsA2gQ4Ziq3,Ituri,Djugu,Djugu,Nizi,CommunautÃ© Emmanuel 39 Iga BariÃ¨re ,CommunautÃ© Emmanuel 39 Iga BariÃ¨re,,,,,NULL,IWakTQ7RaEL,c2aa52ae-9600-4cfd-86ef-4e436e4c5c99
+z0MHUSViB0i,Ituri,Djugu,Djugu,Nizi,Lopa ,Lopa,29.72335,3.45498,stream,Lopa,NULL,IWakTQ7RaEL,7e440e37-c804-42fc-9458-0e756fe18d28
+BN338gBHGgx,Ituri,Djugu,Djugu,Nizi,Nizi ,Nizi,30.30583,1.75395,populated place,Nizi,NULL,IWakTQ7RaEL,ec65531d-74cc-4bfc-9bac-775fd8663334
+PRzerCk0tzx,Ituri,Djugu,Djugu,Nizi,Nizi HGR,Nizi,30.30583,1.75395,populated place,Nizi,NULL,IWakTQ7RaEL,79862479-9f2b-488b-aae0-3d443d217645
+QHZ4fOl0oO0,Ituri,Djugu,Djugu,Nizi,TBD1 - Nizi,Nizi,30.30583,1.75395,populated place,Nizi,NULL,IWakTQ7RaEL,6e8154ff-b6ff-4760-836d-14f4cf418ef9
+ywK0ZDUVly8,Ituri,Djugu,Djugu,Nizi,TBD2 - Nizi,Nizi,30.30583,1.75395,populated place,Nizi,NULL,IWakTQ7RaEL,661a96d2-358a-42f0-8cf8-8ea97f22db21
+FYLZ8flnFlJ,Ituri,Djugu,Djugu,Nizi,TBD3 - Nizi,Nizi,30.30583,1.75395,populated place,Nizi,NULL,IWakTQ7RaEL,693234f7-2ff8-4d1f-b525-de6ddbb371e1
+a4CzRQDgfKU,Ituri,Djugu,Djugu,Nizi,TBD4 - Nizi,Nizi,30.30583,1.75395,populated place,Nizi,NULL,IWakTQ7RaEL,1ffd148e-7530-4f57-8219-286cc9a0761e
+sYNOJFUj063,Ituri,Ituri,Irumu,Bunia,Adventisite Bunia,Adventisite Bunia,,,,,pepfar.243,y4gXCdiEYie,fe4a8956-0757-4dc1-a88c-59a8ddf47efa
+gCyk2Iw432Q,Ituri,Ituri,Irumu,Bunia,Bigo ,Bigo,,,,,NULL,y4gXCdiEYie,d4fbb43f-4de5-4ab7-add4-690bde37214e
+K4NnAfdL1iS,Ituri,Ituri,Irumu,Bunia,Bora Uzima,Bora Uzima,,,,,NULL,y4gXCdiEYie,320a3521-c186-4a5f-b096-55c19a0bf98b
+WYOBEz4881o,Ituri,Ituri,Irumu,Bunia,Bunia Cite ,Bunia Cite,,,,,NULL,y4gXCdiEYie,c72dfa22-93a5-4443-a61f-a718312bb690
+BrZifYEXjUT,Ituri,Ituri,Irumu,Bunia,CNCA ,CNCA,,,,,NULL,y4gXCdiEYie,cd67383c-5359-4a23-be9f-4bc737540e79
+u2DhZm4PzTq,Ituri,Ituri,Irumu,Bunia,Central,Central,,,,,pepfar.244,y4gXCdiEYie,5a7cd0e9-bb30-4dbd-978a-b88e4ccec2b4
+MKKAGFpsVRP,Ituri,Ituri,Irumu,Bunia,Kindia,Kindia,17.74848,-4.54227,populated place,Kindia,pepfar.245,y4gXCdiEYie,1ec6b8e8-7d24-4fa9-992c-752b6c15d407
+HSb8DIgCDjR,Ituri,Ituri,Irumu,Bunia,Lembabo,Lembabo,,,,,pepfar.246,y4gXCdiEYie,618deb5b-7f80-4bdf-8907-fdd6200d709f
+LcNUyIRSw9S,Ituri,Ituri,Irumu,Bunia,Ngezi/PNC,NgeziPNC,,,,,pepfar.247,y4gXCdiEYie,761b4c01-41ac-47ea-8aec-58901d9cfc89
+ae0BILTPgzn,Ituri,Ituri,Irumu,Bunia,Nyakasanza,Nyakasanza,,,,,pepfar.248,y4gXCdiEYie,7bf8c0d0-8fcb-4971-bd36-de366ced4ba5
+iv3RxfdPxdD,Ituri,Ituri,Irumu,Bunia,Simbiliabo,Simbiliabo,,,,,pepfar.249,y4gXCdiEYie,9c1fde23-bb46-4b3a-9123-1b6edf37ff88
+l6YYxLEx2GP,Ituri,Ituri,Irumu,Rwampara,Barazana ,Barazana,30.06667,1.58333,populated place,Balazana,NULL,hO8hsJUqKGe,10d174eb-c472-4142-a8b7-391bf11d2f46
+v74fbK7M6hR,Ituri,Ituri,Irumu,Rwampara,DÃ©lÃ© ,DÃ©lÃ©,,,,,NULL,hO8hsJUqKGe,865c60c1-7c72-4285-9d0a-acd5b8257f51
+BbFB0tVZINV,Ituri,Ituri,Irumu,Rwampara,Kunda ,Kunda,14.95625,-5.26625,populated place,Kunda,NULL,hO8hsJUqKGe,4099c658-32ef-4aea-9ee3-5e31cec2eb4c
+RYKzqsPX8GD,Ituri,Ituri,Irumu,Rwampara,Mwanga ,Mwanga,17.90821,-5.25671,populated place,Mwanga,NULL,hO8hsJUqKGe,af58c1fb-f81c-4e10-b8dd-983210491e74
+d1d7KEZgHeZ,Ituri,Ituri,Irumu,Rwampara,Rwampara HGR,Rwampara,,,,,NULL,hO8hsJUqKGe,56fc6a95-4fa8-48fc-96e9-1b75f88ba961
+qCCQ6yHcCkC,Ituri,Ituri,Irumu,Rwampara,TBD1 - Rwampara,Rwampara,,,,,NULL,hO8hsJUqKGe,ab8c6854-b776-42b1-9eb1-65d913473c87
+RfLibDdyQ8i,Ituri,Ituri,Irumu,Rwampara,TBD2 - Rwampara,Rwampara,,,,,NULL,hO8hsJUqKGe,6d31a4aa-e73b-4126-bb4d-c9db786dadba
+FvKUhvfb88b,Ituri,Ituri,Irumu,Rwampara,TBD3 - Rwampara,Rwampara,,,,,NULL,hO8hsJUqKGe,09722078-4114-4655-8e24-f3878c111261
+tL14s9W147Z,Ituri,Ituri,Irumu,Rwampara,TBD4 - Rwampara,Rwampara,,,,,NULL,hO8hsJUqKGe,91bc26dd-9927-4f91-bcd7-3a15c59972e1
+vLtuZeZ4GV0,Kinshasa,Funa,Bandalungwa,Bandalungwa,Anr,Anr,,,,,pepfar.272,Ml7XhDDDSxr,1aeaf1de-8694-420e-9565-85b09a632883
+TINBR3DSIlZ,Kinshasa,Funa,Bandalungwa,Bandalungwa,Ararat,Ararat,,,,,pepfar.273,Ml7XhDDDSxr,d855849a-76c3-4710-b52c-3d9db73062f4
+BJTBxIUyKb8,Kinshasa,Funa,Bandalungwa,Bandalungwa,Centre De Transfusion Sanguine,Centre De Transfusion Sanguine,,,,,pepfar.271,Ml7XhDDDSxr,5481932d-f99f-44c8-a3c7-6e49b95b358e
+pacShub2G3Y,Kinshasa,Funa,Bandalungwa,Bandalungwa,Compassion,Compassion,,,,,pepfar.274,Ml7XhDDDSxr,af6bd618-8c90-455a-b4e8-c8eb803ae418
+FyzAz9jR6Fr,Kinshasa,Funa,Bandalungwa,Bandalungwa,Hope Medical,Hope Medical,,,,,pepfar.275,Ml7XhDDDSxr,81a8f385-ac31-43be-9d42-88aafefc513d
+G76R81cEwiu,Kinshasa,Funa,Bandalungwa,Bandalungwa,Kimbanza,Kimbanza,13.77803,-4.46358,populated place,Kimbanza,pepfar.276,Ml7XhDDDSxr,3c0709a4-c969-4223-b52e-e23e203d6fee
+Uk9nasgeiIS,Kinshasa,Funa,Bandalungwa,Bandalungwa,Libikisi,Libikisi,,,,,NULL,Ml7XhDDDSxr,9571c2ed-ccf6-4d4b-a428-5e0aa25d54bd
+e6c0ABiPQNC,Kinshasa,Funa,Bandalungwa,Bandalungwa,Mangembo,Mangembo,14.27243,-4.58463,populated place,Mangembo,pepfar.277,Ml7XhDDDSxr,c9e8efac-90b6-4b09-90fd-502ba5b9d538
+jDaHkJCJyzx,Kinshasa,Funa,Bandalungwa,Bandalungwa,Patience Medicale,Patience Medicale,,,,,pepfar.278,Ml7XhDDDSxr,b4962c99-9d84-4ca8-a480-0aa733784c2a
+VdOQBLsNbPQ,Kinshasa,Funa,Bandalungwa,Bandalungwa,Riviera,Riviera,,,,,pepfar.279,Ml7XhDDDSxr,7c71b52f-3df9-48cb-bacb-be7cc159fafa
+tx5B2cyTSjf,Kinshasa,Funa,Bandalungwa,Bandalungwa,Tshisuaka,Tshisuaka,22.64473,-6.49849,populated place,Tshisuaka,pepfar.280,Ml7XhDDDSxr,f1807cd8-8920-463c-951f-f29bd2933fc5
+sTDAQHvIKIV,Kinshasa,Funa,Bumbu,Bumbu,Anamed,Anamed,,,,,pepfar.329,P9eDzcrJECL,f3f1f3a8-649d-4d7a-a466-1e98a69eb5dc
+bhJOcDH6dWF,Kinshasa,Funa,Bumbu,Bumbu,Bumbu CME,Bumbu,15.29211,-4.36644,third-order administrative division,Bumbu,pepfar.324,P9eDzcrJECL,ad1a41f3-40c5-4eb1-8759-ac48e68888c5
+eYcFbb5oMBI,Kinshasa,Funa,Bumbu,Bumbu,CBCO Barel,CBCO Barel,,,,,pepfar.328,P9eDzcrJECL,53a14629-267d-41b7-8575-2f4f18a5c073
+Eui5bVyCQAp,Kinshasa,Funa,Bumbu,Bumbu,La Grace Medicale -Bumbu,La Grace Medicale -Bumbu,,,,,pepfar.325,P9eDzcrJECL,dd3deaf2-4517-4bae-bbca-0e320703894d
+xOGtsow3v3n,Kinshasa,Funa,Bumbu,Bumbu,Libondi ,Libondi,20.92632,-0.16766,populated place,Lifondi,pepfar.326,P9eDzcrJECL,95d41e27-16df-48d7-9196-82b87ac3c6b0
+v48USnRTqrX,Kinshasa,Funa,Bumbu,Bumbu,Siloe - Bumbu ,Siloe - Bumbu,,,,,pepfar.327,P9eDzcrJECL,9f8405d2-a230-4698-a207-0d6fbd4a9f6b
+aNXS943lsof,Kinshasa,Funa,Kalamu,Kalamu 1,Bondeko  - Kalamu1 ,Bondeko - Kalamu1,,,,,pepfar.338,YxBHH643Dqw,7f2d084a-2e60-4de4-89c0-c56486eba77e
+Pt3pZRenoHC,Kinshasa,Funa,Kalamu,Kalamu 1,Centre BiomeMedicale de Matonge ,Centre BiomeMedicale de Matonge,,,,,pepfar.339,YxBHH643Dqw,1ed789e0-7cd6-49b1-97d5-d5cab5af7ef8
+xHi9yBoP2rF,Kinshasa,Funa,Kalamu,Kalamu 1,Centre IST Matonge,Centre IST Matonge,,,,,pepfar.343,YxBHH643Dqw,9621d57b-95b4-4d73-96d3-fc82de23f3fd
+FOnUtDzAxcK,Kinshasa,Funa,Kalamu,Kalamu 1,Fondation Lisalisi,Fondation Lisalisi,,,,,pepfar.340,YxBHH643Dqw,6a7bbed4-37a8-433d-89f4-41e535bc2c27
+B3kmocUaM6A,Kinshasa,Funa,Kalamu,Kalamu 1,Kauka 2 CM,Kauka 2,,,,,pepfar.341,YxBHH643Dqw,67691263-6902-4f8b-8be2-4fe44e15dba6
+t9emPDxpJlR,Kinshasa,Funa,Kalamu,Kalamu 1,Onatra - Kalamu1 Hopital,Onatra - Kalamu1 Hopital,,,,,pepfar.342,YxBHH643Dqw,1ef15b05-b956-470a-b6e1-e2231b28e502
+WwsPMRGWZ2c,Kinshasa,Funa,Kalamu,Kalamu 2,Akram Bongolo,Akram Bongolo,,,,,pepfar.344,wwMaXO40nKG,496b7696-073b-4855-85ba-3352f76f5282
+IFCnHxoRtMZ,Kinshasa,Funa,Kalamu,Kalamu 2,Bien Etre Familial,Bien Etre Familial,,,,,pepfar.349,OT379VH2Xqx,f6ac3623-b143-4130-ab63-b71a9847ed41
+pZVNBJhQlJp,Kinshasa,Funa,Kalamu,Kalamu 2,Bon Berger 2 - Kalamu2,Bon Berger 2 - Kalamu2,,,,,pepfar.347,OT379VH2Xqx,653fdb3b-33d0-4469-9f2a-c2a347d0eed4
+JWGgz273wnf,Kinshasa,Funa,Kalamu,Kalamu 2,Centre MÃ©dical de l'AnÃ©mie SS,Centre MÃ©dical de l'AnÃ©mie SS,,,,,NULL,OT379VH2Xqx,5d4ba266-b7dd-47be-b543-aaa0dc47a8eb
+I9GSgKdjKWQ,Kinshasa,Funa,Kalamu,Kalamu 2,Centre MÃ©dical de l'AnÃ©mie SS,Centre MÃ©dical de l'AnÃ©mie SS,,,,,pepfar.350,wwMaXO40nKG,af91fe03-99b1-42e0-ba63-e1b287a7d761
+AZ2P7XVgSXH,Kinshasa,Funa,Kalamu,Kalamu 2,Kalamu Medical Center - Kalamu2,Kalamu Medical Center - Kalamu2,,,,,pepfar.346,OT379VH2Xqx,46e3d4e8-56e9-4541-add9-0eebb998e7b2
+gS1d6xZMSkL,Kinshasa,Funa,Kalamu,Kalamu 2,Mav Espoir,Mav Espoir,,,,,pepfar.348,OT379VH2Xqx,47eda1bf-f3c4-4884-a82e-2d847f42db4a
+z1m77GyvVrs,Kinshasa,Funa,Kalamu,Kalamu 2,Presbyterien Kasonga (CHK),Presbyterien Kasonga (K),,,,,pepfar.345,OT379VH2Xqx,30a12b45-655f-48c3-bed6-656944dc9313
+wGe0LSdww6Z,Kinshasa,Funa,Kasa-Vubu,Kasa-Vubu,Anciens Combattants ,Anciens Combattants,,,,,pepfar.357,P54NBkHgI9G,64b7ae8f-9ce8-4fe4-8c5f-c6f2177365a0
+nIllmN7hR7W,Kinshasa,Funa,Kasa-Vubu,Kasa-Vubu,Bon Berger Polyclinique,Bon Berger Polyclinique,,,,,pepfar.354,P54NBkHgI9G,ea786a4d-e238-46aa-884d-82bbb550750d
+QJk5E7AcuW2,Kinshasa,Funa,Kasa-Vubu,Kasa-Vubu,Bwanya,Bwanya,25.19972,-6.61908,populated place,Bwanga,pepfar.353,zm5mC7bHlfw,91836a33-8907-43ba-ac07-0fe11edd3482
+l19LlqtS9yY,Kinshasa,Funa,Kasa-Vubu,Kasa-Vubu,CASOP,CASOP,,,,,pepfar.358,P54NBkHgI9G,67f459b7-f176-4601-9a46-cbc1c143d96a
+P347ys8MMrT,Kinshasa,Funa,Kasa-Vubu,Kasa-Vubu,Clinique Des Anges -Kasa-Vubu,Clinique Des Anges -Kasa-Vubu,,,,,pepfar.351,zm5mC7bHlfw,96e93ab7-2580-44e9-879c-ca6d14a768e8
+XA4Txb1GgyN,Kinshasa,Funa,Kasa-Vubu,Kasa-Vubu,Esprosa ,Esprosa,,,,,pepfar.356,P54NBkHgI9G,425f68e7-5057-4261-8482-2ed1a04ffd8a
+uXbxJftgXjY,Kinshasa,Funa,Kasa-Vubu,Kasa-Vubu,Mama Pamela CH,Mama Pamela,,,,,pepfar.355,P54NBkHgI9G,55470536-c4fc-4863-a51b-7d9be973fb1e
+zDQHrRjZYyR,Kinshasa,Funa,Kasa-Vubu,Kasa-Vubu,Sonal,Sonal,,,,,pepfar.352,zm5mC7bHlfw,8e6c23cf-abec-4f05-802f-16945e3d3a79
+RV16Knzab6j,Kinshasa,Funa,Kasa-Vubu,Kasa-Vubu,Trinite - Kasa-Vubu CM,Trinite - Kasa-Vubu,,,,,pepfar.359,P54NBkHgI9G,dd2ecdaa-b228-4550-b0cb-dd438fca1bfc
+v773khcP7KK,Kinshasa,Funa,Kasa-Vubu,Police,PIR Victoire,PIR Victoire,,,,,pepfar.615,Bf7lGUMLg7A,d08059c8-9c4e-4eaa-b18e-a8fd88889f09
+fI0EkOM1tTm,Kinshasa,Funa,Kinshasa,Kinshasa,Barumbu CME,Barumbu,15.31667,-4.31667,third-order administrative division,Barumbu,pepfar.413,zGv6Uf7bXak,abd4b0b4-6af3-4cdd-9cf4-8aec2145bf7f
+ejdlw9Pc2uL,Kinshasa,Funa,Kinshasa,Kinshasa,Itaga ,Itaga,,,,,pepfar.415,zGv6Uf7bXak,d8fddbeb-4d57-4128-8a8b-223a62e11dab
+KCZrcu0qFQ8,Kinshasa,Funa,Kinshasa,Kinshasa,Mongala - Kinshasa,Mongala - Kinshasa,,,,,pepfar.417,zGv6Uf7bXak,0dfc5a9e-4c8f-45ad-92e2-e42e38c63f98
+WZmB0M5ybmn,Kinshasa,Funa,Kinshasa,Kinshasa,OSD Clinic,OSD Clinic,,,,,pepfar.414,zGv6Uf7bXak,3071b610-3815-48bc-99ac-b4e0b9c4fd91
+jGF15oFrdOu,Kinshasa,Funa,Kinshasa,Kinshasa,St Pierre - Kinshasa ,St Pierre - Kinshasa,,,,,pepfar.416,zGv6Uf7bXak,b115d3e8-7177-4804-9116-3a254a01e637
+aM0HWGElUDP,Kinshasa,Funa,Makala,Makala,Kin-Clinic,Kin-Clinic,,,,,pepfar.482,ULJUl7LFjTK,8729f340-acda-44b3-8ed8-4723cd8745ff
+R0mnoAB59Dn,Kinshasa,Funa,Makala,Makala,Mobokoli,Mobokoli,,,,,pepfar.484,ULJUl7LFjTK,033bce38-2433-40a0-acb6-788f0ee56e2e
+tnYuo0z8AWU,Kinshasa,Funa,Makala,Makala,Ngondo Maria,Ngondo Maria,,,,,pepfar.483,ULJUl7LFjTK,2c727ea4-e95c-445a-addc-41f0588c31f6
+I8pNOgV9G1r,Kinshasa,Funa,Makala,Makala,Selo ,Selo,15.20047,-4.72912,populated place,Selo,pepfar.481,ULJUl7LFjTK,06382c46-5ae2-47f8-a016-534a018df223
+fJ2ueEVRUvx,Kinshasa,Funa,Makala,Makala,Setas ,Setas,,,,,pepfar.480,ULJUl7LFjTK,d547a736-3136-4ec3-b34a-92a1cc983bde
+WRHQU97k9FI,Kinshasa,Funa,Makala,Makala,St Clement,St Clement,,,,,pepfar.479,ULJUl7LFjTK,0312592c-0212-403e-b1b0-ac68b39ddedd
+HwmXrDbTcFo,Kinshasa,Funa,Ngiri-Ngiri,Ngiri Ngiri,Ndjombo,Ndjombo,23.73634,-7.03686,stream,Ndombo,pepfar.584,Z9tWAM6JiGy,d7169530-579d-403a-a6f7-ab09beb2394e
+wfqEUq55XYO,Kinshasa,Funa,Ngiri-Ngiri,Ngiri Ngiri,Ngiri-Ngiri CH,Ngiri-Ngiri,15.29833,-4.3575,populated place,Ngiri-Ngiri,pepfar.585,Z9tWAM6JiGy,b4fd44a4-6b68-4423-8edc-5f75bb4386df
+Y0rM18xNp03,Kinshasa,Funa,Ngiri-Ngiri,Ngiri-Ngiri,Bolingo Ngiri-Ngiri CH,Bolingo Ngiri-Ngiri,,,,,pepfar.587,aXdQ97wSK7F,06ff81d6-fad4-47bd-a7a3-df657d1dbee3
+QaT7dnNAp7G,Kinshasa,Funa,Ngiri-Ngiri,Ngiri-Ngiri,Omeco Yangambi,Omeco Yangambi,,,,,pepfar.586,aXdQ97wSK7F,459195ca-1823-479a-9540-b5168eb8fd8d
+JF25kAMx3cM,Kinshasa,Funa,Ngiri-Ngiri,Ngiri-Ngiri,Polyclinique de Ngiri-Ngiri,Polyclinique de Ngiri-Ngiri,,,,,pepfar.588,aXdQ97wSK7F,efb799dd-3389-45ea-91d3-e2f5b0a66715
+ojMhUhn81ZR,Kinshasa,Funa,Selembao,Selembao,Bakidi,Bakidi,22.00223,-5.32158,stream,Babidi,pepfar.620,PpTLwWlbuH7,81ffd135-b0e6-4cf9-90e9-2536c65e1f65
+GEsVFTeWhxg,Kinshasa,Funa,Selembao,Selembao,Centre Penitentiaire et de Rehabiltiation de Kinshasa- CPRK - Makala,Centre Penitentiaire et de Rehabiltiation de Kinshasa- CPRK - Makala,,,,,pepfar.616,PpTLwWlbuH7,6994baa7-7d2f-4cb3-a21b-0e742a36a0d0
+bWhdWDbyorl,Kinshasa,Funa,Selembao,Selembao,Delivrance,Delivrance,,,,,pepfar.619,PpTLwWlbuH7,872fe91c-2201-414f-b4b4-6af474e46d59
+v1xaUe8xyZW,Kinshasa,Funa,Selembao,Selembao,Makala HGR,Makala,15.31611,-4.38056,third-order administrative division,Makala,pepfar.617,PpTLwWlbuH7,915bd428-6d93-46ec-97d2-67430f45b2d2
+RlbA7laxTfj,Kinshasa,Funa,Selembao,Selembao,Ste Anne ,Ste Anne,,,,,pepfar.618,PpTLwWlbuH7,f4ca63de-c2e0-4f22-b290-f70065dbb5e1
+bcDwJYQJpoO,Kinshasa,Lukunga,Bandalungwa,Bandalungwa,Libikisi,Libikisi,,,,,pepfar.281,pioZmsne9Qb,6e6d6976-537c-4fe8-b0fb-da226a0d656b
+pakjh4ImfVy,Kinshasa,Lukunga,Barumbu,Barumbu,Boyambi ,Boyambi,19.81556,3.15962,populated place,Boyambi,pepfar.286,b3oj7tltF3b,615e221d-8653-4a7f-8868-96f567c34984
+AZDuSn70hh9,Kinshasa,Lukunga,Barumbu,Barumbu,Charite CH,Charite,,,,,pepfar.284,b3oj7tltF3b,667a4dba-2a20-4eb1-9898-8d510fdae3f6
+ZF4ObzbLx64,Kinshasa,Lukunga,Barumbu,Barumbu,Kalamu Medical Center - Barumbu,Kalamu Medical Center - Barumbu,,,,,pepfar.287,b3oj7tltF3b,b6108c2c-642c-4c50-a1c3-292ca07f3aed
+p0Y3TzVzl2v,Kinshasa,Lukunga,Barumbu,Barumbu,Kasai ,Kasai,21.41667,-5.35,second-order administrative division,Kasai District,pepfar.285,b3oj7tltF3b,4b3e0006-445b-4fbc-b149-3483c0dbd5d2
+sZDV6ReD0lL,Kinshasa,Lukunga,Barumbu,Barumbu,Morija CH,Morija,30.14725,4.04886,populated place,Mordja,pepfar.283,b3oj7tltF3b,55470103-81b6-4c75-96fa-1d6d5459cea8
+tcbP22ddgbd,Kinshasa,Lukunga,Barumbu,Barumbu,Race Benie,Race Benie,,,,,pepfar.621,b3oj7tltF3b,69158eff-1df2-47be-908b-099836b22612
+e8KWgvg4aKz,Kinshasa,Lukunga,Barumbu,Barumbu,Scibe Congo ,Scibe Congo,,,,,pepfar.288,b3oj7tltF3b,67a9ca6a-c455-4d7b-81d6-580ba71e18ed
+E91x7kuczT1,Kinshasa,Lukunga,Barumbu,Barumbu,Zainabia - Barumbu,Zainabia - Barumbu,,,,,pepfar.282,b3oj7tltF3b,560aa880-11de-4d6a-8aed-01e9f03be60c
+CPokcJp5MZs,Kinshasa,Lukunga,Barumbu,Kokolo,Force Navale CM,Force Navale,,,,,pepfar.436,HK8VIGaiyIl,beacf2bd-1556-4557-9e58-0663b99b032a
+N0ZTxH6QCUP,Kinshasa,Lukunga,Barumbu,Kokolo,Mbaki - Ndolo CM,Mbaki - Ndolo,,,,,pepfar.437,HK8VIGaiyIl,abb6a957-c822-4d70-9bae-43a2687751b8
+WGkhTclMK4U,Kinshasa,Lukunga,Binza-Meteo,Binza-Meteo,Kasa-Vubu ,Kasa-Vubu,15.30438,-4.34324,third-order administrative division,Kasa-Vubu,pepfar.296,kd4zgxV7h42,c952c49a-bf2a-4b24-a682-d02abc109a9f
+bNUBa4Uk8jZ,Kinshasa,Lukunga,Binza-Meteo,Binza-Meteo,Omo ,Omo,21.24918,-6.4613,stream,Omo,pepfar.298,kd4zgxV7h42,9c5901c1-3cda-4ba0-a9a5-3bdbe08f41ba
+zWJTKaAtT1H,Kinshasa,Lukunga,Binza-Meteo,Binza-Meteo,Palais de Marbre CM,Palais de Marbre,,,,,pepfar.299,kd4zgxV7h42,e79610ad-c286-48f0-a403-37366529d935
+IMSWz4ZSAKw,Kinshasa,Lukunga,Binza-Meteo,Binza-Meteo,Panzi Medical ,Panzi Medical,,,,,pepfar.297,kd4zgxV7h42,ae18c16a-c165-4597-895c-b9127d20dcb8
+AbRJ3ExMwqt,Kinshasa,Lukunga,Binza-Ozone,Binza-Ozone,Bolingani-Ozone CM,Bolingani-Ozone,,,,,pepfar.306,PBd3TB3n1Df,76865f4d-52cc-4a9f-bc0b-4d277d50b3fb
+ch7DLArioSa,Kinshasa,Lukunga,Binza-Ozone,Binza-Ozone,Bubazaya ,Bubazaya,,,,,pepfar.307,PBd3TB3n1Df,3accdc47-3f65-447d-85be-748453d88468
+fhmdjmyYonF,Kinshasa,Lukunga,Binza-Ozone,Binza-Ozone,Camp Munganga,Camp Munganga,,,,,NULL,PBd3TB3n1Df,d1cf4b3b-a112-4dcc-aa84-eb9637b9f779
+HTBugFYYjDp,Kinshasa,Lukunga,Binza-Ozone,Binza-Ozone,Cite des Anciens Combattants,Cite des Anciens Combattants,,,,,NULL,PBd3TB3n1Df,5a8d1a12-ab8f-4c3f-8f33-07a54a2d0e48
+PlRM5VLGoQU,Kinshasa,Lukunga,Binza-Ozone,Binza-Ozone,Elisabeth Akhatshi CM,Elisabeth Akhatshi,,,,,pepfar.309,PBd3TB3n1Df,fe6fb2ed-30cd-4726-974d-4d6a186d41a6
+M14T9VdAZ44,Kinshasa,Lukunga,Binza-Ozone,Binza-Ozone,Kinsuka pecheurs,Kinsuka pecheurs,,,,,NULL,PBd3TB3n1Df,183fdfb8-7136-47cc-a837-d0f2599ababd
+MnriMXsiL9a,Kinshasa,Lukunga,Binza-Ozone,Binza-Ozone,Lukunga,Lukunga,15.49598,-5.135,populated place,Lukunga,NULL,PBd3TB3n1Df,325b3ec8-f3db-4492-81d8-8d78f4b3d3b2
+QeP8p9o80cr,Kinshasa,Lukunga,Binza-Ozone,Binza-Ozone,Maman Yemo,Maman Yemo,,,,,NULL,PBd3TB3n1Df,1aee755d-f52f-4fb3-89e9-97f12c3f3eab
+Fti8jBNJ3fk,Kinshasa,Lukunga,Binza-Ozone,Binza-Ozone,Mfinda,Mfinda,15.12798,-5.71065,stream,Mfinda,NULL,PBd3TB3n1Df,d95ccf0a-08ba-4e9b-b645-cfbf336c5d3d
+Pxupiv3mcoF,Kinshasa,Lukunga,Binza-Ozone,Binza-Ozone,Musey,Musey,,,,,NULL,PBd3TB3n1Df,34308f44-2b9f-4dde-aafa-a42464f0a022
+qqmgpSV2EsB,Kinshasa,Lukunga,Binza-Ozone,Binza-Ozone,Paul Medical Center CM,Paul Medical Center,,,,,pepfar.310,PBd3TB3n1Df,b2f0170d-0e44-48c0-a805-489555677e1f
+jqqHp393ePE,Kinshasa,Lukunga,Binza-Ozone,Binza-Ozone,Siloe - Ozone CM,Siloe - Ozone,,,,,pepfar.308,PBd3TB3n1Df,c57599a7-2acf-46fc-a837-02a6bf4a323e
+tF3ZNTAsCk8,Kinshasa,Lukunga,Gombe,Gombe,Akhenathon CM,Akhenathon,,,,,pepfar.333,js5yG6RM6TD,44b697f9-cf1a-44e7-8db9-4f52678475ae
+UV8wNpRdCm5,Kinshasa,Lukunga,Gombe,Gombe,Akram GOMBE,Akram GOMBE,,,,,pepfar.331,js5yG6RM6TD,985f5dd8-f323-43ba-8e1f-66a6c694af24
+harzwESp9Iz,Kinshasa,Lukunga,Gombe,Gombe,Haut-Commandement CM,Haut-Commandement,,,,,pepfar.334,js5yG6RM6TD,e2c9dc92-ae20-4c2a-a307-010b296eb3db
+lQMrRcwb1Nc,Kinshasa,Lukunga,Gombe,Gombe,Hopital General Provincial de Reference de Kinshasa,Hopital General Provincial de Reference de Kinshasa,,,,,pepfar.336,js5yG6RM6TD,ea3de851-136f-4872-8c41-6d2fc53bb109
+JETDsmYAPAX,Kinshasa,Lukunga,Gombe,Gombe,Laboratoire De Reference Du SIDA,Laboratoire De Reference Du SIDA,,,,,NULL,js5yG6RM6TD,3849d84f-002e-42fe-bac0-c3643a57fbd6
+XdDjVCinOlp,Kinshasa,Lukunga,Gombe,Gombe,Laboratoire Institut National de Recherches BiomÃ©dicales (INRB),Laboratoire Institut National de Recherches BiomÃ©dicales (INRB),,,,,pepfar.330,js5yG6RM6TD,baf0c03d-e36d-40da-a13d-1cf9cdecbf7c
+faJ0GmaPix2,Kinshasa,Lukunga,Gombe,Gombe,Mongala - Gombe CM,Mongala - Gombe,,,,,pepfar.335,js5yG6RM6TD,680b6bbd-8877-4548-be57-680fe9057c33
+iehl0t1rwoL,Kinshasa,Lukunga,Gombe,Gombe,Ngaliema CL,Ngaliema,15.24783,-4.35136,third-order administrative division,Ngaliema,pepfar.337,js5yG6RM6TD,effc2244-2d9d-4257-84bf-073dbcafe9db
+lRkkZ9Wp13X,Kinshasa,Lukunga,Gombe,Gombe,Office Congolais de Controle CM,Office Congolais de Controle,,,,,pepfar.332,js5yG6RM6TD,65f9620e-ba65-4994-aa5c-a388f2eb19ea
+ol2nb33O0yk,Kinshasa,Lukunga,Gombe,Kinshasa,Laboratoire De Reference Du SIDA,Laboratoire De Reference Du SIDA,,,,,pepfar.412,hKlzgWdCBWT,4cd82496-d75e-411e-b831-a3886d1f0563
+VNukpa6si41,Kinshasa,Lukunga,Kimbanseke,Kikimi,Kikimi ,Kikimi,15.78333,-4.84139,populated place,Kikimi,pepfar.362,krR0DCbPrjF,d7b955b6-be9f-4ecc-be89-e9569ab7ac64
+oNfRqDOhfAm,Kinshasa,Lukunga,Kimbanseke,Kikimi,Ngapani ,Ngapani,,,,,pepfar.363,krR0DCbPrjF,aa17e28d-7693-475e-be43-2cfd1abe48bb
+dGg906ARbzA,Kinshasa,Lukunga,Kimbanseke,Kikimi,TrinitÃ© Kivuvu ,TrinitÃ© Kivuvu,,,,,pepfar.364,krR0DCbPrjF,c30a5d6f-bd2f-4979-9675-ecd82cfb3556
+Ka1zT3c5Yzk,Kinshasa,Lukunga,Kimbanseke,Kingasani,Bolingani - Kingasani ,Bolingani - Kingasani,,,,,pepfar.404,xnp6C0QwBUj,0872b55f-2509-490d-bbeb-4b183dd95438
+lAwJj5fB261,Kinshasa,Lukunga,Kimbanseke,Kingasani,Light ,Light,,,,,pepfar.405,xnp6C0QwBUj,8601a153-bdf0-482a-9b9b-5608fa11bdc9
+YdL4Sv9mzLP,Kinshasa,Lukunga,Kimbanseke,Kingasani,TBD1 - Kingasani,Kingasani,,,,,NULL,xnp6C0QwBUj,d70ad2ce-8a34-41a3-9b9b-44d416b35d15
+cKtzgXJFxuT,Kinshasa,Lukunga,Kintambo,Kintambo,Akram Kintambo,Akram Kintambo,,,,,pepfar.418,StfasNs5M7Z,d73bc32e-7584-422f-b32b-8eb16fee9690
+OQAlbNLgwat,Kinshasa,Lukunga,Kintambo,Kintambo,CBCO - Kintambo ,CBCO - Kintambo,,,,,pepfar.419,StfasNs5M7Z,00ef353f-7bcc-4df6-b921-bf2b16d8b951
+Wu4BFzuogPb,Kinshasa,Lukunga,Kintambo,Kintambo,Kimia,Kimia,15.42301,-5.2661,stream,Kimia,pepfar.421,StfasNs5M7Z,30d07b70-f44c-4061-9ca6-87c00fe6e4ef
+Vx7LxeEEMHW,Kinshasa,Lukunga,Kintambo,Kintambo,Kintambo HGR,Kintambo,15.26765,-4.34401,third-order administrative division,Kintambo,pepfar.420,StfasNs5M7Z,79d3e30e-2d7a-472f-bf09-0ed464e32caa
+SYuGUKBZBFF,Kinshasa,Lukunga,Kintambo,Kintambo,Kintambo MaternitÃ©,Kintambo MaternitÃ©,,,,,pepfar.424,StfasNs5M7Z,27b6b97c-ab55-4432-a4ba-b5a33f77dd24
+nTgEW48tlis,Kinshasa,Lukunga,Kintambo,Kintambo,Nganda Clinique,Nganda Clinique,,,,,pepfar.422,StfasNs5M7Z,89355a24-e187-4009-a26a-b8401689d573
+OYbdbGBKRM7,Kinshasa,Lukunga,Kintambo,Kintambo,Obed ,Obed,,,,,pepfar.423,StfasNs5M7Z,5e5d9b55-44fe-4c55-8e03-5e3e12c99ea9
+hE7fj4K5uaA,Kinshasa,Lukunga,Lingwala,Lingwala,Kabinda CH,Kabinda,24.48179,-6.13791,populated place,Kabinda,pepfar.477,u380fHid3Gr,9008b3ec-51a0-44ef-b701-510d750d9994
+pl9kU27Sqed,Kinshasa,Lukunga,Lingwala,Lingwala,Kalembe-Lembe HP,Kalembe-Lembe HP,,,,,pepfar.478,u380fHid3Gr,8cc31fd8-5afe-4efd-836d-d6ab610766ce
+yXoXTlZwNau,Kinshasa,Lukunga,Lingwala,Lingwala,Kitega ,Kitega,24.60774,-7.3421,populated place,Kiteba,pepfar.475,u380fHid3Gr,9ebfc556-8b87-4b0d-a2ba-a7bbf600ac1b
+xmrNOoQ8Gzj,Kinshasa,Lukunga,Lingwala,Lingwala,TBD1 - Lingwala,Lingwala,15.29836,-4.3208,third-order administrative division,Lingwala,NULL,u380fHid3Gr,37624b95-f5f1-440e-8f6c-04834f6b999a
+JLlbW5g0mN8,Kinshasa,Lukunga,Lingwala,Lingwala,TBD2 - Lingwala,Lingwala,15.29836,-4.3208,third-order administrative division,Lingwala,NULL,u380fHid3Gr,b8f5611b-ec2e-4179-a221-13ff1aa49339
+agKT2VDGRJY,Kinshasa,Lukunga,Lingwala,Lingwala,TBD3 - Lingwala,Lingwala,15.29836,-4.3208,third-order administrative division,Lingwala,NULL,u380fHid3Gr,d60fad1b-99bd-43e4-8d0e-05f9c7debe47
+yb3u5XvKWpZ,Kinshasa,Lukunga,Lingwala,Lingwala,TBD4 - Lingwala,Lingwala,15.29836,-4.3208,third-order administrative division,Lingwala,NULL,u380fHid3Gr,71d0ba28-cee5-468c-9aab-7da7a805e14e
+rwpENEMMpoa,Kinshasa,Lukunga,Lingwala,Lingwala,Vijana ,Vijana R,,,,,pepfar.476,u380fHid3Gr,22d0b31c-f065-4811-be32-77f75e198ea1
+TXHfN2CHtTC,Kinshasa,Lukunga,Lingwala,Police,Lufungula,Lufungula,22.03923,-6.58964,populated place,Lufungula,pepfar.612,ewEUhQF1PGY,46af4f0e-7cab-4c6a-b4de-40870bc43b0c
+Yhq7Zgv8IjQ,Kinshasa,Lukunga,Mont-Ngafula 1,Mont-Ngafula 1,Kimbangu CH,Kimbangu,20.21273,-6.14128,populated place,Kimbangu,pepfar.545,WoBCQgvIkTL,1a5864c3-3494-4888-8345-d2b9930a5b5f
+xd1mxY5ARO5,Kinshasa,Lukunga,Mont-Ngafula 1,Mont-Ngafula 1,Matadi Mayo ,Matadi Mayo,,,,,pepfar.544,WoBCQgvIkTL,49d439c4-e202-4a03-8280-c1e270138a6c
+hwtQJDLHLTC,Kinshasa,Lukunga,Mont-Ngafula 1,Mont-Ngafula 1,Monkole HGR,Monkole,27.58333,0.03333,populated place,Mokole,pepfar.548,WoBCQgvIkTL,0bc3dc0b-759a-40e8-99d8-096a8943bcb8
+GwoD2rHJ8Pn,Kinshasa,Lukunga,Mont-Ngafula 1,Mont-Ngafula 1,Rene Deheas CH,Rene Deheas,,,,,pepfar.546,WoBCQgvIkTL,fb756df0-3f47-4d0b-99d9-fab6d86baf84
+RXlQcHbTLQK,Kinshasa,Lukunga,Mont-Ngafula 1,Mont-Ngafula 1,Ste Rita - Mont-Ngafula1 CM,Ste Rita - Mont-Ngafula1,,,,,pepfar.547,WoBCQgvIkTL,f750eeaa-e2df-49c8-8267-b46428203653
+gXhzZ0gT5ay,Kinshasa,Lukunga,Mont-Ngafula 2,Mont-Ngafula 2,Environnement et Sante,Environnement et Sante,,,,,pepfar.556,Oz0qJ8kNbKx,a2a0e197-2971-4c85-9d1e-f24edc07d633
+gkvoKi8rPBc,Kinshasa,Lukunga,Mont-Ngafula 2,Mont-Ngafula 2,Mambre ,Mambre,29.23192,0.75164,populated place,Mambere,pepfar.557,Oz0qJ8kNbKx,c4f2803f-1206-4ca8-a732-6d9320421252
+GsVIE7klUZQ,Kinshasa,Lukunga,Mont-Ngafula 2,Mont-Ngafula 2,Mitendi,Mitendi,20.02992,-4.87853,populated place,Mitende,NULL,Oz0qJ8kNbKx,1928eea0-dfc3-4daf-a7d1-daf88381487a
+GiZKHGgDMoG,Kinshasa,Lukunga,Mont-Ngafula 2,Mont-Ngafula 2,PÃ¨re Nsadi  ,PÃ¨re Nsadi,,,,,pepfar.558,Oz0qJ8kNbKx,0e93fb3c-fe14-42ee-ad85-09804c1c0682
+pzrCzlZ0lAf,Kinshasa,Lukunga,Mont-Ngafula 2,Mont-Ngafula 2,TBD1 - Mont-Ngafula2,Mont-Ngafula2,15.24481,-4.46272,third-order administrative division,Mont Ngafula,NULL,Oz0qJ8kNbKx,12d96540-dd6c-427a-a8ad-aef2ff87256c
+HjXDIbGfctD,Kinshasa,Lukunga,Mont-Ngafula 2,Mont-Ngafula 2,TBD2 - Mont-Ngafula2,Mont-Ngafula2,15.24481,-4.46272,third-order administrative division,Mont Ngafula,NULL,Oz0qJ8kNbKx,9989a157-2dba-458f-be4c-cd4fc3c6efec
+BkACxz4MQSs,Kinshasa,Lukunga,Ngaliema,Binza Meteo,Edith Cavell CM,Edith Cavell,,,,,pepfar.291,IjRna9yvGxq,e9512037-e61f-4db9-8dec-43501d6270f1
+J8isOUhFTop,Kinshasa,Lukunga,Ngaliema,Binza Meteo,Kasongo,Kasongo,26.66656,-4.42741,populated place,Kasongo,pepfar.289,IjRna9yvGxq,42846ef0-4738-4d06-beeb-111454b5c0c2
+qLVXOqC89er,Kinshasa,Lukunga,Ngaliema,Binza Meteo,La Borne,La Borne,,,,,pepfar.290,IjRna9yvGxq,e22485a2-2208-40de-ae29-de4136bbbd9b
+H5585FRfkFT,Kinshasa,Lukunga,Ngaliema,Binza MÃ©tÃ©o,Binza -Maternite,Binza -Maternite,,,,,pepfar.292,Bkr6kTyfhqR,8ee5b65c-c321-4004-85e7-c6482f0927d9
+SccbWdjaDAB,Kinshasa,Lukunga,Ngaliema,Binza-Meteo,Aprodi CH,Aprodi,,,,,pepfar.301,hmiqnsA1RHG,dd97dd1b-5033-44fc-91b2-13525305746c
+XZFZQUoZu2L,Kinshasa,Lukunga,Ngaliema,Binza-Meteo,Des Anges Clinique VIP,Des Anges Clinique VIP,,,,,pepfar.293,hmiqnsA1RHG,08d9688f-159d-48fd-a56c-216ce21feff5
+v0IyIzkKwFI,Kinshasa,Lukunga,Ngaliema,Binza-Meteo,ECC Mapasa,ECC Mapasa,,,,,pepfar.294,hmiqnsA1RHG,52036761-0b40-4103-bae8-c91af1a40963
+FU0QT15MNwh,Kinshasa,Lukunga,Ngaliema,Binza-Meteo,Kinkenda,Kinkenda,14.34909,-4.63182,populated place,Kinkenda,pepfar.295,hmiqnsA1RHG,69e2cf93-651a-4c8d-b939-250d652408f9
+P0rbWPl7m6y,Kinshasa,Lukunga,Ngaliema,Binza-Meteo,Mwinda ,Mwinda,25.79511,-9.40211,populated place,Mwindia,pepfar.303,hmiqnsA1RHG,37f86f1f-ef74-4214-a9c8-c39d34d9e98f
+uvTFcM9Nzc8,Kinshasa,Lukunga,Ngaliema,Binza-Meteo,Shalom - Meteo ,Shalom - Meteo,,,,,pepfar.300,hmiqnsA1RHG,c39797dc-4a73-47f2-979c-2896ab4aeb82
+QpJn4kdw0uF,Kinshasa,Lukunga,Ngaliema,Binza-Meteo,St Sacrement ,St Sacrement,,,,,pepfar.302,hmiqnsA1RHG,b2bd831e-b99f-4094-859e-bdbb04aa0874
+zaZIf1J5GUT,Kinshasa,Lukunga,Ngaliema,Binza-Meteo,TBD1 - Binza-Meteo,Binza-Meteo,,,,,NULL,hmiqnsA1RHG,08b3eef9-5e36-4c1e-a890-f641cf90c4e6
+Bbd2pfA0wfJ,Kinshasa,Lukunga,Ngaliema,Binza-Meteo,TBD2 - Binza-Meteo,Binza-Meteo,,,,,NULL,hmiqnsA1RHG,00045c94-8bc5-4342-9d11-86d7d0ec54e0
+CX23lTcsOph,Kinshasa,Lukunga,Ngaliema,Binza-Meteo,TBD3 - Binza-Meteo,Binza-Meteo,,,,,NULL,hmiqnsA1RHG,8fe6f781-8492-4c64-8b5f-e543878017ee
+BInUmTa4PEH,Kinshasa,Lukunga,Ngaliema,Binza-Meteo,TBD4 - Binza-Meteo,Binza-Meteo,,,,,NULL,hmiqnsA1RHG,92d44558-7cd2-49a5-aed6-ab39ed47e1e1
+uTpUalmwmX6,Kinshasa,Lukunga,Ngaliema,Binza-Ozone,Bolingo-Ozone,Bolingo-Ozone,,,,,pepfar.317,vrysIL8uNjF,e431a471-be9a-4f70-9977-7642b5fc65c8
+ZzekHg1dAyK,Kinshasa,Lukunga,Ngaliema,Binza-Ozone,Celpa - Ozone CM,Celpa - Ozone,,,,,pepfar.313,vrysIL8uNjF,873fa0fe-9e6f-407e-afe5-16df0071a9b2
+nlmoEzNkXIZ,Kinshasa,Lukunga,Ngaliema,Binza-Ozone,Clinique IK,Clinique IK,,,,,pepfar.315,vrysIL8uNjF,130219d7-87d9-400b-a0c6-5f51d49d8860
+WH9lpMcwF5z,Kinshasa,Lukunga,Ngaliema,Binza-Ozone,Galilee ,Galilee,,,,,pepfar.312,vrysIL8uNjF,35face2f-2c08-40c2-a228-992d2e641336
+DJtAmJXnE4b,Kinshasa,Lukunga,Ngaliema,Binza-Ozone,Lukunga ,Lukunga,15.49598,-5.135,populated place,Lukunga,pepfar.311,vrysIL8uNjF,d2b228e2-8b7e-4814-bb5b-a58562be8257
+hKhA8V95ccl,Kinshasa,Lukunga,Ngaliema,Binza-Ozone,Luyindu CH,Luyindu,23.06328,-9.57308,populated place,Luyinda,pepfar.316,vrysIL8uNjF,b55e016c-565d-4db9-b88b-729b96b46096
+A8zp6sc4fe9,Kinshasa,Lukunga,Ngaliema,Binza-Ozone,Mfinda,Mfinda,15.12799,-5.71065,stream,Mfinda,pepfar.304,vrysIL8uNjF,29a3f10f-e5e7-4ded-a801-a154d8908848
+kVEbVWNp8Gz,Kinshasa,Lukunga,Ngaliema,Binza-Ozone,Polyclinique St Joseph,Polyclinique St Joseph,,,,,pepfar.314,vrysIL8uNjF,36104db1-39d0-48c3-8198-ecb39e18126a
+RlSmEh5BZjp,Kinshasa,Lukunga,Ngaliema,Binza-Ozone,St Christophe,St Christophe,,,,,pepfar.305,vrysIL8uNjF,5b387129-da28-433c-ba06-3496b2a5678e
+KQUH4BqHQ1u,Kinshasa,Lukunga,Ngaliema,Kokolo,Tshatshi CH,Tshatshi,19.78542,-6.10447,stream,Tshitshi,pepfar.441,UlL8dkKZ8UR,fe29fe7b-8579-444b-95fd-53eadb92525a
+RNQBYOpLbW6,Kinshasa,Mont-Amba,Kisenso,Kisenso,Amba ,Amba,23.5392,2.95656,populated place,Amba,pepfar.431,zijtsprtA7O,93365266-cd41-43ab-b4ff-8e96df468503
+yaU2DgynIgj,Kinshasa,Mont-Amba,Kisenso,Kisenso,Esengo - Kisenso,Esengo - Kisenso,,,,,pepfar.427,zijtsprtA7O,7ad426d8-29b8-445e-b515-2c4955bcba5b
+dLDzxs8nOcG,Kinshasa,Mont-Amba,Kisenso,Kisenso,Kisenso CHE,Kisenso E,,,,,pepfar.428,zijtsprtA7O,845127cb-e1aa-4463-a9be-899c262d95dd
+ar2kPQnvkEu,Kinshasa,Mont-Amba,Kisenso,Kisenso,Liberation ,Liberation,,,,,pepfar.434,zijtsprtA7O,88a24c55-68dd-42fb-8d62-5ea96191d1ae
+FzE5nj7tA15,Kinshasa,Mont-Amba,Kisenso,Kisenso,Maternite Caideco,Maternite Caideco,,,,,pepfar.425,zijtsprtA7O,d34c9dde-2f30-4e6b-a4eb-1a33361bd96a
+c4ILX7GeMe7,Kinshasa,Mont-Amba,Kisenso,Kisenso,Mayika ,Mayika,22.65747,-9.27318,populated place,Madika,pepfar.432,zijtsprtA7O,7442a310-4bfe-420e-9bd1-7481036a777e
+T7Hkt2NWs8u,Kinshasa,Mont-Amba,Kisenso,Kisenso,Misericorde CM,Misericorde,,,,,pepfar.429,zijtsprtA7O,4b67315e-9d87-465b-bcde-76d92adb96cf
+UqAVRVtm0MZ,Kinshasa,Mont-Amba,Kisenso,Kisenso,Mushie ,Mushie,16.92238,-3.01728,populated place,Mushie,pepfar.435,zijtsprtA7O,d2ce1817-2d4e-42ef-94eb-63ced90461c4
+gOn3ZiTlaQ6,Kinshasa,Mont-Amba,Kisenso,Kisenso,Revelation,Revelation,,,,,pepfar.426,zijtsprtA7O,a4c3a02d-de5c-47be-b055-4d5c5c3cce63
+h1JVC7BWpeG,Kinshasa,Mont-Amba,Kisenso,Kisenso,Revolution ,Revolution,,,,,pepfar.430,zijtsprtA7O,e1762515-b68d-484d-9a58-98d142b0ccac
+iPj6uYusI7I,Kinshasa,Mont-Amba,Kisenso,Kisenso,St Ambroise,St Ambroise,,,,,pepfar.433,zijtsprtA7O,a3d8b927-dcf2-4192-9f7d-296798d9cb1a
+pmC5EFcqhsv,Kinshasa,Mont-Amba,Lemba,Lemba,Alice Mulanga ,Alice Mulanga,,,,,pepfar.450,c6CzaBpBn1g,297d61d5-cf23-4b0f-b75c-9381490a681c
+wFm0TLeUQ12,Kinshasa,Mont-Amba,Lemba,Lemba,Benedict ,Benedict,,,,,pepfar.454,c6CzaBpBn1g,a39cd5d6-c520-4de9-92cb-8536cd3b7fb2
+bRleww2oEXz,Kinshasa,Mont-Amba,Lemba,Lemba,Bon Berger - Lemba CH,Bon Berger - Lemba,,,,,pepfar.449,c6CzaBpBn1g,3f2a44fb-e9fb-4f35-ba6f-d7a88916615f
+D1GyBvto1IU,Kinshasa,Mont-Amba,Lemba,Lemba,Caideco ,Caideco,,,,,pepfar.453,c6CzaBpBn1g,6eaeda35-29c8-450a-b324-c30ea335589b
+ur1Y4wH787C,Kinshasa,Mont-Amba,Lemba,Lemba,Cliniques Univeristaires de Kinshasa (CUK),Cliniques Univeristaires de Kinshasa (CUK),,,,,pepfar.446,c6CzaBpBn1g,29aa3465-32a7-41a6-ba09-d7f66c4d2980
+wwcza9ipMtN,Kinshasa,Mont-Amba,Lemba,Lemba,ELIMO SANTU ,ELIMO SANTU,,,,,pepfar.457,c6CzaBpBn1g,8d64d77c-8415-4727-ae95-cdd4dc4f8f46
+tKZLE8bmDYS,Kinshasa,Mont-Amba,Lemba,Lemba,El Roi,El Roi,,,,,pepfar.452,c6CzaBpBn1g,9ff9b605-8850-44ee-b1f5-3eddea1e61d7
+Iv6ORAzwgQM,Kinshasa,Mont-Amba,Lemba,Lemba,Elikya ,Elikya,,,,,pepfar.451,c6CzaBpBn1g,71262360-40a8-470b-a9e0-05e195ca388d
+TDtxxRub1Q6,Kinshasa,Mont-Amba,Lemba,Lemba,La Colombe ,La Colombe,,,,,pepfar.455,c6CzaBpBn1g,df1e8151-7cc6-4db6-8785-47b8d6a729cf
+t4UBq7hf9wS,Kinshasa,Mont-Amba,Lemba,Lemba,Lisanga ,Lisanga,15.12331,-5.51706,populated place,Lisanga,pepfar.456,c6CzaBpBn1g,8010924c-1903-40a0-9ea3-716170d5d96d
+zFEyqUJPixg,Kinshasa,Mont-Amba,Lemba,Lemba,Mont-Amba CH,Mont-Amba,15.30441,-4.43139,mountain,Mont Amba,pepfar.445,c6CzaBpBn1g,ba6d38bc-7384-46af-9e52-344d15fc4d3a
+LuPY3fc6ydl,Kinshasa,Mont-Amba,Lemba,Lemba,Poly Fam,Poly Fam,,,,,pepfar.447,c6CzaBpBn1g,3aef2c58-6483-4caf-b77f-d7894f27e7ce
+BV4buzBTqqs,Kinshasa,Mont-Amba,Lemba,Lemba,St GABRIEL,St GABRIEL,,,,,pepfar.448,c6CzaBpBn1g,bbe665cb-fb86-49cb-a2d1-6f368cd1c833
+s4JUML7VBiK,Kinshasa,Mont-Amba,Lemba,Lemba,Ste RITA  - Lemba ,Ste RITA - Lemba,,,,,pepfar.443,c6CzaBpBn1g,76e1fc51-35c1-40cb-88e6-0563c3aec801
+SEXKqCXEBEH,Kinshasa,Mont-Amba,Lemba,Lemba,Union Medicale,Union Medicale,,,,,pepfar.444,c6CzaBpBn1g,d0dc55ec-c135-4f64-a916-f2ca0afb9706
+Ub0X8XxSqsU,Kinshasa,Mont-Amba,Lingwala,Kokolo,Kokolo (Ft Kokolo) ,Kokolo (Ft Kokolo) R,,,,,pepfar.439,n2G5kyKSbIc,d54d8b74-0c25-4d5f-abab-39b4e9a87438
+EJuGQzUfWgQ,Kinshasa,Mont-Amba,Matete,Matete,Bolia ,Bolia,18.35702,-1.60721,populated place,Bolia,pepfar.537,X8eXmYHQXAB,aecd3e0d-d6ff-44d6-809d-355499e66cf3
+NvK5DD9iNQp,Kinshasa,Mont-Amba,Matete,Matete,Casi ,Casi,,,,,pepfar.536,X8eXmYHQXAB,1fe2df63-ac9b-4044-a92f-7b1fcbf42aee
+r9YI3Bqehnl,Kinshasa,Mont-Amba,Matete,Matete,Christ Roi ,Christ Roi,,,,,pepfar.528,X8eXmYHQXAB,b23b7069-5ecd-41c9-abe8-8faaf21ebf2c
+DE5CT2D1HVL,Kinshasa,Mont-Amba,Matete,Matete,Lunionzo ,Lunionzo,13.85522,-5.33635,stream,Lunionzo,pepfar.529,X8eXmYHQXAB,7678a0dc-86b1-4ef5-a7cf-5356fc18c525
+s4wAXpCrcE0,Kinshasa,Mont-Amba,Matete,Matete,Matete CHR,Matete R,,,,,pepfar.538,X8eXmYHQXAB,af8903fb-6300-4f78-a60a-0242cae6f417
+sg3ZN04YF0b,Kinshasa,Mont-Amba,Matete,Matete,Maziba ,Maziba,25.56237,-8.87002,populated place,Majiba,pepfar.530,X8eXmYHQXAB,5cd18043-898d-4b9d-beab-fcb363456074
+IHBbGwK4J0C,Kinshasa,Mont-Amba,Matete,Matete,Meravie ,Meravie,,,,,pepfar.531,X8eXmYHQXAB,476baa26-ab64-4ef5-919a-10833cfc128a
+INbMfQD4r19,Kinshasa,Mont-Amba,Matete,Matete,Mokengeli,Mokengeli,,,,,pepfar.534,X8eXmYHQXAB,0425143a-91b0-414d-bfc0-fd75176e6727
+MWypI6KEma0,Kinshasa,Mont-Amba,Matete,Matete,St Alphonse ,St Alphonse,,,,,pepfar.532,X8eXmYHQXAB,3702c96b-b75b-4af0-b65e-5fc14ab6a2a3
+uvHjPNRVElj,Kinshasa,Mont-Amba,Matete,Matete,St Raymond - Matete,St Raymond - Matete,,,,,pepfar.533,X8eXmYHQXAB,0d1027f3-d73f-4e6c-a667-dde60eac0045
+apwdqCJNObl,Kinshasa,Mont-Amba,Matete,Matete,TBD1 - Matete,Matete,15.35751,-4.38484,third-order administrative division,Matete,NULL,X8eXmYHQXAB,916c18ca-4508-4b6c-ae74-340ec0140bf0
+cK6Wa1G6ejz,Kinshasa,Mont-Amba,Matete,Matete,TBD2 - Matete,Matete,15.35751,-4.38484,third-order administrative division,Matete,NULL,X8eXmYHQXAB,f8ecfe27-b330-4c18-a48c-f080a3d2d334
+PuzaDLjRJjO,Kinshasa,Mont-Amba,Matete,Matete,TBD3 - Matete,Matete,15.35751,-4.38484,third-order administrative division,Matete,NULL,X8eXmYHQXAB,95404928-c8bf-4435-be1c-b7e4ec752697
+NqZdzOO3ngY,Kinshasa,Mont-Amba,Matete,Matete,TBD4 - Matete,Matete,15.35751,-4.38484,third-order administrative division,Matete,NULL,X8eXmYHQXAB,5ace026b-4a95-476c-8ede-c6fe761d9a4b
+mAq1U4Lz3wg,Kinshasa,Mont-Amba,Matete,Matete,Vitamine,Vitamine,,,,,pepfar.535,X8eXmYHQXAB,d56b84c6-1238-4f22-b843-c326c6e4056a
+c24D8R0zfKp,Kinshasa,Mont-Amba,Matete,Police,Kabila ,Kabila,22.59186,-6.70835,populated place,Kabila,pepfar.613,ORrVj8FagtV,f2d24be7-e382-4998-b853-6aeae7293913
+fjJtlkHt3DL,Kinshasa,Mont-Amba,Matete,Police,Matete (IPK) Inspection Provinciale Kinshasa,Matete (IPK) Inspection Provinciale Kinshasa,,,,,pepfar.614,ORrVj8FagtV,798c8820-e20e-4601-ae6a-f813da1ba354
+Wq3CgGHNGfP,Kinshasa,Mont-Amba,Mont-Ngafula,Kokolo,Badiadingi CH,Badiadingi,,,,,pepfar.440,beKG5p9z9M8,9c38b129-bc74-477c-ae10-82130583f335
+zYy8rXgZB5m,Kinshasa,Mont-Amba,Mont-Ngafula,Mont Ngafula 1,Lisungi,Lisungi,22.53942,2.41225,stream,Lisingi,pepfar.539,aMnqGXUOaZU,1fca9666-d81f-439c-87df-0e6a4def8ebe
+Tm5k3AkRgCE,Kinshasa,Mont-Amba,Mont-Ngafula,Mont Ngafula 1,Mama Mosalisi ,Mama Mosalisi,,,,,pepfar.540,aMnqGXUOaZU,8d516cd2-3d16-4a86-a367-0c46066bb1c3
+DgYcrgp3Le2,Kinshasa,Mont-Amba,Mont-Ngafula,Mont Ngafula 2,Mater Dei,Mater Dei,,,,,pepfar.541,gxf4z0agDsk,8f3561f4-818a-40c9-a52d-db07410e62eb
+HYtpqPcBme8,Kinshasa,Mont-Amba,Mont-Ngafula,Mont-Ngafula 1,Fatima ,Fatima,29.08299,-6.68151,populated place,Fatuma,pepfar.542,i29IpXco3dj,153842d3-fea6-4af6-a3b4-040f3d6dae49
+nzPS8cqLtKy,Kinshasa,Mont-Amba,Mont-Ngafula,Mont-Ngafula 1,Kindele ,Kindele,24.18268,-8.65369,populated place,Kindele,pepfar.543,i29IpXco3dj,6b64cbbb-22c8-4ac1-90d3-b063dfd1c5e0
+lxzrqXbb7gJ,Kinshasa,Mont-Amba,Mont-Ngafula,Mont-Ngafula 1,La Providence St Joseph,La Providence St Joseph,,,,,pepfar.550,i29IpXco3dj,0d1b758b-21d8-41fd-8ab0-f21d61b65da4
+xdlqxjkrzq5,Kinshasa,Mont-Amba,Mont-Ngafula,Mont-Ngafula 1,Mawagali,Mawagali,,,,,pepfar.549,i29IpXco3dj,3044b3a6-816c-4583-ae42-0c43b6b10737
+bHawQ6OclOP,Kinshasa,Mont-Amba,Mont-Ngafula,Mont-Ngafula 1,Notre-Dame La Providence,Notre-Dame La Providence,,,,,pepfar.551,i29IpXco3dj,d365e7d4-b9f9-4309-a24c-390b8f9c6382
+mN20rUQ26zP,Kinshasa,Mont-Amba,Mont-Ngafula,Mont-Ngafula 2,Jeedds Center,Jeedds Center,,,,,pepfar.553,tCesfhIfzlE,54613cd2-7221-4118-bc1f-5d60a5850a5c
+WH3MM4UmcIu,Kinshasa,Mont-Amba,Mont-Ngafula,Mont-Ngafula 2,Kimbondo HP,Kimbondo HP,,,,,pepfar.552,tCesfhIfzlE,b30a2622-2f18-4b7f-ac04-0c82a7caf588
+FYFZ7ZC0gcT,Kinshasa,Mont-Amba,Mont-Ngafula,Mont-Ngafula 2,Kimbuala ,Kimbuala,14.18927,-4.57589,populated place,Kimbuala,pepfar.554,tCesfhIfzlE,60ba1384-c851-47a3-bba9-4bcccd46414a
+dIMmF5WSLBn,Kinshasa,Mont-Amba,Mont-Ngafula,Mont-Ngafula 2,St Vincent De Paul  Kin,St Vincent De Paul Kin,,,,,pepfar.555,tCesfhIfzlE,2c87e5e2-1382-4434-983d-de9f56e960e3
+e65zIEbCoXP,Kinshasa,Mont-Amba,Ngaba,Ngaba,Agape ,Agape,,,,,pepfar.573,ZJ1ngXCyNVm,17fc119c-7a72-49c5-a41f-301622161977
+ytYZZ6XABUO,Kinshasa,Mont-Amba,Ngaba,Ngaba,Baobab ,Baobab,,,,,pepfar.574,ZJ1ngXCyNVm,fb1243e6-d259-420c-bd7b-0d170f8dbfe8
+jGIrS7WP6sH,Kinshasa,Mont-Amba,Ngaba,Ngaba,Emeraude - Ngaba Clinique,Emeraude - Ngaba Clinique,,,,,pepfar.576,ZJ1ngXCyNVm,3c87e74d-20fd-40f4-92ed-478329c3ce19
+hYFmmXYE2KB,Kinshasa,Mont-Amba,Ngaba,Ngaba,Gloria CM,Gloria,,,,,pepfar.581,ZJ1ngXCyNVm,85c9d30d-b8d9-4dee-87f1-20d06e252ab8
+qW2COuFbl2f,Kinshasa,Mont-Amba,Ngaba,Ngaba,Le Rocher ,Le Rocher,,,,,pepfar.580,ZJ1ngXCyNVm,9b6ed121-6a4e-4ddb-bb64-eef8d1072fbc
+o4qOSBoaENv,Kinshasa,Mont-Amba,Ngaba,Ngaba,Mobengi ,Mobengi,17.0247,-4.34899,populated place,Mobenga,pepfar.577,ZJ1ngXCyNVm,49d56346-65cf-47b5-afc0-ea28cb4af9b6
+m8hLPjZGwuB,Kinshasa,Mont-Amba,Ngaba,Ngaba,Mokulua Maternite,Mokulua Maternite,,,,,pepfar.578,ZJ1ngXCyNVm,fd1e067a-b893-4e19-8d4d-0c078c14a2db
+xtnmUgwNr5n,Kinshasa,Mont-Amba,Ngaba,Ngaba,Mpila ,Mpila,26.35,-3.03333,populated place,Mpila,pepfar.579,ZJ1ngXCyNVm,751f75ce-498b-43f2-b20c-c78d0d63772c
+YNc43mSjkyA,Kinshasa,Mont-Amba,Ngaba,Ngaba,Ngaba CME,Ngaba,15.32194,-4.37556,third-order administrative division,Ngaba,pepfar.575,ZJ1ngXCyNVm,e846d9ca-c946-4377-b8ac-d60724f272c8
+M5brUYYbTYo,Kinshasa,Mont-Amba,Ngaba,Ngaba,Nsanga ,Nsanga,14.9713,-4.82288,populated place,Nsanga,pepfar.583,ZJ1ngXCyNVm,149c4d85-c907-403e-9931-f7bcd6f47b20
+tKaVjyafZWL,Kinshasa,Mont-Amba,Ngaba,Ngaba,Wochop ,Wochop,,,,,pepfar.582,ZJ1ngXCyNVm,6ca0a49c-119a-4a90-84ff-b4665e582eb6
+oHXVMcKjkrT,Kinshasa,Mont-Amba,limete,Kingabwa,Akram Matete CH,Akram Matete,,,,,pepfar.391,EaCSG0WmNZV,87416ac3-b4da-4ddd-9a83-91aad23f918b
+PAcBkBbYxB4,Kinshasa,Mont-Amba,limete,Kingabwa,Christu Mobikisi ,Christu Mobikisi,,,,,pepfar.394,EaCSG0WmNZV,b2972f7c-27b3-488f-a02f-519519ccdcc6
+tKajPPgEJuY,Kinshasa,Mont-Amba,limete,Kingabwa,Clinique De Limete,Clinique De Limete,,,,,pepfar.393,EaCSG0WmNZV,a324cc9d-e07f-40ef-90d8-d1871f1a4f3c
+bCNgQ5FPbwQ,Kinshasa,Mont-Amba,limete,Kingabwa,Gekokon CM,Gekokon,,,,,pepfar.392,EaCSG0WmNZV,d5471417-93a2-41e8-a8a8-4c45dca3a857
+FYEX7isqxud,Kinshasa,Mont-Amba,limete,Kingabwa,Kizito ,Kizito,,,,,pepfar.397,EaCSG0WmNZV,a378b407-eba8-4a82-a6db-2f24088b33fb
+XrLpgF7Xey5,Kinshasa,Mont-Amba,limete,Kingabwa,La Main De  Dieu,La Main De Dieu,,,,,pepfar.395,EaCSG0WmNZV,5534b761-e66b-471c-95aa-98bcff603c4a
+twmimgGypFl,Kinshasa,Mont-Amba,limete,Kingabwa,Libiki ,Libiki,25.12564,4.17771,populated place,Libaki,pepfar.398,EaCSG0WmNZV,0df7c713-56b6-4f72-8ac3-45735a0109de
+d7anl1FLrbM,Kinshasa,Mont-Amba,limete,Kingabwa,Liziba ,Liziba,,,,,pepfar.399,EaCSG0WmNZV,bee3d71f-80ed-4a7f-a438-c096fd576dea
+HuNdWEg6uVV,Kinshasa,Mont-Amba,limete,Kingabwa,Mayamba ,Mayamba,19.17474,-5.74116,populated place,Mayamba,pepfar.400,EaCSG0WmNZV,da45f472-bf28-4c59-ad19-e25294d550cf
+VsQYg1CzkhS,Kinshasa,Mont-Amba,limete,Kingabwa,Monsele ,Monsele,18.61667,-1.55,populated place,Mosele,pepfar.396,EaCSG0WmNZV,5111e4bb-1fa7-43c1-849b-457455d67a92
+CZcMmUd6G0W,Kinshasa,Mont-Amba,limete,Kingabwa,St Bernard ,St Bernard,,,,,pepfar.401,EaCSG0WmNZV,ae93f902-fc3a-478c-940d-00b107a2a455
+ljbzTJsh3yC,Kinshasa,Mont-Amba,limete,Kingabwa,Vixam ,Vixam,,,,,pepfar.402,EaCSG0WmNZV,87b45163-6203-4135-b2f4-bf9b325fd998
+bAynOaGs9r0,Kinshasa,Mont-Amba,limete,Limete,2eme RUE ,2eme RUE,,,,,pepfar.473,grhcb3NRDtA,3526c5ad-ae29-4b6d-94d7-74236b88dce8
+g7dujry6sqv,Kinshasa,Mont-Amba,limete,Limete,Apv ,Apv,,,,,pepfar.458,grhcb3NRDtA,864655a5-207b-4def-8622-03a317959bff
+lnNTJJxr1hU,Kinshasa,Mont-Amba,limete,Limete,Bangba ,Bangba,26.40276,1.85366,populated place,Bangba,pepfar.468,grhcb3NRDtA,0759981e-899c-4153-a3c2-81547658e5e9
+K81jbUP3kVW,Kinshasa,Mont-Amba,limete,Limete,Beau Sejour ,Beau Sejour,,,,,pepfar.459,grhcb3NRDtA,e531f47d-593f-4bcb-bd26-a84174089e4a
+vUHRIqd6fgQ,Kinshasa,Mont-Amba,limete,Limete,Bondeko - Limete CL,Bondeko - Limete,,,,,pepfar.474,grhcb3NRDtA,be26a545-f3a8-47cc-9e63-3292b894cbeb
+g0PUyyezMv5,Kinshasa,Mont-Amba,limete,Limete,La Candeur CH,La Candeur,,,,,pepfar.469,grhcb3NRDtA,e46d690b-ed26-4579-974d-c1af0c7f08a8
+RINJCvsQ1Ky,Kinshasa,Mont-Amba,limete,Limete,Liboke ,Liboke,21.47422,2.70881,populated place,Liboko,pepfar.461,grhcb3NRDtA,90a14ba7-4fdd-4327-8793-ce55749caff8
+w4jLKh1gKC4,Kinshasa,Mont-Amba,limete,Limete,Limete DGI CM,Limete DGI,,,,,pepfar.460,grhcb3NRDtA,d517b633-4870-48d2-965f-49cb918971dd
+QACS5DkivqA,Kinshasa,Mont-Amba,limete,Limete,Miria ,Miria,,,,,pepfar.466,grhcb3NRDtA,9bb89d1f-ff7b-4be6-95e1-dea5ada47fbc
+mzmyr9In6Hb,Kinshasa,Mont-Amba,limete,Limete,Moderne CH,Moderne,,,,,pepfar.470,grhcb3NRDtA,807efb3a-9afa-413d-8861-730ad6e11530
+yOkt0YFCmk5,Kinshasa,Mont-Amba,limete,Limete,Mombele CH,Mombele,19.57378,2.45114,populated place,Mombele,pepfar.467,grhcb3NRDtA,603cd5ec-98ef-426a-b1a3-dbdce257ac13
+whyvI8IFD3b,Kinshasa,Mont-Amba,limete,Limete,Mososo ,Mososo,23.35431,4.04435,populated place,Mokoso,pepfar.462,grhcb3NRDtA,161a9908-5826-426e-9ab4-36f6c03ad2b1
+Sgf1QBU49dY,Kinshasa,Mont-Amba,limete,Limete,Promedis,Promedis,,,,,pepfar.471,grhcb3NRDtA,4a2deed5-f7a5-40bc-a91a-613d7672e781
+XcSmCC6QhpX,Kinshasa,Mont-Amba,limete,Limete,Rapha - Limete CH,Rapha - Limete,,,,,pepfar.465,grhcb3NRDtA,8dba0a57-3456-45d3-973a-008b94bc69a7
+GZWoudcGD3q,Kinshasa,Mont-Amba,limete,Limete,Sara ,Sara,19.42377,4.56314,stream,Sara,pepfar.463,grhcb3NRDtA,52424a73-02f2-400d-8574-da2de72c1288
+lKZvqA7oAHG,Kinshasa,Mont-Amba,limete,Limete,St Amand ,St Amand,,,,,pepfar.464,grhcb3NRDtA,e97db989-e271-4a3c-96d7-fc89bc762eeb
+I6A3rfhsfnS,Kinshasa,Mont-Amba,limete,Limete,St Joseph - Limete Hopital,St Joseph - Limete Hopital,,,,,pepfar.472,grhcb3NRDtA,b78cf3e1-9e9b-4f85-a35b-ad458bf51c96
+mMASTm6Dpfd,Kinshasa,Mont-Amba,limete,Limete,TBD1 - Limete,Limete,15.33889,-4.34872,third-order administrative division,Limete,NULL,grhcb3NRDtA,89ee1bf2-af43-4767-9b5c-a9b0e824499b
+OIXG23tpwqd,Kinshasa,Mont-Amba,limete,Limete,TBD2 - Limete,Limete,15.33889,-4.34872,third-order administrative division,Limete,NULL,grhcb3NRDtA,a0b6707f-1b1f-48ae-b687-480481c65b22
+DoHMTQAtcjC,Kinshasa,Mont-Amba,limete,Limete,TBD3 - Limete,Limete,15.33889,-4.34872,third-order administrative division,Limete,NULL,grhcb3NRDtA,b7860504-48a4-4dc5-ae01-ed160edfb778
+RmvVgxVFRdK,Kinshasa,Mont-Amba,limete,Limete,TBD4 - Limete,Limete,15.33889,-4.34872,third-order administrative division,Limete,NULL,grhcb3NRDtA,41a2e512-c149-4ede-8702-965db91f26ad
+tbGz7BS5ZCi,Kinshasa,Tshangu,Kikimi,Kikimi,St Luc - Kikimi CH,St Luc - Kikimi,,,,,pepfar.366,eaqQiniSG6Z,9f29fc50-ac56-4b72-89d2-add35ebfb250
+bkPGPnsvuGJ,Kinshasa,Tshangu,Kimbanseke,Biyela,Mamvululu ,Mamvululu,,,,,pepfar.323,NjC6gOyJzAv,acfea1e5-02be-4a5c-8e13-b8f04f532529
+qOfrM1H42Pa,Kinshasa,Tshangu,Kimbanseke,Biyela,Mokali CH,Mokali,17.67479,-2.57404,stream,Mokali,pepfar.322,NjC6gOyJzAv,821ae376-c451-46ed-b7ec-dc8197051cac
+h0XwGtbTjbp,Kinshasa,Tshangu,Kimbanseke,Biyela,Pere Damien ,Pere Damien,,,,,pepfar.318,NjC6gOyJzAv,6166feef-5bcb-4e76-b17d-ff94747d0e70
+our9rOEwRLR,Kinshasa,Tshangu,Kimbanseke,Biyela,St Jean ,St Jean,,,,,pepfar.319,NjC6gOyJzAv,ef10ea58-a477-4b03-a62c-9fe0e07a1e1b
+FISFjKHxxOj,Kinshasa,Tshangu,Kimbanseke,Biyela,St Joseph - Biyela,St Joseph - Biyela,,,,,pepfar.320,NjC6gOyJzAv,bfd8f1c0-d6c8-480d-9374-d5271df7e65c
+ddDCZJJL46x,Kinshasa,Tshangu,Kimbanseke,Biyela,Tshimungu,Tshimungu,24.15024,-7.78305,populated place,Tshimungu,pepfar.321,NjC6gOyJzAv,5a2597ca-b9db-49b1-940e-f2542b74f0de
+rMtqa0vFFii,Kinshasa,Tshangu,Kimbanseke,Kikimi,Bisengo Mwambe,Bisengo Mwambe,,,,,NULL,aeMCpJ3cC3w,fd4e81ba-4dfc-4f12-af42-d103c5719252
+pXeIcfO970Z,Kinshasa,Tshangu,Kimbanseke,Kikimi,Bisengo Mwambe ,Bisengo Mwambe,,,,,pepfar.623,aeMCpJ3cC3w,e8a083aa-4366-4221-a98c-a056d8a10cec
+iHo5txhOXaD,Kinshasa,Tshangu,Kimbanseke,Kikimi,Bosembo,Bosembo,20.78333,-0.65,populated place,Botembo,pepfar.360,aeMCpJ3cC3w,ff7fa160-9ed4-43b9-8e6c-5d011d95cca5
+j5LUDzK20qu,Kinshasa,Tshangu,Kimbanseke,Kikimi,Kikimi CH,Kikimi,15.78333,-4.84139,populated place,Kikimi,pepfar.369,aeMCpJ3cC3w,57fe4661-bc59-4e4a-ad75-5638c1be0644
+SXw1iWgZTFS,Kinshasa,Tshangu,Kimbanseke,Kikimi,Lobiko - Kikimi ,Lobiko - Kikimi,,,,,pepfar.371,aeMCpJ3cC3w,ac716ba4-90f8-4dde-9552-5c73149fc506
+mJI1c4OO7Ct,Kinshasa,Tshangu,Kimbanseke,Kikimi,Marechal ,Marechal,14.9704,-5.27185,populated place,Muala-Kinsende,pepfar.361,aeMCpJ3cC3w,83c0ec05-17d8-4178-8012-c4f86dae88df
+r0px9m7CKIv,Kinshasa,Tshangu,Kimbanseke,Kikimi,Mfumunkento ,Mfumunkento,,,,,pepfar.368,aeMCpJ3cC3w,f8f6ab42-589a-4a76-b70f-80089149332d
+ypeFgj4XCVx,Kinshasa,Tshangu,Kimbanseke,Kikimi,Mikondo ,Mikondo,15.45553,-4.41958,populated place,Mikondo,pepfar.370,aeMCpJ3cC3w,feb1c5bf-be87-459d-8559-3e8830d7f11b
+nMN4w842LeY,Kinshasa,Tshangu,Kimbanseke,Kikimi,Poly Jamero,Poly Jamero,,,,,pepfar.367,aeMCpJ3cC3w,4a3e8662-6fdf-4b11-8c16-19a9b568ca96
+kxD06DOtILl,Kinshasa,Tshangu,Kimbanseke,Kikimi,St Luc - Kikimi CH,St Luc - Kikimi,,,,,NULL,aeMCpJ3cC3w,a9ebc333-23c8-44c2-8674-d4f6754cd12c
+fFafeWoG7LL,Kinshasa,Tshangu,Kimbanseke,Kikimi,Ste Marie La Misericorde CM,Ste Marie La Misericorde,,,,,NULL,aeMCpJ3cC3w,11875885-bf3b-4d7d-8512-af7ef2f573b2
+HgKnmKHJ9hw,Kinshasa,Tshangu,Kimbanseke,Kikimi,Zainabia - Kikimi ,Zainabia - Kikimi,,,,,pepfar.372,aeMCpJ3cC3w,be1b423a-97fc-4dfe-8484-1aa67f3f632f
+Z76AtWzqTnh,Kinshasa,Tshangu,Kimbanseke,Kimbanseke,Bas-Congo ,Bas-Congo,14.33333,-5.33333,first-order administrative division,Province du Bas-Congo,pepfar.389,IIWUbCKztLZ,f140ebed-8782-446a-9859-d14fe6772884
+tgoVVwlVICZ,Kinshasa,Tshangu,Kimbanseke,Kimbanseke,Boboto - Kimbanseke,Boboto - Kimbanseke,,,,,pepfar.373,IIWUbCKztLZ,8989b3f3-a5d9-4e7b-b278-23208471eff8
+rlMg5xTMkbd,Kinshasa,Tshangu,Kimbanseke,Kimbanseke,Boyokani,Boyokani,,,,,pepfar.387,IIWUbCKztLZ,bde6c57c-f3c8-4d50-8837-9ad84750d398
+dS6omJ0v3is,Kinshasa,Tshangu,Kimbanseke,Kimbanseke,Elikya,Elikya,,,,,pepfar.376,IIWUbCKztLZ,097a3490-25fb-4a06-884f-c5ec509a8ba9
+NMBUG1XXteg,Kinshasa,Tshangu,Kimbanseke,Kimbanseke,Esanga ,Esanga,18.15,-0.66667,populated place,Esanga,pepfar.377,IIWUbCKztLZ,0f424b0c-e6c3-43f0-8e4a-c9b04122c4ad
+LBRD3cpvhRz,Kinshasa,Tshangu,Kimbanseke,Kimbanseke,Esperance ,Esperance,,,,,pepfar.386,IIWUbCKztLZ,ee5090e3-4682-4955-b5c7-28f352ebb5c0
+HJ9Vk9D2e7G,Kinshasa,Tshangu,Kimbanseke,Kimbanseke,Fondaco ,Fondaco,,,,,pepfar.378,IIWUbCKztLZ,b8aadc93-e782-4795-a3fa-30c1744df8cb
+Dh99usNDwDN,Kinshasa,Tshangu,Kimbanseke,Kimbanseke,Kimbanguiste HGR,Kimbanguiste,,,,,pepfar.390,IIWUbCKztLZ,cbd3448f-693f-43e3-a603-0f90fb1fd1bf
+xCOonOw4aZP,Kinshasa,Tshangu,Kimbanseke,Kimbanseke,Kimbanguiste Mission,Kimbanguiste Mission,,,,,pepfar.379,IIWUbCKztLZ,6360bb5e-c7ff-4550-891a-cda009e4c80c
+ftmWhHVj1nZ,Kinshasa,Tshangu,Kimbanseke,Kimbanseke,Mpanga /Kambamulamba ,Mpanga Kambamulamba,,,,,pepfar.374,IIWUbCKztLZ,0ea99e9d-63f2-4355-a5da-1e17ca29a020
+SZ9Ci5jWjSx,Kinshasa,Tshangu,Kimbanseke,Kimbanseke,Ndemba ,Ndemba,22.22394,-9.8634,populated place,Ndemba,pepfar.380,IIWUbCKztLZ,d82ad92e-c352-4877-91f0-63ba809ff343
+g0zMo7fKcuf,Kinshasa,Tshangu,Kimbanseke,Kimbanseke,Pierre Focom ,Pierre Focom,,,,,pepfar.381,IIWUbCKztLZ,9b736ad1-9317-4450-8bd7-1689a1de7c3b
+FCHO3EAkwzH,Kinshasa,Tshangu,Kimbanseke,Kimbanseke,St Albertine,St Albertine,,,,,pepfar.382,IIWUbCKztLZ,8ced03c3-5995-412e-8d7c-d5e9d84345b5
+I9eNIz1hCvC,Kinshasa,Tshangu,Kimbanseke,Kimbanseke,St Augustin ,St Augustin,,,,,pepfar.375,IIWUbCKztLZ,fe3c0f15-3791-4f6e-b3b0-d75ad239e6c3
+xhHQ62KeEqm,Kinshasa,Tshangu,Kimbanseke,Kimbanseke,Tosalisana ,Tosalisana,,,,,pepfar.383,IIWUbCKztLZ,46391f64-a407-469b-b00b-48f0c44d946f
+Kac6bhaIB8G,Kinshasa,Tshangu,Kimbanseke,Kimbanseke,Tuzolana,Tuzolana,,,,,pepfar.384,IIWUbCKztLZ,8e6cae94-a326-4318-bf66-9b1e391ea318
+hTEVBnCRC7A,Kinshasa,Tshangu,Kimbanseke,Kimbanseke,Un Jour,Un Jour,,,,,pepfar.388,IIWUbCKztLZ,7ecf2039-08f1-496f-b08c-25a6e6d9765d
+hIvoOzzp6W4,Kinshasa,Tshangu,Kimbanseke,Kimbanseke,Yenge,Yenge,18.5644,-5.29891,populated place,Yenge,pepfar.385,IIWUbCKztLZ,60b97914-1b32-4f1e-b2d7-d35fe707bde9
+REpcqapipei,Kinshasa,Tshangu,Kimbanseke,Kingasani,17 Mai,17 Mai,,,,,NULL,no5h17DfKNr,8d88f2e5-c555-4605-9d3c-401b8ed21361
+wdlndVdOVB2,Kinshasa,Tshangu,Kimbanseke,Kingasani,Hope Clinic,Hope Clinic,,,,,pepfar.406,no5h17DfKNr,3c9013fc-9d02-4e70-9c34-49e5777a7b0a
+O3oFsNvDAbR,Kinshasa,Tshangu,Kimbanseke,Kingasani,Kingasani CH,Kingasani,,,,,pepfar.407,no5h17DfKNr,c09354c9-40ab-4119-b201-d33f99a5688a
+rlVfoQpoANc,Kinshasa,Tshangu,Kimbanseke,Kingasani,Londolobe ,Londolobe,,,,,pepfar.626,no5h17DfKNr,af099a8c-2c59-40b3-b979-c5187221fdc5
+WFBm58FvK2w,Kinshasa,Tshangu,Kimbanseke,Kingasani,Molende ,Molende,23.72478,2.41802,populated place,Motende,pepfar.410,no5h17DfKNr,14e0e061-e4e5-457c-8b6c-3692bfee42b6
+WUHudRI0dZv,Kinshasa,Tshangu,Kimbanseke,Kingasani,St Paul ,St Paul,,,,,pepfar.411,no5h17DfKNr,7b699efb-f68d-4549-8828-7f96f4edbbcc
+a9kdujBZ1dC,Kinshasa,Tshangu,Kimbanseke,Kingasani,TBD1 - Kingasani,Kingasani,,,,,NULL,no5h17DfKNr,0adce799-4152-4664-8815-bbc30a3e8845
+Uc1T3kcQZkt,Kinshasa,Tshangu,Kimbanseke,Kingasani,TBD2 - Kingasani,Kingasani,,,,,NULL,no5h17DfKNr,70292281-e7d7-497d-b948-5b7735640b88
+gVa2cBxRQ8E,Kinshasa,Tshangu,Kimbanseke,Kingasani,TBD3 - Kingasani,Kingasani,,,,,NULL,no5h17DfKNr,4253ee14-ff2e-4f61-a03d-60617e29d7b3
+kG9dsOeOQ6O,Kinshasa,Tshangu,Kimbanseke,Kingasani,TBD4 - Kingasani,Kingasani,,,,,NULL,no5h17DfKNr,12e69330-5364-42e9-9174-58bd787d0922
+WxtqPmW06X4,Kinshasa,Tshangu,Kimbanseke,Kingasani,TBD5 - Kingasani,Kingasani,,,,,NULL,no5h17DfKNr,d87237f4-5a6b-4998-a93c-d09bb4ceaf62
+dpRp78zb1Xf,Kinshasa,Tshangu,Kimbanseke,Kingasani,Tata Mosala ,Tata Mosala,,,,,pepfar.409,no5h17DfKNr,5f436883-42ef-4286-a184-7564a7f353fc
+dmEjjgPGrq5,Kinshasa,Tshangu,Kimbanseke,Kingasani,Tembo ,Tembo,17.33351,-7.68156,populated place,Tembo,pepfar.408,no5h17DfKNr,af11be48-9e3c-4472-9ec4-a8bb601fcbc6
+UPRMDuf3Zax,Kinshasa,Tshangu,Kingasani,Kingasani,Bethanie ,Bethanie,19.31456,-4.39899,populated place,Bethanie,pepfar.403,ojI3p2LXaQl,04ca85af-6668-4642-b18f-6bdd36f307f3
+DOaFIceft1v,Kinshasa,Tshangu,Maluku,Maluku 1,Basuku,Basuku,27.9048,4.15591,populated place,Bafuku,pepfar.485,Cy5QjJ7IuOT,1ad47e3c-956c-4be9-8198-ca8564cc0af5
+cRA7OyDIYHA,Kinshasa,Tshangu,Maluku,Maluku 1,Bita ,Bita,15.82274,-4.22641,populated place,Bita,pepfar.486,Cy5QjJ7IuOT,d4eebbf6-65f7-4393-b1d0-4009f7c89ca7
+G7CL2kbGNJR,Kinshasa,Tshangu,Maluku,Maluku 1,Bon Berger - Maluku1,Bon Berger - Maluku1,,,,,pepfar.487,Cy5QjJ7IuOT,7f4550c3-fc52-427d-a984-b9a61a5a8d7a
+NtNaI0ny5kq,Kinshasa,Tshangu,Maluku,Maluku 1,Bu,Bu,30.3508,1.8761,populated place,Bu,pepfar.488,Cy5QjJ7IuOT,4dbbb733-9582-406b-92fd-077ae063fcb8
+mQ0865GgjqP,Kinshasa,Tshangu,Maluku,Maluku 1,Dr Kongo CM,Dr Kongo,23.5,-2.5,independent political entity,Democratic Republic of the Congo,pepfar.499,Cy5QjJ7IuOT,975a5503-a360-4200-8d9a-e72befd0aa3c
+PvrxIbdNG1J,Kinshasa,Tshangu,Maluku,Maluku 1,Kingakati,Kingakati,15.76074,-4.30153,populated place,Kingankati,pepfar.492,Cy5QjJ7IuOT,6b0b5417-ca15-45f5-ae6d-f04789f0b3a6
+Q1WUP4zCMTu,Kinshasa,Tshangu,Maluku,Maluku 1,Major Leka ,Major Leka,,,,,pepfar.493,Cy5QjJ7IuOT,f6bd2ac1-ec13-430d-8f6a-107e7accf7ec
+VUj4dx8MPOn,Kinshasa,Tshangu,Maluku,Maluku 1,Maluku,Maluku,15.8088,-4.36195,third-order administrative division,Maluku,NULL,Cy5QjJ7IuOT,47b62ba7-a597-4226-803f-421e6932c4e1
+cop60mZZY5B,Kinshasa,Tshangu,Maluku,Maluku 1,Maluku CH,Maluku,15.8088,-4.36195,third-order administrative division,Maluku,pepfar.489,Cy5QjJ7IuOT,331bb46c-3d1e-44c4-8623-4f5a304a7824
+JXwnUIGW63z,Kinshasa,Tshangu,Maluku,Maluku 1,Maluku ,Maluku,15.8088,-4.36195,third-order administrative division,Maluku,pepfar.494,Cy5QjJ7IuOT,d4e50be7-b56d-4b22-a1cf-901b8811b633
+i1gW96RlOcV,Kinshasa,Tshangu,Maluku,Maluku 1,Mambutuka de Mayi Ndombe 1 ,Mambutuka de Mayi Ndombe 1,,,,,pepfar.490,Cy5QjJ7IuOT,059491ae-67b0-46f5-869d-dfdaf688a2ac
+aekuZipq6ky,Kinshasa,Tshangu,Maluku,Maluku 1,Mangenge,Mangenge,22.26354,-6.77684,populated place,Mangende,NULL,Cy5QjJ7IuOT,8848af20-1403-4d13-9137-212851f3360b
+gY5lNINzNBN,Kinshasa,Tshangu,Maluku,Maluku 1,Mayi Ndombe De Mayi Ndombe 2 ,Mayi Ndombe De Mayi Ndombe 2,,,,,pepfar.491,Cy5QjJ7IuOT,41fc5c1a-bf1f-49a8-a440-5969973c14cd
+yHSDuHExFWf,Kinshasa,Tshangu,Maluku,Maluku 1,Menkao,Menkao,15.69511,-4.18454,populated place,Menkaw,NULL,Cy5QjJ7IuOT,076265c1-0ce4-4097-b2ba-f2531707f6e1
+n3ZdIHpbGxh,Kinshasa,Tshangu,Maluku,Maluku 1,Menkao ,Menkao,15.69511,-4.18454,populated place,Menkaw,pepfar.495,Cy5QjJ7IuOT,0ce29080-45a7-4db1-8cf1-5a5f2671192e
+W9egQLgqHik,Kinshasa,Tshangu,Maluku,Maluku 1,Monaco,Monaco,,,,,NULL,Cy5QjJ7IuOT,eeb84fca-b8af-47de-a350-ba04565daa7c
+DDB14yBFxqA,Kinshasa,Tshangu,Maluku,Maluku 1,Ndunu,Ndunu,,,,,pepfar.496,Cy5QjJ7IuOT,93686882-6eec-4554-bb01-d84a35d79c12
+k4AQVEZcMn5,Kinshasa,Tshangu,Maluku,Maluku 1,Sephora,Sephora,,,,,pepfar.497,Cy5QjJ7IuOT,c3bca134-c115-4ce2-ae1a-5f16df5aa2e7
+U8k75vUY7Ti,Kinshasa,Tshangu,Maluku,Maluku 1,Sosider,Sosider,,,,,pepfar.498,Cy5QjJ7IuOT,781f2c91-860f-4cc7-a5f4-95a59419e0b9
+R0qflhfVRri,Kinshasa,Tshangu,Maluku,Maluku 2,Dumi,Dumi,15.92546,-4.18122,populated place,Dumi,pepfar.505,UcdFn6SOiS1,30cf550b-9352-4cb5-ac29-b32e0a92a31e
+qz0az3pwKhD,Kinshasa,Tshangu,Maluku,Maluku 2,Kingawa ,Kingawa,16.41667,-4.31667,populated place,Kingawa,pepfar.500,UcdFn6SOiS1,21cae006-c010-4ab3-a56b-bb3663172b15
+sUmjGDYWKWi,Kinshasa,Tshangu,Maluku,Maluku 2,Kingwala ,Kingwala,13.77294,-4.44987,populated place,Kingwala,pepfar.501,UcdFn6SOiS1,2e412c5f-05eb-4853-bdd4-2683247244e8
+VBgFxeKFMZq,Kinshasa,Tshangu,Maluku,Maluku 2,Kints ,Kints,,,,,NULL,UcdFn6SOiS1,62872c60-b911-426b-97a2-a11e174b711b
+IGD92w2Dl3c,Kinshasa,Tshangu,Maluku,Maluku 2,Mampu ,Mampu,,,,,pepfar.502,UcdFn6SOiS1,9c2d4d0e-6e13-4e77-a6a5-90fa85f2b223
+V5g1zIQjIpA,Kinshasa,Tshangu,Maluku,Maluku 2,Mbankana HGR,Mbankana,,,,,pepfar.625,UcdFn6SOiS1,0ad33e0f-32b6-4767-a404-539b91751176
+BETSatfJK5z,Kinshasa,Tshangu,Maluku,Maluku 2,Mbete ,Mbete,28.09791,-4.04695,populated place,Mbete,pepfar.503,UcdFn6SOiS1,af67c366-9184-4914-99f5-aa2fdf8b13b4
+lvf8t3apxaI,Kinshasa,Tshangu,Maluku,Maluku 2,Mongata ,Mongata,18.82,3.45507,populated place,Mongata,pepfar.624,UcdFn6SOiS1,a03230a4-3894-4c04-ad00-2041ef2f9642
+idFouaf0Kio,Kinshasa,Tshangu,Maluku,Maluku 2,Nkieme ,Nkieme,17.74346,-2.58849,populated place,Nkiemu,pepfar.504,UcdFn6SOiS1,defd58a4-2372-4a65-badd-1be355696fd0
+kSV3wlbgQYt,Kinshasa,Tshangu,Masina,Masina 1,Aux Bons Soins CH,Aux Bons Soins,,,,,pepfar.513,BQPR0UCqFyz,fb41a884-d315-4ca1-80cb-0904fb21139e
+xgC4KovbUGb,Kinshasa,Tshangu,Masina,Masina 1,Biamba Marie Mutombo Hopital,Biamba Marie Mutombo Hopital,,,,,pepfar.511,BQPR0UCqFyz,ee55104c-f42d-49cf-9a70-7439ce1313a7
+DRaAOxHPwxK,Kinshasa,Tshangu,Masina,Masina 1,Bolingo-Masina 1,Bolingo-Masina 1,,,,,pepfar.506,BQPR0UCqFyz,4d428dc5-77ba-453a-be1d-cffc6805a122
+jlpFwsgYrA0,Kinshasa,Tshangu,Masina,Masina 1,Boo Nsuba ,Boo Nsuba,,,,,pepfar.518,BQPR0UCqFyz,18d97bed-ee3e-4e29-b40f-1d1ad2413307
+becAXeLphFH,Kinshasa,Tshangu,Masina,Masina 1,Cebu,Cebu,,,,,pepfar.515,BQPR0UCqFyz,f42626b2-b695-4357-99c4-561b02f0c66e
+kufgmqYqvFN,Kinshasa,Tshangu,Masina,Masina 1,Clinique Des Anges - Masina1,Clinique Des Anges - Masina1,,,,,pepfar.507,BQPR0UCqFyz,77e6a41a-91db-499f-9350-e29986254b75
+DANpSA5elRW,Kinshasa,Tshangu,Masina,Masina 1,Desaf CH,Desaf,,,,,pepfar.514,BQPR0UCqFyz,adab29a1-cc81-428f-805d-ed5b7f76382b
+kc6OQRXp1Nv,Kinshasa,Tshangu,Masina,Masina 1,Esengo - Masina1 ,Esengo - Masina1,,,,,pepfar.512,BQPR0UCqFyz,395c5604-d4bd-45e5-a7d8-e6f851753436
+ON7dh2IcVHd,Kinshasa,Tshangu,Masina,Masina 1,Esperodi CH,Esperodi,,,,,pepfar.510,BQPR0UCqFyz,aa999e91-3257-4013-ab5a-36b84457bb8e
+tcTH06Oyn5E,Kinshasa,Tshangu,Masina,Masina 1,Kitoko,Kitoko,26.10288,-2.92966,populated place,Kitoko,pepfar.517,BQPR0UCqFyz,7d53be0f-d41c-4373-aa1c-1e7b59e4559f
+qN4iFNp7nie,Kinshasa,Tshangu,Masina,Masina 1,Ntombua Ya Maria ,Ntombua Ya Maria,,,,,pepfar.508,BQPR0UCqFyz,c054c49a-89e5-4ff6-a784-893d975361ee
+YGCa9aoCuTU,Kinshasa,Tshangu,Masina,Masina 1,Pilote CH,Pilote,,,,,pepfar.509,BQPR0UCqFyz,edcf8218-cde0-4ca4-b73d-9fb6a690cdcc
+iJVYR7IiftK,Kinshasa,Tshangu,Masina,Masina 1,Roi Baudouin CH,Roi Baudouin,,,,,pepfar.516,BQPR0UCqFyz,ae8ce136-06f6-4987-8ddc-6504ec158e37
+zdzM28i24iE,Kinshasa,Tshangu,Masina,Masina 1,TBD1 - Masina1,Masina1,15.39139,-4.38361,populated place,Masina,NULL,BQPR0UCqFyz,3883c497-1c73-4c0f-8198-28ceb1e5207d
+lKpUPuj34XD,Kinshasa,Tshangu,Masina,Masina 1,TBD2 - Masina1,Masina1,15.39139,-4.38361,populated place,Masina,NULL,BQPR0UCqFyz,15ff9a41-b2cf-4420-b1c5-8ad101b1907e
+yA2ivfN1Hgq,Kinshasa,Tshangu,Masina,Masina 2,Avenir,Avenir,,,,,pepfar.524,UQu4xUTufWE,1da8f89f-ebe4-433e-aefc-55a080a67c9d
+PyaxfqY0jFg,Kinshasa,Tshangu,Masina,Masina 2,Bora ,Bora,,,,,pepfar.521,UQu4xUTufWE,fe858eb5-8486-4fcb-966b-30570d14e168
+kSiQtxP547O,Kinshasa,Tshangu,Masina,Masina 2,Clinique des Anges Masina,Clinique des Anges Masina,,,,,pepfar.622,mhPJdfwejOp,7384ffe2-2a71-409d-9568-411260ed5540
+JKOx8uKtEof,Kinshasa,Tshangu,Masina,Masina 2,Cliniques des Anges - Masina2,Cliniques des Anges - Masina2,,,,,NULL,UQu4xUTufWE,9ff97155-9b69-4d05-803e-31f98f899552
+s6GQ6rlUdPb,Kinshasa,Tshangu,Masina,Masina 2,Elonga ,Elonga,21.05,-1.65,populated place,Elonga,pepfar.522,UQu4xUTufWE,406a73a0-9947-4ca6-af9b-a896bccca2fe
+CYocxHanSGW,Kinshasa,Tshangu,Masina,Masina 2,Kimbela,Kimbela,15.06695,-5.50869,populated place,Kimbela,pepfar.525,UQu4xUTufWE,267f5585-7dee-41f9-9e9d-56ed6f4a7004
+LbI0uUG6EE9,Kinshasa,Tshangu,Masina,Masina 2,Lumiere - Masina2 ,Lumiere - Masina2,,,,,pepfar.519,UQu4xUTufWE,aaf95525-c431-4d65-8573-dae833be38cd
+W9YzyEZHrjn,Kinshasa,Tshangu,Masina,Masina 2,Lunda,Lunda,18.06667,-4.48333,populated place,Lunda,pepfar.526,UQu4xUTufWE,c682a245-d381-4de7-b748-b54665fd57f3
+EyGCucpVqA2,Kinshasa,Tshangu,Masina,Masina 2,Mafuta Kizola,Mafuta Kizola,,,,,NULL,UQu4xUTufWE,ba935ed4-488f-4fa4-a375-6c1f938d371a
+vIyDF76BUNi,Kinshasa,Tshangu,Masina,Masina 2,Mapela ,Mapela,27.75,-4.38333,populated place,Mapela,pepfar.520,UQu4xUTufWE,cbfd2021-772c-4346-93ed-a8a95e2eaf45
+vtDLYQ8rlN9,Kinshasa,Tshangu,Masina,Masina 2,Matadi,Matadi,13.44068,-5.79949,seat of a first-order administrative division,Matadi,NULL,UQu4xUTufWE,eac5fa23-f9b8-4b77-959a-33700c38ced8
+AjjsXyzXkbx,Kinshasa,Tshangu,Masina,Masina 2,St Hilaire ,St Hilaire,,,,,pepfar.523,UQu4xUTufWE,804785f2-0236-48fe-9f98-b86bf81fbd30
+Cfz0frvrsm2,Kinshasa,Tshangu,Masina,Masina 2,TBD1 - Masina2,Masina2,15.39139,-4.38361,populated place,Masina,NULL,UQu4xUTufWE,8bbe9b24-26d2-4662-9927-ab24f67393c2
+ctcOLQakV3K,Kinshasa,Tshangu,Masina,Masina 2,TBD2 - Masina2,Masina2,15.39139,-4.38361,populated place,Masina,NULL,UQu4xUTufWE,4cbf0725-7b79-46e1-b237-8ab5acc480d4
+bqEoRuLF6g6,Kinshasa,Tshangu,Masina,Masina 2,TBD3 - Masina2,Masina2,15.39139,-4.38361,populated place,Masina,NULL,UQu4xUTufWE,167778f3-430f-41d1-ab2e-a43c703673c1
+H330PAqC6hH,Kinshasa,Tshangu,Masina,Masina 2,TBD4 - Masina2,Masina2,15.39139,-4.38361,populated place,Masina,NULL,UQu4xUTufWE,c30f2e54-3e66-4d2c-9337-5645f9cdd247
+yH6Z7zfwNOG,Kinshasa,Tshangu,Masina,Masina 2,TBD5 - Masina2,Masina2,15.39139,-4.38361,populated place,Masina,NULL,UQu4xUTufWE,689aa0f5-a242-4853-b590-4be1347d4caf
+EfjQAABPq0X,Kinshasa,Tshangu,Masina,Masina 2,TBD6 - Masina2,Masina2,15.39139,-4.38361,populated place,Masina,NULL,UQu4xUTufWE,77e4adaa-aba7-4380-90fe-d83e422964e2
+gicGJ33U49G,Kinshasa,Tshangu,Masina,Masina 2,TBD7 - Masina2,Masina2,15.39139,-4.38361,populated place,Masina,NULL,UQu4xUTufWE,92e7b0a2-4954-43c0-9d23-5812bd54cb66
+RzhfCkU5Tov,Kinshasa,Tshangu,Masina,Masina 2,TBD8 - Masina2,Masina2,15.39139,-4.38361,populated place,Masina,NULL,UQu4xUTufWE,9edd01f5-18a6-4243-b7b9-e146bad5b945
+YugFXyrQlgv,Kinshasa,Tshangu,Masina,Masina 2,Temoignage,Temoignage,,,,,pepfar.527,UQu4xUTufWE,466365b9-771a-45a3-ae7b-0d3c27209ef7
+OSnL3HIy9B8,Kinshasa,Tshangu,Ndjili,Ndjili,Bakuma ,Bakuma,20.2598,2.49891,populated place,Baguma,pepfar.559,ho0Fg1MrqMi,97b39523-5c73-4e45-9209-e3c3151cd83c
+qBzTIPCzrlr,Kinshasa,Tshangu,Ndjili,Ndjili,Bikunda ,Bikunda,21.46299,-5.0602,stream,Bikanda,pepfar.560,ho0Fg1MrqMi,c1883fbc-025b-4136-8794-b2011dc98c7a
+jJSVlg3cu1T,Kinshasa,Tshangu,Ndjili,Ndjili,Bomoi ,Bomoi,20.90013,2.75535,populated place,Bomoi,pepfar.572,ho0Fg1MrqMi,b4af3b5f-d41e-4e48-815b-8cc19c21af8c
+VesLDtGxWfh,Kinshasa,Tshangu,Ndjili,Ndjili,Bopeto ,Bopeto,22.50072,2.16984,populated place,Bopoto,pepfar.569,ho0Fg1MrqMi,108eb727-45cc-44a0-bce9-eda05a39138c
+iv5W0R00ElS,Kinshasa,Tshangu,Ndjili,Ndjili,Cadc Sumbi ,Cadc Sumbi,,,,,pepfar.561,ho0Fg1MrqMi,f9bf424c-10a7-41b9-91ed-833d27c70c2e
+CulIamADLpR,Kinshasa,Tshangu,Ndjili,Ndjili,Centre Usafi,Centre Usafi,,,,,pepfar.568,ho0Fg1MrqMi,d48e8513-8274-46ce-b78e-60a0e46b0783
+muUBLmku7pF,Kinshasa,Tshangu,Ndjili,Ndjili,Diki Sante ,Diki Sante,,,,,pepfar.563,ho0Fg1MrqMi,c7d6d3c5-512b-4eee-92ea-20c1b572af16
+x82evWtOhBk,Kinshasa,Tshangu,Ndjili,Ndjili,Hasc,Hasc,,,,,pepfar.570,ho0Fg1MrqMi,96b5857f-1f6b-4a0f-9fe4-47cbe4df02e2
+JCuTEJ7Wz4Z,Kinshasa,Tshangu,Ndjili,Ndjili,Luzingu ,Luzingu,27.59973,-2.33709,populated place,Lulingu,pepfar.571,ho0Fg1MrqMi,77c5b672-9658-4692-8321-c2aca2fc59b2
+a3Tj4kGdAIZ,Kinshasa,Tshangu,Ndjili,Ndjili,Mbankani,Mbankani,,,,,pepfar.564,ho0Fg1MrqMi,7cdae77c-6527-4395-809f-28c29a839ed4
+WfDJJjaQAea,Kinshasa,Tshangu,Ndjili,Ndjili,Mokili Muinda,Mokili Muinda,,,,,pepfar.565,ho0Fg1MrqMi,189e8cbf-b1a0-4900-ad6b-011417e8dc4c
+sccGuF5iGKS,Kinshasa,Tshangu,Ndjili,Ndjili,Ndjili HGR,Ndjili,15.36597,-4.41472,third-order administrative division,Ndjili,pepfar.566,ho0Fg1MrqMi,65647fc4-f8eb-4a44-a8d8-ddd6ed41a515
+mLfkiIMqIgy,Kinshasa,Tshangu,Ndjili,Ndjili,S/M de N'djili ,SM de N'djili,,,,,pepfar.562,ho0Fg1MrqMi,81fc5bad-1210-4488-9a7f-902194d5ee60
+d30gRXRTNLz,Kinshasa,Tshangu,Ndjili,Ndjili,Samaritaine ,Samaritaine,,,,,pepfar.567,ho0Fg1MrqMi,1c5776af-01a5-42bb-812c-97c0047da3ae
+zHIhPli3zWI,Kinshasa,Tshangu,Ndjili,Ndjili,TBD1 - Ndjili,Ndjili,15.36597,-4.41472,third-order administrative division,Ndjili,NULL,ho0Fg1MrqMi,c88f4f2c-aa9f-4c8d-adb4-686d87cf28f3
+BKkxLJRX6UW,Kinshasa,Tshangu,Ndjili,Ndjili,TBD2 - Ndjili,Ndjili,15.36597,-4.41472,third-order administrative division,Ndjili,NULL,ho0Fg1MrqMi,462439ed-7947-4273-b0d4-eeab92fd7398
+YyrYTeH2CQ0,Kinshasa,Tshangu,Ndjili,Ndjili,TBD3 - Ndjili,Ndjili,15.36597,-4.41472,third-order administrative division,Ndjili,NULL,ho0Fg1MrqMi,afe67ae9-f549-48a4-9eee-d021770fce88
+YC0mgs7sXBP,Kinshasa,Tshangu,Nsele,Kokolo,Ceta ,Ceta,,,,,pepfar.442,kqDpXxCcL1b,162042df-15f9-483d-9766-f0ac04449c3a
+h90OrBhTq8s,Kinshasa,Tshangu,Nsele,Nsele,Aigle Medical ,Aigle Medical,,,,,pepfar.590,UsUtCapznDy,3a2aa634-a084-4541-8568-ad38264908c4
+VcKBOmhMuVS,Kinshasa,Tshangu,Nsele,Nsele,Amed CM,Amed,,,,,pepfar.593,UsUtCapznDy,c9e1762d-9f11-47b1-ae61-07ff5fff8587
+yhjYxCtnEef,Kinshasa,Tshangu,Nsele,Nsele,Benzale CH,Benzale,16.66667,-4.13333,populated place,Benzale,pepfar.605,UsUtCapznDy,132d40bf-2c6b-4102-af2e-2a070a331f78
+IHYjnzkX90z,Kinshasa,Tshangu,Nsele,Nsele,Bibwa MaternitÃ©-,Bibwa MaternitÃ©-,,,,,pepfar.604,UsUtCapznDy,a2775ae0-e2cc-478b-bc71-986e784d710a
+knW1Bub3kkr,Kinshasa,Tshangu,Nsele,Nsele,Bon Secours ,Bon Secours,,,,,pepfar.591,UsUtCapznDy,2f937f29-9eea-4361-b6bd-ab6c169c6709
+I6ATq2gOwEh,Kinshasa,Tshangu,Nsele,Nsele,Centenaire ,Centenaire,,,,,pepfar.611,UsUtCapznDy,cf2b0c6d-794c-4c0d-be7a-1438aed0161b
+om2imlohrLr,Kinshasa,Tshangu,Nsele,Nsele,DAIPN MaternitÃ©-,DAIPN MaternitÃ©-,,,,,pepfar.603,UsUtCapznDy,71fef999-af66-40e9-b233-845438519f16
+GpmEaXwAsvo,Kinshasa,Tshangu,Nsele,Nsele,Dingi Dingi ,Dingi Dingi,,,,,pepfar.594,UsUtCapznDy,3134843f-b425-4e8c-a4d8-04a4c0343b4d
+rDL4HmffhXE,Kinshasa,Tshangu,Nsele,Nsele,Emeraude - Nsele ,Emeraude - Nsele,,,,,pepfar.597,UsUtCapznDy,3d0f969d-2513-452f-b7f7-d210ec906b1a
+QGxYF3IKqBZ,Kinshasa,Tshangu,Nsele,Nsele,Etonga,Etonga,25.08391,1.49351,stream,Etonga,pepfar.598,UsUtCapznDy,6bced66a-cec9-42db-8742-dd2be532914c
+Nh0X2SzuUOc,Kinshasa,Tshangu,Nsele,Nsele,Kinkole HGR,Kinkole,16.11667,-3.95,populated place,Kinkole,pepfar.599,UsUtCapznDy,5e46eab1-0ecc-4e59-bf43-2433538a80b6
+HS8gyFoutRT,Kinshasa,Tshangu,Nsele,Nsele,Laboratoire DREAM,Laboratoire DREAM,,,,,pepfar.589,UsUtCapznDy,1d5f215f-c169-4403-a2b0-ffc8effee18c
+tPrnkhsmVnN,Kinshasa,Tshangu,Nsele,Nsele,Mapamboli ,Mapamboli,,,,,pepfar.595,UsUtCapznDy,b2f18281-55ed-4736-8eea-bcc35a1e5bff
+s4XnuMl6C6X,Kinshasa,Tshangu,Nsele,Nsele,Maria Louisa ,Maria Louisa,,,,,pepfar.596,UsUtCapznDy,4578323b-e107-45ed-8704-34c726160c3c
+EU6VG4LlnYG,Kinshasa,Tshangu,Nsele,Nsele,Mbangu Mbamu ,Mbangu Mbamu,,,,,pepfar.606,UsUtCapznDy,101f8d33-874a-40ec-8086-271be9dc4ff3
+uOt7g17VYw4,Kinshasa,Tshangu,Nsele,Nsele,Methodiste - Nsele ,Methodiste - Nsele,,,,,pepfar.610,UsUtCapznDy,d98af221-a1c7-42b8-a5b7-84b93d83b655
+eDPkTdMNcVf,Kinshasa,Tshangu,Nsele,Nsele,Mobikisi CM,Mobikisi,,,,,pepfar.608,UsUtCapznDy,f4e0c059-dd33-425a-885c-bb3c7985ab65
+iP5YIomPnX6,Kinshasa,Tshangu,Nsele,Nsele,Notre Dame du Jardin,Notre Dame du Jardin,,,,,pepfar.600,UsUtCapznDy,2d70c355-974e-461c-818c-5f8ee659f1d1
+HIfWulJr0WY,Kinshasa,Tshangu,Nsele,Nsele,Pcid Ch,Pcid Ch,,,,,pepfar.592,UsUtCapznDy,ced80cc4-e357-4887-bf2a-0b614592bb32
+k8JjrmHT6Ky,Kinshasa,Tshangu,Nsele,Nsele,Rapha - Mpasa ,Rapha - Mpasa,,,,,pepfar.607,UsUtCapznDy,1de9ef27-bbec-4016-bcac-4f1376fba4dd
+yE7ZnSAzBy1,Kinshasa,Tshangu,Nsele,Nsele,St Jean ApÃ´tre,St Jean ApÃ´tre,,,,,pepfar.609,UsUtCapznDy,fd3fc91f-df1f-4a9d-8293-258e091311f2
+gPWMsEr3MAe,Kinshasa,Tshangu,Nsele,Nsele,St Raymond - Nsele,St Raymond - Nsele,,,,,pepfar.601,UsUtCapznDy,7d38d756-c12d-4bae-993d-3a8fdb06fba1
+ePmcURUNiHk,Kinshasa,Tshangu,Nsele,Nsele,Stella,Stella,,,,,pepfar.602,UsUtCapznDy,8cd3380f-0be9-427f-9036-67a679ee8bdf
+ktrTm33qbIf,Kongo-Central,Bas-Fleuve,Lukula,Lukula,Lukula HGR,Lukula,23.88348,-3.86881,populated place,Lukula,pepfar.257,z4TKrYxjfWP,f1c78dfb-ef50-460c-b7d6-34e46b51f531
+efU3KOVva7k,Kongo-Central,Bas-Fleuve,Lukula,Lukula,Makungulenge ,Makungulenge,,,,,pepfar.255,z4TKrYxjfWP,ff4a8921-a491-44f4-b58b-17ea6ea6a9d4
+sqFUkiHgzmR,Kongo-Central,Bas-Fleuve,Lukula,Lukula,Mbambi,Mbambi,15.31201,-5.24012,populated place,Mbambu,pepfar.258,z4TKrYxjfWP,72eef5e2-6d4d-48b9-8054-61136ed0d7b2
+saeGoktRc6U,Kongo-Central,Bas-Fleuve,Lukula,Lukula,Mvuangu ,Mvuangu,12.71667,-5.53333,populated place,Mvuangu,pepfar.256,z4TKrYxjfWP,0ec22562-7396-4391-b104-74d6d456559d
+XAGfmkM02r0,Kongo-Central,Boma,Kabondo,Boma,Boma HGR,Boma,13.05692,-5.83899,populated place,Boma,pepfar.254,CAPAubPKQUV,2bb38cf8-0413-4f5b-80bf-cdd5e17c077e
+ZTNdnnlRbFL,Kongo-Central,Boma,Kabondo,Boma,Cvm ,Cvm,,,,,pepfar.251,CAPAubPKQUV,201edd31-0d89-4590-8783-0cc1ea92ff1f
+uI74bR3YFqe,Kongo-Central,Boma,Kabondo,Boma,Kiveve ,Kiveve,24.45,-9.23333,populated place,Kifwefwe,pepfar.252,CAPAubPKQUV,ccfb012c-10fb-4f15-969d-f49c4b418a9c
+pFPDTPC2AlW,Kongo-Central,Boma,Kalamu,Boma,Boboto - Boma ,Boboto - Boma,,,,,pepfar.250,wx4ZZzkfnIt,9c2def08-a241-4afa-9fdd-e235e47686e5
+XwRDe76qxas,Kongo-Central,Boma,Kalamu,Boma,SacrÃ© CÅ“ur ,SacrÃ© CÅ“ur,,,,,pepfar.253,wx4ZZzkfnIt,49cda5ed-35dd-4ed6-bff8-1ae0a176b43f
+uoTvj9rDgPQ,Kongo-Central,Boma,Moanda,Moanda,Kinkonzi,Kinkonzi,13.04788,-4.97048,populated place,Kinkonzi,pepfar.263,rknmC954KXn,36ef612f-875b-45c4-aacd-354c6907b880
+BI31Q1Um5GG,Kongo-Central,Boma,Moanda,Moanda,La Grace - Moanda ,La Grace - Moanda,,,,,pepfar.260,rknmC954KXn,fe641436-375b-47e5-a83e-4a212dfb7f81
+dx1DvElqDQl,Kongo-Central,Boma,Moanda,Moanda,Moanda A ,Moanda A,,,,,pepfar.261,rknmC954KXn,54e6a4d1-9749-4e4e-a5db-809c14c15fe2
+ocYq2r07MHP,Kongo-Central,Boma,Moanda,Moanda,Moanda HGR,Moanda,12.35179,-5.93086,airport,Moanda,pepfar.262,rknmC954KXn,b5f7e9b6-4d50-4fe0-8244-1c6c351da6d6
+rhP19wNJEuc,Kongo-Central,Boma,Moanda,Moanda,Vulumba,Vulumba,,,,,pepfar.264,rknmC954KXn,671236cc-5780-443e-a393-d33116bb5b02
+sKyFk3JTtf6,Kongo-Central,Boma,Nzadi,Boma,Croix Rouge,Croix Rouge,,,,,pepfar.267,MloXYCFhAHJ,a4cb93bc-2362-4cf3-9d12-4efbb28dd24d
+chHeDZPjN9O,Kongo-Central,Boma,Nzadi,Boma,ONATRA - Boma Hopital,ONATRA - Boma Hopital,,,,,pepfar.270,MloXYCFhAHJ,e4c2eb38-8104-4cb0-8edb-bd341ea85a3a
+R30YjQR9bNS,Kongo-Central,Boma,Nzadi,Boma,Police ,Police R,,,,,pepfar.268,MloXYCFhAHJ,451ceac0-3bb5-4397-a3de-cc14e62b16a2
+AoWIql5RRib,Kongo-Central,Matadi,Matadi,Matadi,Kinkanda HGR,Kinkanda,14.31112,-4.97685,populated place,Kindanda,pepfar.269,nFamls0dWBJ,312acad9-c465-432f-9b7f-2e7c79d0ed2b
+KCPxeGTka25,Kongo-Central,Matadi,Matadi,Matadi,Mvuzi ,Mvuzi R,,,,,pepfar.259,nFamls0dWBJ,4e460b12-7ac6-4088-ba1e-40c484b1067a
+ryK3bW8C1ap,Kongo-Central,Matadi,Nzanza,Nzanza,Kiamvu HGR,Kiamvu,18.0165,-4.36792,populated place,Kiamfu,pepfar.265,eY8yYcyRrd2,ca12746d-b7f2-4b87-87f5-a15886078077
+vnS5IETMeas,Kongo-Central,Matadi,Nzanza,Nzanza,Mabaku,Mabaku,18.18333,1.48333,populated place,Mabako,pepfar.266,eY8yYcyRrd2,6f66e003-892a-46a8-bc1a-356d9b7448df
+MTlUjdz0HYY,Military_DRC,Military_DRC,Military_DRC,Military_DRC,Military_DRC,Military_DRC,,,,,NULL,bpPjB4XtMsR,d13ad109-43e3-4762-a348-0433f8f42c4e
+s9PKrvwpRR9,Tanganyika,Tanganyika,Kalemie,Nyemba,Kisongo,Kisongo,29.33333,-7.76667,populated place,Kilongo,NULL,G1ue7t1kEzV,d69a1f80-725e-48c4-9118-06d45ec4ce40
+RMjbonOiekP,Tanganyika,Tanganyika,Kalemie,Nyemba,Kituku,Kituku,30.20604,-7.58157,populated place,Kituku,NULL,G1ue7t1kEzV,e158c0ee-dc44-41a4-9385-022f9bf1a56d
+zRk9BWian47,Tanganyika,Tanganyika,Kalemie,Nyemba,Lubuye,Lubuye,22.41966,-5.57463,populated place,Lubuyi,NULL,G1ue7t1kEzV,93d2fc28-efd8-4dc0-aaa3-c463519b4780
+fYYdKOof0nw,Tanganyika,Tanganyika,Kalemie,Nyemba,Tabac,Tabac,,,,,NULL,G1ue7t1kEzV,4661abce-75d6-4520-a554-ed96b283b587
+kA6fCHJ0tz6,Tanganyika,Tanganyika,Kalemie,Nyemba,Tundwa,Tundwa,14.77184,-5.66376,populated place,Tungwa,NULL,G1ue7t1kEzV,cd6a61a3-5c97-4d2a-ae30-24e6fc8f20f5
+rruUwutIc8T,Tanganyika,Tanganyika,Kalemie,Nyemba,Undugu,Undugu,,,,,NULL,G1ue7t1kEzV,89c6e34b-3b06-42f4-9bdd-76fb789ef537
+D5EVoj1WtfD,Tanganyika,Tanganyika,Kongolo,Kongolo,Kandolo ,Kandolo,23.70945,-3.35824,populated place,Kandolo,NULL,dw75lxOfIc7,8af71610-0561-4311-ad08-e1af2fc2082c
+UVGQxOVePvf,Tanganyika,Tanganyika,Kongolo,Kongolo,Kangoy,Kangoy,30.31348,2.52671,populated place,Kangoi,NULL,dw75lxOfIc7,6c42e408-bd4b-437d-a35c-092b327aebdd
+UjYoCoZBbOe,Tanganyika,Tanganyika,Kongolo,Kongolo,Kongolo HGR,Kongolo,27.00028,-5.38532,populated place,Kongolo,NULL,dw75lxOfIc7,9d2e2c23-f6f8-4a1d-b212-d01dd84c6c46
+MFag0Bs8Kyx,Tanganyika,Tanganyika,Kongolo,Kongolo,Kongolo Ville,Kongolo Ville,27,-5.38335,second-order administrative division,Kongolo Ville,NULL,dw75lxOfIc7,0ac67499-9a6c-4ae9-9f87-d660fa526c0a
+gI1kWJrmZ40,Tanganyika,Tanganyika,Kongolo,Kongolo,Maria Mama,Maria Mama,,,,,NULL,dw75lxOfIc7,adda97f1-e04f-4c28-b10a-52044d5ed187
+OKb2TWOME8l,Tanganyika,Tanganyika,Kongolo,Kongolo,Sola,Sola,27.1045,-5.1516,populated place,Sola,NULL,dw75lxOfIc7,1c9838a9-16b5-4c25-b0d2-73873c986165
+AiQQMdZaKYe,Tanganyika,Tanganyika,Manono,Manono,CitÃ© ,CitÃ©,,,,,NULL,h4MXDgzHF4L,ca2c0cbe-64ab-41d0-a226-857c32ce2385
+uILILDZbPVU,Tanganyika,Tanganyika,Manono,Manono,HGR ,,,,,,NULL,h4MXDgzHF4L,bbe8fe5d-cec5-4600-873d-1c41f520cc86
+dN8VmLjayaL,Tanganyika,Tanganyika,Manono,Manono,Kanteba,Kanteba,24.15,-9.48333,populated place,Kanseba,NULL,h4MXDgzHF4L,00e65278-25cb-4946-b483-854d318d1448
+kngWZdg1WDE,Tanganyika,Tanganyika,Manono,Manono,Kaulo Minono,Kaulo Minono,,,,,NULL,h4MXDgzHF4L,8d2d780f-630c-4b95-af33-2677e7403f69
+lN5irfBgJj3,Tanganyika,Tanganyika,Manono,Manono,Manono HGR,Manono,27.45449,-7.2947,second-order administrative division,Manono,NULL,h4MXDgzHF4L,15a7a696-53a5-4198-a1d9-ed17cd132b39
+tPA8RqeVZRA,Tanganyika,Tanganyika,Manono,Manono,Muyumba Port,Muyumba Port,,,,,NULL,h4MXDgzHF4L,55cea4cf-e8c1-4d33-9810-3d81e0d75fdb
+bqakUkPcEhI,Tanganyika,Tanganyika,Moba,Moba,Fube,Fube,,,,,NULL,PAthk6X0zDu,a150e483-e5da-4a79-90ec-ada3e29e7292
+smLIbI96Ayp,Tanganyika,Tanganyika,Moba,Moba,Kasenga - Moba ,Kasenga - Moba,,,,,NULL,PAthk6X0zDu,304a98e3-ed17-4f7b-9e04-2b47486324ba
+Z2Z6UkxbNcf,Tanganyika,Tanganyika,Moba,Moba,Katombe,Katombe,22.9086,-6.12923,populated place,Katombe,NULL,PAthk6X0zDu,f89f4331-7001-4230-ac8d-d2534dbc5702
+E9rXy7w9bhj,Tanganyika,Tanganyika,Moba,Moba,Moba HGR,Moba,29.73681,-7.08408,populated place,Moba,NULL,PAthk6X0zDu,8c1282c8-d595-40f7-bd5d-a5229a8f5156
+i4A4FmqmHUT,Tanganyika,Tanganyika,Moba,Moba,Moba Port ,Moba Port,,,,,NULL,PAthk6X0zDu,101f8e09-9644-4039-b2b5-3bbb0208c7e6
+E0Ol8WlloLV,Tanganyika,Tanganyika,Moba,Moba,Mulonde,Mulonde,29.06667,-5.98333,populated place,Mulonge,NULL,PAthk6X0zDu,0d8d73f7-2810-434c-a9ca-5d64479a3b3a
+OoswowpfRE3,Tanganyika,Tanganyika,Nyunzu,Nyunzu,Changa Changa,Changa Changa,,,,,NULL,s7Hibjz0nqP,6bfe2bca-653c-431d-8970-f973072bd9a2
+e4RKnbJki58,Tanganyika,Tanganyika,Nyunzu,Nyunzu,Kisengo,Kisengo,13.94442,-4.82891,populated place,Kisengo,NULL,s7Hibjz0nqP,73c2001d-ef6e-439f-85c2-5ea44a995abe
+JnMy3XyIXRF,Tanganyika,Tanganyika,Nyunzu,Nyunzu,Lengwe,Lengwe,27.98333,-7.9,populated place,Lengwe,NULL,s7Hibjz0nqP,43c94fad-2dab-408e-97d5-2343202feae6
+oddQAdULr31,Tanganyika,Tanganyika,Nyunzu,Nyunzu,Luizi,Luizi,27.4586,-6.04335,populated place,Luizi,NULL,s7Hibjz0nqP,5601c395-16b6-41b8-8474-ee14100e8d10
+Y0JB9gXalvj,Tanganyika,Tanganyika,Nyunzu,Nyunzu,Mangala,Mangala,15.51847,-4.74579,populated place,Mangala,NULL,s7Hibjz0nqP,900e4bec-738c-46be-99cb-41c35a058470
+abV2dgHCQUw,Tanganyika,Tanganyika,Nyunzu,Nyunzu,Nyunzu HGR,Nyunzu,28.01667,-5.95,third-order administrative division,Nyunzu,NULL,s7Hibjz0nqP,943b9343-1a68-4af8-af8c-db35c829484f
+MdpX4ZhWhyw,Tshopo,Tshopo,Kisangani,Kabondo,Foyer,Foyer,,,,,pepfar.633,x3lLk1CogjJ,4983622c-fbde-4b75-8efc-fb160f9654cd
+sgV3A1w09ab,Tshopo,Tshopo,Kisangani,Kabondo,Kabondo HGR,Kabondo,19.10843,-6.31275,populated place,Kabondo,pepfar.635,x3lLk1CogjJ,57b488aa-446d-4a6d-962a-289d3f0e5f09
+QbWcNccdgD0,Tshopo,Tshopo,Kisangani,Kabondo,Umoja,Umoja,,,,,pepfar.634,x3lLk1CogjJ,0a7f78ac-3e62-4b4d-b1a3-99d600ef102e
+vupJLMT6sFj,Tshopo,Tshopo,Kisangani,Lubunga,Bambole ,Bambole,25.43077,1.39841,populated place,Bambole,pepfar.639,mGKLqnVnFtL,d650870d-494e-43c4-865e-97374abfd16c
+WHuR5wgbDcH,Tshopo,Tshopo,Kisangani,Lubunga,Lubunga HGR,Lubunga,28.77684,-5.43736,populated place,Lubunga,pepfar.636,mGKLqnVnFtL,01386cc5-c14e-43ec-8709-50c2101ee494
+blXRSqcmRRZ,Tshopo,Tshopo,Kisangani,Lubunga,Mako,Mako,25.30715,-7.23678,populated place,Mako,pepfar.637,mGKLqnVnFtL,30af4060-ff66-442a-9ddc-426ad25a725e
+IKO9CA0K6Io,Tshopo,Tshopo,Kisangani,Lubunga,Osio 21 ,Osio 21,,,,,pepfar.640,mGKLqnVnFtL,134e9ccb-7c63-49b8-9f4b-51354ae5614d
+Yu9ALZ1zKy5,Tshopo,Tshopo,Kisangani,Lubunga,SNCC - Lubunga ,SNCC - Lubunga,,,,,NULL,mGKLqnVnFtL,8fe04cb6-a116-4f92-81b3-ad592ddb2578
+drqmjhVixs3,Tshopo,Tshopo,Kisangani,Lubunga,St Andre,St Andre,,,,,pepfar.638,mGKLqnVnFtL,338a7e08-d9a1-4625-bd02-bef941073af0
+dP9lmvkcuYp,Tshopo,Tshopo,Kisangani,Makiso-Kisangani,Banduku ,Banduku,,,,,pepfar.652,rmPsFrtIlAo,fbb26363-75fe-469a-89d8-79e292437ff1
+cAHNuQ9TKzO,Tshopo,Tshopo,Kisangani,Makiso-Kisangani,Boyoma,Boyoma,17.87841,1.002,populated place,Boyaka,NULL,rmPsFrtIlAo,01c150dc-28f5-4eb3-8ad8-2704f677510a
+b3rajVKNduz,Tshopo,Tshopo,Kisangani,Makiso-Kisangani,Boyoma ,Boyoma,17.87841,1.002,populated place,Boyaka,pepfar.647,rmPsFrtIlAo,edbab3c5-fc87-4cda-a2b4-5bd9764c9c1c
+SslEoAFIacY,Tshopo,Tshopo,Kisangani,Makiso-Kisangani,De La Paix,De La Paix,,,,,NULL,rmPsFrtIlAo,582face1-b2d8-47a5-8f72-d087674da71e
+p8vcgZk2kA4,Tshopo,Tshopo,Kisangani,Makiso-Kisangani,ECC Makiso ,ECC Makiso,,,,,pepfar.648,rmPsFrtIlAo,6e74f5da-6951-4d4b-91a3-082cb35153b8
+RJypPji8NfM,Tshopo,Tshopo,Kisangani,Makiso-Kisangani,Jamaa ,Jamaa,,,,,pepfar.653,rmPsFrtIlAo,9e917e44-5242-4368-a6fc-8280ba80de16
+s4XF2eatEnT,Tshopo,Tshopo,Kisangani,Makiso-Kisangani,Konga Konga,Konga Konga,,,,,NULL,rmPsFrtIlAo,d8094993-30b6-41c3-91c3-65d38d34fd17
+il1PVKiVDg5,Tshopo,Tshopo,Kisangani,Makiso-Kisangani,Konga-Konga ,Konga-Konga,,,,,pepfar.650,rmPsFrtIlAo,df7290dd-fd32-4343-bbd7-d7cd3db9c30b
+ytZEjFf7YxE,Tshopo,Tshopo,Kisangani,Makiso-Kisangani,Makiso,Makiso,18.46667,-4.63333,populated place,Makoso,NULL,rmPsFrtIlAo,35930bf4-9b08-46ff-b6cb-e76e18603b05
+ReNYHMZphg0,Tshopo,Tshopo,Kisangani,Makiso-Kisangani,Makiso HGR,Makiso,18.46667,-4.63333,populated place,Makoso,pepfar.649,rmPsFrtIlAo,4b6a66be-e087-48e5-a14a-9c5a79d323f7
+bETRKB1feSz,Tshopo,Tshopo,Kisangani,Makiso-Kisangani,Mandombe ,Mandombe,27.30424,2.76338,populated place,Maniombe,pepfar.654,rmPsFrtIlAo,b1397e60-b86e-423e-beb1-72a5bb0a276c
+mBPB5BI46Ew,Tshopo,Tshopo,Kisangani,Makiso-Kisangani,Mc Milan ,Mc Milan,,,,,pepfar.656,rmPsFrtIlAo,ca6893ae-6b8d-4b93-a6ad-247def7dadfe
+lInOAMpq97r,Tshopo,Tshopo,Kisangani,Makiso-Kisangani,Mokela,Mokela,27.57443,1.9531,populated place,Mokepa,NULL,rmPsFrtIlAo,50dba9bf-f05f-446e-b7ac-882a56bc64a3
+LVJpLyxpXxQ,Tshopo,Tshopo,Kisangani,Makiso-Kisangani,Nehema,Nehema,27.97864,2.4816,stream,Nelema,NULL,rmPsFrtIlAo,74b0c785-e58e-420c-9aec-59c8f98608cd
+EJILg8bp2VF,Tshopo,Tshopo,Kisangani,Makiso-Kisangani,Rosaria,Rosaria,,,,,NULL,rmPsFrtIlAo,93669577-2710-4292-9291-afa1430a7fd0
+H4INNkFoNLu,Tshopo,Tshopo,Kisangani,Makiso-Kisangani,Rosaria ,Rosaria,,,,,pepfar.651,rmPsFrtIlAo,84b90d56-3e17-4ac7-8958-613a2e1efddd
+fc5ZKC7pQtS,Tshopo,Tshopo,Kisangani,Makiso-Kisangani,St Pierre - Makiso ,St Pierre - Makiso,,,,,pepfar.655,rmPsFrtIlAo,57c5a303-8d32-41df-bbd4-5462ca22f545
+Gfekx7eAhNw,Tshopo,Tshopo,Kisangani,Mangobo,Fedi ,Fedi,,,,,pepfar.664,vHWnvpjMGzF,6c6c0c1d-5f21-4de4-9076-fd06070e267c
+VJnwYSvjQcn,Tshopo,Tshopo,Kisangani,Mangobo,Kondima,Kondima,,,,,pepfar.662,vHWnvpjMGzF,c304a03d-1507-4801-90df-1583f62b7743
+KpAOKvMKKHv,Tshopo,Tshopo,Kisangani,Mangobo,Mangobo HGR,Mangobo,28.10553,-0.30821,populated place,Mangobo,pepfar.660,vHWnvpjMGzF,26f042d9-4e0a-437e-aad9-585f28a17eeb
+tDx9aMKrAyA,Tshopo,Tshopo,Kisangani,Mangobo,Matete,Matete,15.35751,-4.38484,third-order administrative division,Matete,pepfar.663,vHWnvpjMGzF,cc80599a-6214-4d39-a5bc-64499128c522
+zqEvOeMKWKc,Tshopo,Tshopo,Kisangani,Mangobo,Musa (Sotexki),Musa (Sotexki),,,,,pepfar.661,vHWnvpjMGzF,fe2cc6b0-051a-4f8b-ac12-b5ae98264e0a
+Wa6xAXxGlpd,Tshopo,Tshopo,Kisangani,Mangobo,Uzima ,Uzima,,,,,pepfar.665,vHWnvpjMGzF,39c3f966-3ea5-4816-a413-aba4a1ee3466
+Q0yFToj4cCb,Tshopo,Tshopo,Kisangani,Tshopo,Mbilinga,Mbilinga,,,,,pepfar.669,M2jD7cHaJne,d02ef25e-243d-4c2d-af78-a92f60fe1edf
+H9pdBzm11rk,Tshopo,Tshopo,Kisangani,Tshopo,St Joseph - Tshopo,St Joseph - Tshopo,,,,,pepfar.670,M2jD7cHaJne,3f2b6854-c220-49d0-a557-9d57b3aadd17
+sBJzbJKnibx,Tshopo,Tshopo,Makiso,Makiso,Mokela ,Mokela,27.57443,1.9531,populated place,Mokepa,pepfar.646,zhuMEJrr6HV,c665b61b-5dcb-41e3-b139-8ef9c922694e
+MFNMxMOOnfA,Tshopo,Tshopo,Makiso,Makiso,TBD1 - Makiso,Makiso,18.46667,-4.63333,populated place,Makoso,NULL,zhuMEJrr6HV,4791898f-91e3-4a26-acec-9ebd7f3bf6ee
+ZVCWZpo6rZ5,Tshopo,Tshopo,Makiso,Makiso,TBD2 - Makiso,Makiso,18.46667,-4.63333,populated place,Makoso,NULL,zhuMEJrr6HV,5d20d98d-e08c-49e5-a98a-f2fe329e92f7
+JHKqQdBIp9n,Tshopo,Tshopo,Makiso,Makiso,TBD3 - Makiso,Makiso,18.46667,-4.63333,populated place,Makoso,NULL,zhuMEJrr6HV,1505d3d2-42eb-49f2-904a-356c0129f6c8
+HUOpchyRQCR,Tshopo,Tshopo,Makiso,Makiso,TBD4 - Makiso,Makiso,18.46667,-4.63333,populated place,Makoso,NULL,zhuMEJrr6HV,4dd0d850-0700-443b-8b8d-e53c65e1f4f9
+rDoaz45z3UX,Tshopo,Tshopo,Tshopo,Kabondo,Gloria,Gloria,,,,,pepfar.627,rR7XAyBxEzK,568f95dc-ec94-45f4-b2f1-35e36336cb01
+DimWQVrzmXa,Tshopo,Tshopo,Tshopo,Kabondo,Mokili,Mokili,27.11674,4.18976,populated place,Mokili,pepfar.628,rR7XAyBxEzK,be4ae434-0d42-497f-8424-eb4a364d419f
+EzhBLo8crQK,Tshopo,Tshopo,Tshopo,Kabondo,Mungano,Mungano,,,,,pepfar.629,rR7XAyBxEzK,5f077a29-3d04-4024-8313-b15fccb19af3
+UIn4zkqzpIe,Tshopo,Tshopo,Tshopo,Kabondo,St Camile,St Camile,,,,,pepfar.630,rR7XAyBxEzK,902c57bb-8950-4087-85b9-3fd0bcb81c39
+Kzx0WPI3BqC,Tshopo,Tshopo,Tshopo,Kabondo,Ya Biso,Ya Biso,,,,,pepfar.631,rR7XAyBxEzK,ae41554f-23b8-491f-8da1-4e08ad7688b6
+IPCVZBBx68Y,Tshopo,Tshopo,Tshopo,Kabondo,Zawadi,Zawadi,23.04195,4.27362,stream,Zaladi,pepfar.632,rR7XAyBxEzK,4a7b261d-cb69-4354-a2f3-6d4efbcb7b49
+vAn77pv4xj1,Tshopo,Tshopo,Tshopo,Makiso-Kisangani,Bondeko - Makiso,Bondeko - Makiso,,,,,pepfar.641,WkfwHc6P3TR,d11c2edf-0532-43e8-9e21-43e8ce78b15d
+alqMKTHzbC2,Tshopo,Tshopo,Tshopo,Makiso-Kisangani,Celpa - Makiso,Celpa - Makiso,,,,,pepfar.642,WkfwHc6P3TR,eff78d5d-7b1e-4463-90ea-b5f339da9473
+MBJj30UObKD,Tshopo,Tshopo,Tshopo,Makiso-Kisangani,Dela Paix,Dela Paix,,,,,pepfar.643,WkfwHc6P3TR,7af1cb8d-d6d1-42e4-882b-32952641b982
+yHjpE9IvL4u,Tshopo,Tshopo,Tshopo,Makiso-Kisangani,Nehema,Nehema,27.97864,2.4816,stream,Nelema,pepfar.644,WkfwHc6P3TR,664f7b92-7ed8-428e-b085-644ef3031976
+B73CwOelKCi,Tshopo,Tshopo,Tshopo,Makiso-Kisangani,Segama,Segama,23.86529,3.40919,stream,Seguma,pepfar.645,WkfwHc6P3TR,d5d929e3-8e85-4f56-9857-9d8ba70d067b
+Vzkb5FetsHJ,Tshopo,Tshopo,Tshopo,Mangobo,Bombula,Bombula,23.95,0.86667,populated place,Bombula,pepfar.657,KME93F5QCWx,11eb1874-0c5c-4781-9d8c-0c5036ca88a1
+PnSwC4r0gDP,Tshopo,Tshopo,Tshopo,Mangobo,Mwilu,Mwilu,19.97601,-4.94945,stream,Mwilu,pepfar.658,KME93F5QCWx,154e674d-e200-4301-a3d3-96b5d0239939
+xpQ6kq2LZaZ,Tshopo,Tshopo,Tshopo,Mangobo,Salama,Salama,27.25,-3.96667,populated place,Salamu,pepfar.659,KME93F5QCWx,3eab3228-045b-4fe7-9c5d-29cea197b721
+BgWqp0mMgfS,Tshopo,Tshopo,Tshopo,Tshopo,Bavatete,Bavatete,,,,,NULL,u9K1JkKRIBV,8c3bce89-2a29-4236-9079-9a79c7162edd
+VGrH8F0VyJn,Tshopo,Tshopo,Tshopo,Tshopo,Bon Samaritian,Bon Samaritian,,,,,pepfar.666,u9K1JkKRIBV,77b9fa79-30b4-412f-b736-48180f0c73e6
+KeiXSJSbQda,Tshopo,Tshopo,Tshopo,Tshopo,Lobiko - Tshopo,Lobiko - Tshopo,,,,,pepfar.671,u9K1JkKRIBV,46ab476a-7f2b-47a5-9de5-b5f31cb30685
+H9TJCRNwwbJ,Tshopo,Tshopo,Tshopo,Tshopo,Malkia,Malkia,,,,,pepfar.667,u9K1JkKRIBV,27fcb990-aa63-4675-9ff3-025cbf268e3d
+FHtgz67Yy5O,Tshopo,Tshopo,Tshopo,Tshopo,Malkiya,Malkiya,,,,,NULL,u9K1JkKRIBV,450ab448-a322-4fd4-aac8-9740de1e07f8
+Af4LyoKhOAF,Tshopo,Tshopo,Tshopo,Tshopo,Masina,Masina,15.39139,-4.38361,populated place,Masina,NULL,u9K1JkKRIBV,74abcd07-1995-4553-90a2-4dee8e2bd4d8
+hwZzaPVbv8I,Tshopo,Tshopo,Tshopo,Tshopo,Pumuzika,Pumuzika,27.46667,-1.63333,populated place,Pumuzika,NULL,u9K1JkKRIBV,00acbe51-d75e-4ab2-94b8-0df145880e66
+AxVwneg2mxB,Tshopo,Tshopo,Tshopo,Tshopo,St Pierre,St Pierre,,,,,NULL,u9K1JkKRIBV,787ab4d5-e987-446b-8c78-83141a8d6310
+pduCP0ozEVt,Tshopo,Tshopo,Tshopo,Tshopo,Tshopo 2 (Pharmat),Tshopo 2 (Pharmat),,,,,pepfar.672,u9K1JkKRIBV,24094149-e895-4634-8ac1-81b9a9cafbe7
+tZJG8hy35xc,Tshopo,Tshopo,Tshopo,Tshopo,Tuungane,Tuungane,,,,,pepfar.668,u9K1JkKRIBV,b411fb68-cd7f-4fd4-9d02-ba9defafbfd3
